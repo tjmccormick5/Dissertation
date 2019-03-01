@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="0429E92E-59A0-4C09-B995-B39CE5667C14">
+            <Title>Cognitive Control in L2</Title>
+            <Synopsis>Cognitive individual differences in language acquisition have been an area of much research within psycholinguistics (Pozzan &amp; Trueswell, 2015; Kroll &amp; Sunderman, 2005, among many others), neuroimaging and cognitive psychology (Abutalebi, 2008; Abutalebi &amp; Green, 2007; Indefry, 2006, among others), and Second Language Acquisition (Serafini &amp; Sanz, 2016; Linck et al., 2013, among many others). Many of these studies observe a decreased role of cognitive control as language proficiency develops. Consider the behavioral data collected in previous studies, for example. Serafini &amp; Sanz (2016) conducted a longitudinal study with proficiency as an independent variable. They measured the role of cognitive functions in the acquisition process by comparing automaticity of ten different morphological structures in Spanish, two cognitive variables (cognitive control  and phonological short term memory), within different proficiency groups (beginning, intermediate and advanced learners). The authors only observed robust correlations between linguistic performance and cognitive variables for beginners, while more advanced learners revealed far fewer significant correlations between linguistic and non-linguistic performance, suggesting a decreased reliance on the ability to encode, store and retrieve information as exposure and proficiency increase in classroom learning. While Serafini and Sanz (2016) are among the very first researchers to specifically compare the role of cognitive functions at various points of L2 proficiency using the same assessment measures, their findings do fit within a long line of previous research supporting the finding of a differential influence of cognitive function at early but not later stages of language learning (compare Linck &amp; Weiss, 2011; Sagarra &amp; Herschensohn, 2010, vs. Grey, Cox, Serafini &amp; Sanz, 2015; however, see Linck et al., 2013 for a review). These behavioral findings are also supported by neuroimaging data. Collecting neuroimaging data from several fMRI and PET studies of neural structures during bilingual processing, Abutalebi (2008) observed increased activity of the LIFG and other prefrontal structures critical for cognitive control among participants processing a non-native, non-proficient language. The suggestion of this finding is that, as the speaker attains a sufficient level of L2 proficiency, the extra activity fades (Abutalebi &amp; Green, 2007). Bear in mind that the role of cognitive control is to promote relevant information (or suppress irrelevant information), which in the case of bilingual processing can be considered competing forms and linguistic structures, i.e. conflict between languages, and as repeated activation strengthens these networks, the need for cognitive control to intervene decreases (Fedorenko &amp; Thompson-Schill, 2014). Researchers disagree whether this decreased activity is a convergence to the activity involved in L1 activity or if the decreased activity is better understood within the notion of neural organizational efficiency (Indefrey, 2006). However, for our purposes, the observation that there is decreased hemodynamic activity is sufficient to suggest that cognitive control’s influence lessens with increased L2 proficiency. 
+As Serafini and Sanz (2016) observe, their study is among the first to use the same targets across proficiencies to compare cognitive engagement at different stages of learning, but it considers a range of ten linguistic structures. They motivate the need to isolate fewer specific targets to increase subsequent studies’ power. One target that can serve to fill this gap is syntactic temporary ambiguities, which have been shown to directly engage cognitive control. The authors encourage maintaining a cross-sectional study, which would permit a more detailed understanding of the working memory constructs involved at increasing levels of L2 development. Recent research in child language processing conducted by Pozzan and Trueswell (2015) has also motivated this same cross-sectional study of cognitive control and ambiguity resolution, creating an opportunity for cross-field communication, as will be discussed below.
+</Synopsis>
+            <Text>Cognitive individual differences in language acquisition have been an area of much research within psycholinguistics (Pozzan &amp; Trueswell, 2015; Kroll &amp; Sunderman, 2005, among many others), neuroimaging and cognitive psychology (Abutalebi, 2008; Abutalebi &amp; Green, 2007; Indefry, 2006, among others), and Second Language Acquisition (Serafini &amp; Sanz, 2016; Linck et al., 2013, among many others). Many of these studies observe a decreased role of cognitive control as language proficiency develops. Consider the behavioral data collected in previous studies, for example. Serafini &amp; Sanz (2016) conducted a longitudinal study with proficiency as an independent variable. They measured the role of cognitive functions in the acquisition process by comparing automaticity of ten different morphological structures in Spanish, two cognitive variables (cognitive control  and phonological short term memory), within different proficiency groups (beginning, intermediate and advanced learners). The authors only observed robust correlations between linguistic performance and cognitive variables for beginners, while more advanced learners revealed far fewer significant correlations between linguistic and non-linguistic performance, suggesting a decreased reliance on the ability to encode, store and retrieve information as exposure and proficiency increase in classroom learning. While Serafini and Sanz (2016) are among the very first researchers to specifically compare the role of cognitive functions at various points of L2 proficiency using the same assessment measures, their findings do fit within a long line of previous research supporting the finding of a differential influence of cognitive function at early but not later stages of language learning (compare Linck &amp; Weiss, 2011; Sagarra &amp; Herschensohn, 2010, vs. Grey, Cox, Serafini &amp; Sanz, 2015; however, see Linck et al., 2013 for a review). These behavioral findings are also supported by neuroimaging data. Collecting neuroimaging data from several fMRI and PET studies of neural structures during bilingual processing, Abutalebi (2008) observed increased activity of the LIFG and other prefrontal structures critical for cognitive control among participants processing a non-native, non-proficient language. The suggestion of this finding is that, as the speaker attains a sufficient level of L2 proficiency, the extra activity fades (Abutalebi &amp; Green, 2007). Bear in mind that the role of cognitive control is to promote relevant information (or suppress irrelevant information), which in the case of bilingual processing can be considered competing forms and linguistic structures, i.e. conflict between languages, and as repeated activation strengthens these networks, the need for cognitive control to intervene decreases (Fedorenko &amp; Thompson-Schill, 2014). Researchers disagree whether this decreased activity is a convergence to the activity involved in L1 activity or if the decreased activity is better understood within the notion of neural organizational efficiency (Indefrey, 2006). However, for our purposes, the observation that there is decreased hemodynamic activity is sufficient to suggest that cognitive control’s influence lessens with increased L2 proficiency. 
+As Serafini and Sanz (2016) observe, their study is among the first to use the same targets across proficiencies to compare cognitive engagement at different stages of learning, but it considers a range of ten linguistic structures. They motivate the need to isolate fewer specific targets to increase subsequent studies’ power. One target that can serve to fill this gap is syntactic temporary ambiguities, which have been shown to directly engage cognitive control. The authors encourage maintaining a cross-sectional study, which would permit a more detailed understanding of the working memory constructs involved at increasing levels of L2 development. Recent research in child language processing conducted by Pozzan and Trueswell (2015) has also motivated this same cross-sectional study of cognitive control and ambiguity resolution, creating an opportunity for cross-field communication, as will be discussed below.
+
+
+
+
+
+
+
+Second Language Acquisition and Cognitive Individual Differences
+Cognitive individual differences in language acquisition have been an area of much research within psycholinguistics (Pozzan &amp; Trueswell, 2015; Kroll &amp; Sunderman, 2005, among many others), neuroimaging and cognitive psychology (Abutalebi, 2008; Abutalebi &amp; Green, 2007; Indefry, 2006, among others), and Second Language Acquisition (Serafini &amp; Sanz, 2016; Linck et al., 2013, among many others). Many of these studies observe a decreased role of cognitive control as language proficiency develops. Consider the behavioral data collected in previous studies, for example. Serafini &amp; Sanz (2016) conducted a longitudinal study with proficiency as an independent variable. They measured the role of cognitive functions in the acquisition process by comparing automaticity of ten different morphological structures in Spanish, two cognitive variables (cognitive control and phonological short term memory), within different proficiency groups (beginning, intermediate and advanced learners). The authors only observed robust correlations between linguistic performance and cognitive variables for beginners, while more advanced learners revealed far fewer significant correlations between linguistic and non-linguistic performance, suggesting a decreased reliance on the ability to encode, store and retrieve information as exposure and proficiency increase in classroom learning. While Serafini and Sanz (2016) are among the very first researchers to specifically compare the role of cognitive functions at various points of L2 proficiency using the same assessment measures, their findings do fit within a long line of previous research supporting the finding of a differential influence of cognitive function at early but not later stages of language learning (compare Linck &amp; Weiss, 2011; Sagarra &amp; Herschensohn, 2010, vs. Grey, Cox, Serafini &amp; Sanz, 2015; however, see Linck et al., 2013 for a review).
+These behavioral findings are also supported by neuroimaging data. Collecting neuroimaging data from several fMRI and PET studies of neural structures during bilingual processing, Abutalebi (2008) observed increased activity of the LIFG and other prefrontal structures critical for cognitive control among participants processing a non-native, non-proficient language. The suggestion of this finding is that, as the speaker attains a sufficient level of L2 proficiency, the extra activity fades (Abutalebi &amp; Green, 2007). Bear in mind that the role of cognitive control is to promote relevant information (or suppress irrelevant information), which in the case of bilingual processing can be considered competing forms and linguistic structures, i.e. conflict between languages, and as repeated activation strengthens these networks, the need for cognitive control to intervene decreases (Fedorenko &amp; Thompson-Schill, 2014). Researchers disagree whether this decreased activity is a convergence to the activity involved in L1 activity or if the decreased activity is better understood within the notion of neural organizational efficiency (Indefrey, 2006). However, for our purposes, the observation that there is decreased hemodynamic activity is sufficient to suggest that cognitive control’s influence lessens with increased L2 proficiency. 
+As Serafini and Sanz (2016) observe, their study is among the first to use the same targets across proficiencies to compare cognitive engagement at different stages of learning, but it considers a range of ten linguistic structures. They motivate the need to isolate fewer specific targets to increase subsequent studies’ power. One target that can serve to fill this gap is syntactic temporary ambiguities, which have been shown to directly engage cognitive control. The authors encourage maintaining a cross-sectional study, which would permit a more detailed understanding of the working memory constructs involved at increasing levels of L2 development. Recent research in child language processing conducted by Pozzan and Trueswell (2015) has also motivated this same cross-sectional study of cognitive control and ambiguity resolution, creating an opportunity for cross-field communication, as will be discussed below.
+
+
+
+
+
+
+
+2. Cognitive Control and Proficiency in Emergent Bilinguals
+	The role of cognitive control during the acquisition of a second language (L2) is an area of SLA that merits more research. This brain region associated with cognitive control has been shown through neuroimaging studies to play a major role during the processing of a non-native, non-highly proficient language, a role which becomes less significant during proficient or native processing (Abutalebi, 2008), but how cognitive control differences affect linguistic performance at these different stages of learning is still very unclear. While many studies consider working memory capacity’s (WMC) role in different aspects of L2 development (e.g. Baralt, 2010), WMC is a more monolithic cognitive variable, while cognitive control is a specific capacity within working memory with a specific linguistic correlate: conflict resolution. The very few studies that have compared the role of cognitive control at different proficiency levels are presented below. 
+One study that has considered L2 development’s correlation with cognitive control differences considered Chinese learners of English who differed in L2 proficiency and/or in language interpreting experience (Dong &amp; Xie, 2014). However, despite significant differences between groups in most measures of development (verbal fluency, general proficiency, language exposure), there was an overall homogeneity between these groups and their experiences. For example, all groups were English language or English interpretation majors at Guangdong University; self-reported exposure to English ranged from 41.5-48.4% (where the sum of Chinese and English exposure is 100%); and self-reported proficiency averages, from 0-40, were also quite similar for three of the four groups, though all but two differed statistically (21.5 &gt; 23.2, 22.9 &gt; 29.8). Results indicate that flanker task performance did not differ according to English proficiency, although the data does trend towards favoring higher proficiency, regardless of flanker condition. The raw scores are presented in Table 1. However, the ANOVA revealed no main effect for participant group, nor an interaction between participant group and condition.
+Table 1. Raw data from flanker task of Dong &amp; Xie (2014) for each of four groups.
+
+Noninterp-1 n = 45
+Noninterp-2 n = 43
+Interp-1 n = 46
+Interp-2 n = 20
+Neutral
+543 (103)
+536 (91)
+533 (76)
+518 (90)
+Incongruent
+583 (111)
+578 (87)
+569 (83)
+548 (67)
+Congruent
+528 (119)
+516 (81)
+518 (73)
+497 (86)
+Difference
+55 ms (36)
+62 ms (50)
+51 ms (33)
+51 ms (35)
+ Linck and Weiss (2011) investigated the role of WMC and cognitive control on the acquisition of a L2 over the course of a semester, and found that WMC became a stronger predictor of success in language performance at the end of the semester, while cognitive control was not a predictor. While this finding is often used to discuss proficiency and cognitive capacity, there are issues with this interpretation, since beginning German and intermediate Spanish participants were combined when no group differences were found in the model’s predictor or criterion measures in the preliminary analyses, even though these participants completed different language measures (German: fifteen fill-in-the blank items from University of Wisconsin placement exam; Spanish: grammar and vocabulary section of the Diplomas de Español como Lengua Extranjera, DELE). Therefore, the role of cognitive variables during a semester of classroom-learning may be hidden by other confounds, especially considering the findings of Serafini and Sanz that succeeded this study.
+As outlined in my previous doctoral exam, Serafini and Sanz (2016) conducted a longitudinal study considering proficiency, cognitive capacities, and gains during one semester on ten different morphological structures in Spanish. The robust correlations between linguistic gains and cognitive variables were only observed for beginners, while cognitive capacity differences revealed no significant correlations with gains in the advanced learners. This study’s findings therefore help interpret the neuroimaging findings of Abutalebi (2008): cognitive capacity may play a major role in language learning at low proficiencies, but as the L2 becomes more proficient, cognitive capacity advantages begin to wane. Serafini and Sanz (2016) are the first researchers, to my knowledge, to compare the role of cognitive functions at several highly distinct points of L2 proficiency (beginner, intermediate and advanced). However, the researchers motivate the use of fewer targets to investigate more deeply how cognitive variables play a role in the second language learning process. 
+</Text>
+            <Comments>The authors call this variable executive function, a term that, like inhibitory control, has been used in the research to refer to the same psychological component (see Novick et al., 2014). Again, for the sake of consistency, I use ‘cognitive control’, given that its role in the current study will be to resolve conflict.</Comments>
+        </Document>
+        <Document ID="F0DBA201-28D7-403C-BFC0-AA6E1CD96C5D">
+            <Title>Research Steps</Title>
+            <Text>Steps for Research Design
+	1.	Frame the question you wish to ask  
+	2.	Find the appropriate data to answer the question
+	3.	Choose the analytical method appropriate to answer question
+	4.	Process the data using the chosen method
+	5.	Review and question the results (refining the approach by collecting more data and improving the analysis)
+	6.	Present your results using the appropriate media
+
+</Text>
+        </Document>
+        <Document ID="5BE46066-00B9-492F-9F20-F80950330172">
+            <Title>JARED FEEDBACK - Second language proficiency and the role of cognitive control  in the revision of L2 syntactic garden-paths </Title>
+            <Text>Second language proficiency and the role of cognitive control 
+in the revision of L2 syntactic garden-paths
+Abstract
+	In a recent study, Pozzan and Trueswell (2015) found that adult learners of a second language (L2) at an intermediate proficiency level have difficulty abandoning initial interpretations of syntactic garden-path sentences, much the same as those difficulties observed with children in their native language (Trueswell, Sekerina, Hill and Logrip, 1999). This processing difference in children has been associated with immature cognitive skills (Choi and Trueswell, 2010; Novick, Trueswell, and Thompson-Schill, 2005; Woodard, Pozzan, and Trueswell, 2016). Similar difficulty has also been observed in patients with impaired cognitive skills due to brain damage (Novick, Kan, Trueswell, and Thompson-Schill, 2009). Pozzan and Trueswell (2015) propose that the domain-general cognitive abilities involved in garden-path recovery, which are either immature in the case of children or impaired in the case of patients, may likewise be diminished for language learners of low proficiency levels when processing the L2, resulting in the similar findings among the three populations. They base this suggestion on the higher recruitment of the brain structures related to cognitive control (namely the LIFG and other prefrontal structures) that has been observed during low-proficiency language processing, as compared to first language (L1) and high-proficiency L2 processing, which do not show the same level of recruitment (Abutalebi, 2008). However, due to the limited scope of the study, Pozzan and Trueswell (2015) are not able to make this claim beyond speculation. The current study looks to answer several of the questions that emerge from their important contribution.  
+Introduction
+Many sources of information must be coordinated and processed during the online interpretation of sentences by a healthy adult in his or her first language (L1), a process that only becomes more difficult in other populations that must coordinate this information while dealing with certain handicaps, such as impaired cognitive skills as a result of brain damage (in the case of patients) or immature cognitive skill development (in the case of children). 
+Several studies that have found decreased performance by children on language processing experiments have attributed it to their immature domain-general cognitive skills (Choi and Trueswell, 2010; Novick et al., 2005; Woodard et al., 2016).  However, the issue arises that children are developing their linguistic system while their cognitive skills develop. Recent research attempting to tease apart results associated with their emerging language skills from those associated with protracted maturation of prefrontal cortical has led to questions concerning the interaction of these two systems. Following a rich strand of research that utilizes the visual world paradigm to understand language processing through participant behavior and eye movements, Pozzan and Trueswell (2015) question whether the differences seen in child processing of syntactic garden-paths is better explained as a L1 learner phenomenon or as a result of this incomplete prefrontal development observed in children. They reason that L1 and adult L2 learners will obtain similar results if these differences are a learner phenomenon, while children will differ from adults (both native and L2 speakers) if these differences relate to immature cognitive skills. 
+In their study, native speakers of English and intermediate L2 learners of English (L1 = Italian) participated in a two by two study design, allowing researchers to consider the role of syntactic ambiguity (temporarily ambiguous vs. unambiguous) and referential context (1-referent vs 2-referent visual world). In this incarnation of the visual world, each scene presented to the participant was divided into four quadrants, each quadrant containing either the target referent, a nontarget competitor referent, the correct goal, or an incorrect goal (see Fig. 1)
+
+Figure 1. From Pozzan and Trueswell (2015). Example of visual world for "Put the frog on the napkin onto the box" in 2-Referent (1A) and 1-Referent (1B) contexts.
+Participants were presented with a temporarily ambiguous sentence, as in (1), or an unambiguous sentence, as in (2):
+	•	Put the frog on the napkin onto the box.
+	•	Put the frog that’s on the napkin onto the box.
+During processing of the temporarily ambiguous sentence, the first prepositional phrase encountered tends to be interpreted as the goal rather than the modifier, but upon reaching the disambiguating information, the parser must reinterpret the sentence’s syntactic structure to reach the appropriate interpretation.  To aid in reaching this appropriate interpretation, participants can use referential cues that Pozzan and Trueswell incorporated into their design. In the case of the 1-referent condition (i.e. 1B), the use of the definite article is effectively required and so does not provide any clues to disambiguation, but in the case of the 2-referent condition (i.e. 1A), the definite article is atypical (in both Italian and English) unless followed by modifying information, so the definite article can serve as a hint that the subsequent information will modify the noun, not serve as a goal.
+The results obtained were mixed: L2 adults’ act-out and eye-movement data reflected increased consideration of the incorrect goal, the same patterns observed in children in terms of the difficulty they presented in the abandonment of incorrect parses in temporarily ambiguous sentences once the disambiguating information became available (Trueswell et al., 1999), while the native adults are far superior in reanalyzing the structure at this point. However, L2 adults used the referential context to aid their processing, similar to native adults and “in sharp contrast with the pattern observed for children” (Pozzan and Trueswell, 2015, p. 7). The use of referential context to aid interpretation in the 2-referent conditions may relate to L1-transfer, given that in both English and Italian the use of a definite article (“Put the frog…”) would be anomalous without modifying information to indicate a specific target, but it may also relate to increased sensitivity to contextual information that children do not utilize (Pan &amp; Felser, 2011), a question that remains for future research.
+	Although the researchers found that adult L2 learners behaved like children in terms of their increased consideration of the incorrect goal, and therefore, their ability to abandon initial interpretations upon reaching the disambiguating information, the study only involves one proficiency level: intermediate (as assessed by the oral comprehension subtest of the Michigan Test of English Language Proficiency). Therefore, this decreased ability for revision at one particular stage of L2 development may be the result of task difficulty for the intermediate learner. The authors suggest an alternate possible explanation by relating their findings to neuroimaging data from Abutalebi (2008), who found increased activity of the LIFG and other prefrontal structures involved in cognitive control during processing of a non-native, non-proficient language, which could suggest that the L2 speakers involved in Pozzan and Trueswell’s study may have shown revision difficulties similar to populations with immature or impaired cognitive skills because their own cognitive skills may have been engaged to the point of depletion, resulting from processing a non-highly proficient L2. A differential role of other cognitive functions has been observed in behavioral studies, as well. For example, the facilitative effects of executive function and phonological short term memory on the automatization of L2 grammatical structures have been shown to diminish as proficiency level increases (Serafini &amp; Sanz, 2015)
+	Conflict detection has been shown to trigger sustained cognitive control; for example, the Stroop effect can be lessened for an incongruent trial if it is is preceded by another conflict trial as opposed to a congruent/nonconflict trial (Freitas, Bahar, Yang, and Banai, 2007; Kerns, Cohen, MacDonald, III, Cho, Stenger, and Carter, 2004). This pattern has also been observed in adults’ performance on cross-task conflict adaptation tasks, where recovery from an incorrect interpretation due to syntactic ambiguity is facilitated when the language-comprehension trial is preceded by a conflict Stroop trial (Hsu and Novick, 2016). A different pattern has been observed in children: while conflict adaptation has been found within cognitive control tasks (e.g. incongruent Stroop trial preceding incongruent Stroop trial), in a cross-task design, recovery from syntactic misanalysis is less likely following an incongruent Stroop trial (Huang, Gerard, Hsu, Kowalski, and Novick, 2016). The authors suggest this may be due either to the depletion of immature cognitive control resources or to task difficulty fatigue. 
+	The current study develops out of these findings that cognitive-control engagement can be manipulated by altering the type of conflict of a preceding trial. By introducing varying proficiency levels and a cross-task conflict adaptation paradigm, we can determine whether conflict-control engagement can account for the non-native-like findings observed in Pozzan and Trueswell (2015). Given that the LIFG and other prefrontal structures are significantly less engaged during highly proficient L2 processing than during non-highly proficient L2 processing (Abutalebi, 2008), the conflict adaptation paradigm should result in a triggering of sustained cognitive control for near-natives, resulting in improved performance on a language-comprehension trial that follows an incongruent Stroop trial. Meanwhile, if cognitive control is already engaged for beginner and intermediate learners, performance should not improve to the same extent following incongruent trials, and in fact, may decrease following these trials due to depletion of resources or fatigue, as observed in children in Huang et al. (2016). However, if the differences observed between native and intermediate L2 speakers in Pozzan and Truewswell (2015) relate exclusively to proficiency-related task difficulty, all groups should behave similarly when exposed to the cross-task conflict adaptation.
+Research Questions
+	•	Does cognitive control engagement during trial n-1 differentially affect online revision abilities (as measured by eye-movement) of distinct proficiency levels during the processing of a syntactic garden-path sentence? 
+	•	Does cognitive control engagement during trial n-1 differentially affect distinct proficiency levels’ final interpretation of syntactic garden-path sentence (as measured by actions toward the incorrect goal)? 
+Experimental Investigation
+Method
+Participants
+Data will be collected from participants at four levels of Spanish proficiency: (1) native Spanish speakers whose L2 is English; (2) near-native L2 speakers of Spanish whose L1 is English and who use Spanish on daily basis in their professional and/or personal lives; (3) students enrolled in Intermediate Spanish 2 at Georgetown University, whose L1 is English; and (4) students enrolled in Beginner Spanish 2 at Georgetown University, whose L1 is English. Spanish was chosen because its word order in these sentences corresponds to that of English and Italian, including the prepositional phrase attachment ambiguity. It was chosen over Italian in order to ensure a large sample size and this wide array of learner proficiency.
+Materials and Procedures
+To test whether cognitive-control engagement affects distinct proficiency levels differentially during the processing of syntactic garden-paths, the design of the task will incorporate a cross-task conflict adaptation paradigm, following Hsu and Novick (2016), pseudorandomly interleaving a Stroop task with a language-comprehension task involving syntactic ambiguity, similar to the task used in Pozzan &amp; Trueswell (2015). This task requires that participants listen to an imperative sentence relating to a simultaneously-presented scene shown on a computer screen and that they carry out the action as instructed. Like other studies in this strand, such as Pozzan and Trueswell (2015) and Hsu and Novick (2016), the current study will measure (1) final interpretations of the trial sentences by considering participants’ placement of the target within the visual world; and (2) online processing of the sentences by recording eye movements during presentation of the sentence. Importantly, some of the sentences contain a syntactic structure that results in a temporary ambiguity, while the remainder does not contain any ambiguity. With the study design’s pseudorandom interleaving, each critical trial is preceded by a Stroop trial.
+
+Figure 2: Experimental Protocol
+Stroop task. Following Hsu &amp; Novick’s (2015) cross-task conflict adaptation paradigm, the Stroop task used will separate representational conflict and response conflict. This follows from Milham, Banich, Webb, Barad, Cohen, Wszalek, and Kramer (2001), who found that the involvement of areas of the brain involved in attentional control differs according to the type of conflict, and so, since response conflict may engage mechanisms that are not involved in the representational conflict encountered in the language task, it is important to separate the two types of conflict. 
+	Participants will first be trained to use a three-button mouse to respond to the Stroop trials, where each button represents an ink color (blue, green, or yellow). Participants will then respond to 144 Stroop trials (72 congruent and 72 incongruent trials) before beginning the interleaved Stroop and language-comprehension trials. In the congruent Stroop trials, participants are presented with a color name in the corresponding ink color (“blue” in blue ink, “green” in green ink, or “yellow” in yellow ink), and they must respond by clicking the button that corresponds to the ink color presented. It is in the incongruent trials where the separation of representational and response conflicts is paramount. Here, only response-ineligible color names are used (“brown”, “orange”, and “red”), though they are presented in the same ink colors as the congruent trials. In other words, the response options never vary.  
+Language-comprehension task. Participants will be presented with a visual world and will be instructed to move the target referent to the correct goal (see Fig. 2). The 2-referent condition included in Pozzan and Trueswell (2015) will not be included in the current study, as it was observed that adults in their study used referential context to aid in processing, regardless of proficiency level
+
+Figure 3. From Hsu and Novick (2015). Experimental design. Visual worlds had a target (here, "frog") and a nontarget competitor (here, "horse"). Although Pozzan and Trueswell (2015) incorporated a 1-referent condition (such as the scene shown) and a 2-referent condition (see Figure 1A), the current study removes the referential context condition, as it was observed that adults use referential context regardless of proficiency level.
+Corresponding to the scene in Figure 2, a temporarily ambiguous Spanish sentence is provided in (3) and an unambiguous sentence in (4): 
+	•	Pon 	la rana    	en la servilleta   	en la caja.
+Put  	the frog  	on the napkin	on the box.
+	•	Pon 	la rana que está en la servilleta 	en la caja.
+Put 	the frog that is on the napkin 	on the box. 
+As seen in Figure 2, there is both an empty napkin and a napkin on which a frog is seated. Therefore, in the case of sentence (3), listeners temporarily interpret the modifier “en la servilleta” incorrectly as a goal. However, the disambiguating prepositional phrase “en la caja” triggers a reanalysis of the structure of the sentence, a revision of their initial interpretation. Within this particular paradigm, eye movements to the goal (here, la caja) have robustly been shown to be delayed due to the initial incorrect interpretation of the modifier (here, the napkin), compared to those sentences that do not have this temporary ambiguity, such as (4) (Hsu and Novick, 2016; Novick, Thompson-Schill, &amp; Trueswell, 2008; Spivey, Tanenhaus, Eberhard, and Sedivy, 2002, among many others). As mentioned above, children (Trueswell et al., 1999) and L2 learners of intermediate proficiency (Pozzan &amp; Trueswell, 2015) have been shown to have more difficulty revising this initial interpretation than native adults, both in the behavioral and eye-tracking data. 
+Following the tokens used by Hsu and Novick (2016), the participants will hear both the ambiguous (x = 24) and unambiguous (x = 24) sentences, as well as interspersed filler sentences (x = 48). These fillers would (a) also follow Stroop trials and (b) contain imperative instructions, but importantly, contrary to the ambiguous sentences, (c) the first postnominal prepositional phrase would be the goal and not a modifier. These three characteristics would contribute to preventing participants from learning during the exposure that the first prepositional phrase is a modifier (See Fine, Jaeger, Farmer, &amp; Qian, 2013). An example of a filler is included in (5):
+	•	Pon 	el caballo	en la caja.
+Put	the horse		on the box.
+Following previous studies using this paradigm, item locations (e.g., target, competitor, incorrect goal, correct goal) and item ambiguity will be counterbalanced. 
+Interleaved Stroop-to-sentence sequences. During the test phase, either a congruent or incongruent Stroop item (trial n − 1) will precede either an ambiguous or unambiguous sentence (trial n). The counterbalancing of these items will result in 12 trials for each of the four conditions in this two by two design. However, additional filler Stroop and language-comprehension trials will prevent the participants from predicting task type. The interleaving of the Stroop and language-comprehension tasks will allow for the observation of whether detection of conflict initiates and sustains cognitive control during the subsequent language-comprehension task, especially when revision of an incorrect initial interpretation is necessary in an ambiguous sentence trial.
+Hypothesized Results and Discussion
+	Given Abutalebi’s (2008) finding that structures related to cognitive control are not engaged for highly proficient L2 speakers or native speakers as they are for non-proficient speakers, it is my prediction that the two higher-proficiency groups will perform similarly in each condition, and that the Stroop-conflict detection will activate cognitive control for the subsequent trial, thus improving recovery from misinterpretation of ambiguous sentences. However, according to the extant data, there are three likely results that may be obtained for the beginner and intermediate participants. To facilitate discussion, each of these hypothetical situations will be discussed separately. 
+“Depletion” of Cognitive Control. Given the recruitment of the LIFG and other prefrontal structures observed by Abutalebi (2008) during the processing of a non-proficient L2, the demands of using an L2 at these lower proficiency levels may result in a carryover effect, a refractory period during which cognitive control resources available to the participants are effectively temporarily depleted by the high cognitive load. This would relate to the results obtained in child processing by Huang and colleagues (2016). An interaction would be observed between Stroop congruency on trial n-1 and proficiency level, as hypothetically depicted in Figure 4.
+
+ 
+Figure 4
+“Maximally Engaged” Cognitive Control. This alternate possible set of results assumes that cognitive control of low proficiency participants is engaged throughout the study due to the use of the L2, and so preceding incongruent Stroop trials would not result in improved recovery from misanalysis for these participants. Therefore, hypothetically, an interaction would be observed between Stroop congruency on trial n-1 and proficiency level, as the high proficiency groups would perform better following incongruent Stroop trials, as depicted in Figure 5, while the low proficiency groups would not perform differently under the two conditions.
+ 
+Figure 5
+“Heightened Engagement” of Cognitive Control. This final alternative would show that cognitive control engagement can be manipulated to aid recovery from misinterpretation for each proficiency level (See Fig. 6). This finding would suggest that the increased consideration of the incorrect goal in Pozzan and Trueswell (2015) is a reflection of proficiency level and not overloaded cognitive control. Each proficiency level would respond to the cross-task manipulation similarly, and so perform similarly under both ambiguous conditions.
+
+
+Figure 6
+
+References
+Abutalebi, J. (2008). Neural aspects of second language representation and language control. 
+Acta Psychologica, 128, 466–78. 
+Choi, Y., &amp; Trueswell, J.C. (2010). Children‘s (in)ability to recover from garden-paths in a verb-
+final language: Evidence for developing control in sentence processing. Journal of Experimental Child Psychology, 106, 41–61. 
+Fine, A. B., Jaeger, T. F., Farmer, T. A., &amp; Qian, T. (2013). Rapid expectation adaptation during 
+syntactic comprehension. PLoS ONE, 8(10), Article e77661. doi:10.1371/journal.pone.0077661 
+Freitas, A. L., Bahar, M., Yang, S., &amp; Banai, R. (2007). Contextual adjustments in cognitive 
+control across tasks. Psychological Science, 18, 1040–1043. 
+Huang, Y. T., Gerard, J., Hsu, N., Kowalski, A., &amp; Novick, J.M. (2016). Cognitive control 
+effects on the kindergarten path: Separating correlation from causation. Poster presented at the 29th annual CUNY Conference on Human Sentence Processing, Gainesville, FL. 
+Hsu, N. &amp; Novick, J. M. (2016). Dynamic Engagement of Cognitive Control Modulates 
+Recovery From Misinterpretation During Real-Time Language Processing. Psychological 
+Science, 1-11.
+Kerns, J. G., Cohen, J. D., MacDonald, A. W., III, Cho, R. Y., Stenger, V. A., &amp; Carter, C. S. 
+(2004). Anterior cingulate conflict monitoring and adjustments in control. Science, 303, 1023–1026. 
+Milham, M. P., Banich, M. T., Webb, A., Barad, V., Cohen, N. J., Wszalek, T., &amp; Kramer, A. F. 
+(2001). The relative involvement of anterior cingulate and prefrontal cortex in attentional control depends on nature of conflict. Cognitive Brain Research, 12, 467–473. 
+Novick, J. M., Kan, I. P., Trueswell, J. C., &amp; Thompson-Schill, S. L. (2009). A case for conflict 
+across multiple domains: Memory and language impairments following damage to ventrolateral prefrontal cortex. Cognitive Neuropsychology, 26, 527–567. 
+Novick, J. M., Thompson-Schill, S. L., &amp; Trueswell, J. C. (2008). Putting lexical constraints in 
+context into the visual-world paradigm. Cognition, 107, 850–903. 
+Novick, J. M., Trueswell, J. C., &amp; Thompson-Schill, S. L. (2005). Cognitive control and parsing: 
+Reexamining the role of Broca’s area in sentence comprehension. Cognitive, Affective &amp; Behavioral Neuroscience, 5, 263–281. 
+Pan, H.-Y., &amp; C. Felser (2011). Referential context effects in L2 ambiguity resolution: Evidence 
+from self-paced reading. Lingua, 121, 221–236. 
+Pozzan, L. &amp; Trueswell, J. (2015). Second language processing and revision of garden-path 
+sentences: a visual word study. Bilingualism: Language and Cognition, Available on CJO 2015 doi:10.1017/S1366728915000838 
+Spivey, M. J., Tanenhaus, M. K., Eberhard, K. M., &amp; Sedivy, J. C. (2002). Eye movements and 
+spoken language comprehension: Effects of visual context on syntactic ambiguity resolution. Cognitive Psychology, 45, 447–481. 
+Trueswell, J. C., Sekerina, I., Hill, N. M., &amp; Logrip, M. L. (1999). The kindergarten-path effect: 
+studying on-line sentence processing in young children. Cognition, 73, 89– 134. 
+Woodard, K., Pozzan, L., &amp; Trueswell, J.C. (2016). Taking your own path: Individual 
+differences in executive function and language processing skills in child learners. Journal of Experimental Child Psychology, 141, 187–209. 
+
+</Text>
+        </Document>
+        <Document ID="CD7BE103-BA69-43C1-BF54-74C18D9A6A6F">
+            <Title>Ambiguity Resolution (bi- and multilingual)</Title>
+            <Synopsis>In addition to cognitive control’s role in ambiguity resolution, it is also of considerable interest during the acquisition of a second language (L2). In brain imaging studies, increased activity is observed in the prefrontal brain region associated with cognitive control during the processing of a non-native, non-highly proficient language (Abutalebi, 2008). However, this increased activity is not observed during proficient or native processing. Behavioral data suggest a similar tendency. In a longitudinal study investigating the relationship between cognitive variables and the automaticity of morphosyntactic structures in Spanish for L2 learners, Serafini and Sanz (2016) found robust correlations for learners at beginning proficiency levels. Advanced learners do not obtain this same relationship between linguistic and non-linguistic behavior. This suggests a decreased reliance on cognitive control at increasing proficiency levels (probably meaning less effort needed to suppress L1 at higher L2 proficiencies). These findings fit within a long line of previous research revealing a differential influence of cognitive function at early but not later stages of language learning (compare Linck &amp; Weiss, 2011; Sagarra &amp; Herschensohn, 2010, vs. Grey, Cox, Serafini &amp; Sanz, 2015; however, see Linck et al., 2013 for a review).
+What do we know? What do people investigate instead of this question? WHAT ARE THE PROBLEMS? WHERE ARE THE QUESTIONS?
+</Synopsis>
+            <Text>In addition to cognitive control’s role in ambiguity resolution, it is also of considerable interest during the acquisition of a second language (L2). In brain imaging studies, increased activity is observed in the prefrontal brain region associated with cognitive control during the processing of a non-native, non-highly proficient language (Abutalebi, 2008). However, this increased activity is not observed during proficient or native processing. Behavioral data suggest a similar tendency. In a longitudinal study investigating the relationship between cognitive variables and the automaticity of morphosyntactic structures in Spanish for L2 learners, Serafini and Sanz (2016) found robust correlations for learners at beginning proficiency levels. Advanced learners do not obtain this same relationship between linguistic and non-linguistic behavior. This suggests a decreased reliance on cognitive control at increasing proficiency levels (probably meaning less effort needed to suppress L1 at higher L2 proficiencies). These findings fit within a long line of previous research revealing a differential influence of cognitive function at early but not later stages of language learning (compare Linck &amp; Weiss, 2011; Sagarra &amp; Herschensohn, 2010, vs. Grey, Cox, Serafini &amp; Sanz, 2015; however, see Linck et al., 2013 for a review).
+
+
+
+
+
+
+
+L2 Sentence Processing and Ambiguity Resolution
+	Children present a particular difficulty abandoning an initial interpretation when parsing a temporarily ambiguous sentence (Trueswell, Sekerina, Hill &amp; Logrip, 1999). This so-called ‘kindergarten-path effect’ has been associated with immature cognitive control as a result of protracted maturation of prefrontal cortical structures (Choi &amp; Trueswell, 2010; Novick et al., 2005; Woodard, Pozzan, &amp; Trueswell, 2016). Difficulty of the same nature has been observed in patients with impaired cognitive control due to brain damage in these same areas (Novick et al., 2009). 
+In a recent study, however, Pozzan and Trueswell (2015) question whether the difficulties observed in child processing of syntactic garden-paths are better explained as a L1 learner phenomenon, rather than due to immature cognitive control. In order to investigate this, they study L2 learners’ reanalysis of the same garden-paths used to study child disambiguation. They reason that children will differ from adults (both native and L2 speakers) if these differences relate to immature cognitive control, but that L1 and adult L2 learners will obtain similar results if these difficulties are a learner phenomenon. Importantly, however, a third possibility exists: that L2 processing impinges on cognitive control, which makes learners perform like children during disambiguation. That is, similar results may be obtained, not because the structure is difficult for both sets of learners but because low-proficiency L2 processing occupies cognitive control abilities in adults (Abutalebi, 2008), making comprehension run aground in cases when revision is needed, as is the case in children for whom these same abilities have not yet fully developed. 
+In their study, native speakers of English and intermediate L2 learners of English (L1 = Italian) participated in a two-by-two study design, allowing researchers to consider the role of syntactic ambiguity (temporarily ambiguous vs. unambiguous) and referential context (though this condition is not pertinent to the current proposal, as L2 adults performed like L1 adults in this aspect). Participants listened to temporarily ambiguous sentences, as in (5a), or unambiguous sentences, as in (5b), while also presented with a coordinating visual world (such as 5c) with a target (frog on the napkin), a goal (box), a competitor-target (frog on the phonebook or eagle on the phonebook, depending on referential condition), and a distractor-goal (napkin):
+5a.	Put the frog on the napkin onto the box.		(Pozzan &amp; Trueswell, 2015)
+5b. 	Put the frog that’s on the napkin onto the box.
+
+#
+5c. 
+
+During processing of the temporarily ambiguous sentence, the first prepositional phrase encountered tends to be interpreted as the goal rather than the modifier, but upon reaching the disambiguating information, the parser must reinterpret the sentence’s syntactic structure to reach the appropriate interpretation.  
+L2 adults’ behavioral and eye-movement data reflected increased consideration of the incorrect goal. This is the same patterns observed in children during the abandonment of incorrect parses (Trueswell et al., 1999), while native adults are far superior in reanalyzing the structure at this point. However, as noted, the L2 adults did use referential context while processing, while children do not to the same extent, providing evidence that the mature parser does indeed incorporate more information into the one-pass analysis, which is foundational for visual-world studies (e.g. Trueswell et al., 1999; Tanenhaus et al., 1995). The researchers suggest that the similarity of the parsing difficulties may be attributable to fully engaged cognitive control in the low-proficiency L2 participants. However, due to the limited scope of the study, they cannot make this conclusion beyond speculation. The study aimed to fill a gap in the research on child language processing. In turn, it opened a gap in L2 sentence processing. Because the researchers only included L2 learners of one proficiency level (intermediate, as assessed by the oral comprehension subtest of the Michigan Test of English Language Proficiency), the decreased ability for revision of the garden-paths may be the result of task difficulty for the intermediate learner. Pozzan and Trueswell open the opportunity to study how successful disambiguation of syntactic garden-paths at different stages of L2 proficiency correlates to performance on the ANT, in order to understand the correlation between cognitive control and L2 sentence processing of ambiguities across the learning process.  However, as will be motivated below, through a slight modification of the paradigm to modulate conflict engagement, a second study can also make causational claims about cognitive control’s involvement in this process. 
+</Text>
+        </Document>
+        <Document ID="30B2E82B-39E4-421C-B528-A1943A472A21">
+            <Title>Abstract</Title>
+            <Text>Abstract
+Insert the abstract here. The abstract should summarize your research in clear and concise language. You should write your abstract with the idea that it may be the only section that will actually be read and the sole representation of your research. 
+
+Some primary factors that you should consider for the abstract:
+
+Motivation: Why do we care?
+Problem statement: What are you trying to address?
+Approach: How will you address the problem?
+Results: What is the answer or expected answer?
+Conclusions: What are the implications?</Text>
+            <Notes>The abstract should summarize your research in clear and concise language. You should write your abstract with the idea that it may be the only section that will actually be read and the sole representation of your research. 
+
+Some primary factors that you should consider for the abstract:
+
+Motivation: Why do we care?
+Problem statement: What are you trying to address?
+Approach: How will you address the problem?
+Results: What is the answer or expected answer?
+Conclusions: What are the implications?</Notes>
+        </Document>
+        <Document ID="D35A038A-8155-4E8F-8F0F-41CD5AD9C605">
+            <Title>PhD Exam #2 (McCormick 1_6_17)</Title>
+            <Text>
+
+
+
+
+
+Doctoral Exam #2
+The role of Cognitive Control and Proficiency 
+in Second Language and Heritage Language Syntactic Disambiguation
+Timothy McCormick
+Georgetown University
+Department of Spanish &amp; Portuguese
+
+
+1. Introduction
+	As presented in my previous doctoral exam, cognitive control is directly involved in both non-linguistic and linguistic ambiguity resolution. Recent research shows that language proficiency and language dominance and switching are also closely related to cognitive control. Recent work in psycholinguistics has developed a method to engage cognitive control in order to directly improve syntactic ambiguity resolution, provided that cognitive control resources are not already maximally engaged, at which point, the engagement has no effect or even worsens ambiguity resolution. The current work proposes three studies that utilize variations of this methodology to further investigate the relationships between second language proficiency and cognitive control and between bilingual language use/dominance and cognitive control. 
+2. Cognitive Control and Proficiency in Emergent Bilinguals
+	The role of cognitive control during the acquisition of a second language (L2) is an area of SLA that merits more research. This brain region associated with cognitive control has been shown through neuroimaging studies to play a major role during the processing of a non-native, non-highly proficient language, a role which becomes less significant during proficient or native processing (Abutalebi, 2008), but how cognitive control differences affect linguistic performance at these different stages of learning is still very unclear. While many studies consider working memory capacity’s (WMC) role in different aspects of L2 development (e.g. Baralt, 2010), WMC is a more monolithic cognitive variable, while cognitive control is a specific capacity within working memory with a specific linguistic correlate: conflict resolution. The very few studies that have compared the role of cognitive control at different proficiency levels are presented below. 
+One study that has considered L2 development’s correlation with cognitive control differences considered Chinese learners of English who differed in L2 proficiency and/or in language interpreting experience (Dong &amp; Xie, 2014). However, despite significant differences between groups in most measures of development (verbal fluency, general proficiency, language exposure), there was an overall homogeneity between these groups and their experiences. For example, all groups were English language or English interpretation majors at Guangdong University; self-reported exposure to English ranged from 41.5-48.4% (where the sum of Chinese and English exposure is 100%); and self-reported proficiency averages, from 0-40, were also quite similar for three of the four groups, though all but two differed statistically (21.5 &gt; 23.2, 22.9 &gt; 29.8). Results indicate that flanker task performance did not differ according to English proficiency, although the data does trend towards favoring higher proficiency, regardless of flanker condition. The raw scores are presented in Table 1. However, the ANOVA revealed no main effect for participant group, nor an interaction between participant group and condition.
+Table 1. Raw data from flanker task of Dong &amp; Xie (2014) for each of four groups.
+
+Noninterp-1 n = 45
+Noninterp-2 n = 43
+Interp-1 n = 46
+Interp-2 n = 20
+Neutral
+543 (103)
+536 (91)
+533 (76)
+518 (90)
+Incongruent
+583 (111)
+578 (87)
+569 (83)
+548 (67)
+Congruent
+528 (119)
+516 (81)
+518 (73)
+497 (86)
+Difference
+55 ms (36)
+62 ms (50)
+51 ms (33)
+51 ms (35)
+ Linck and Weiss (2011) investigated the role of WMC and cognitive control on the acquisition of a L2 over the course of a semester, and found that WMC became a stronger predictor of success in language performance at the end of the semester, while cognitive control was not a predictor. While this finding is often used to discuss proficiency and cognitive capacity, there are issues with this interpretation, since beginning German and intermediate Spanish participants were combined when no group differences were found in the model’s predictor or criterion measures in the preliminary analyses, even though these participants completed different language measures (German: fifteen fill-in-the blank items from University of Wisconsin placement exam; Spanish: grammar and vocabulary section of the Diplomas de Español como Lengua Extranjera, DELE). Therefore, the role of cognitive variables during a semester of classroom-learning may be hidden by other confounds, especially considering the findings of Serafini and Sanz that succeeded this study.
+As outlined in my previous doctoral exam, Serafini and Sanz (2016) conducted a longitudinal study considering proficiency, cognitive capacities, and gains during one semester on ten different morphological structures in Spanish. The robust correlations between linguistic gains and cognitive variables were only observed for beginners, while cognitive capacity differences revealed no significant correlations with gains in the advanced learners. This study’s findings therefore help interpret the neuroimaging findings of Abutalebi (2008): cognitive capacity may play a major role in language learning at low proficiencies, but as the L2 becomes more proficient, cognitive capacity advantages begin to wane. Serafini and Sanz (2016) are the first researchers, to my knowledge, to compare the role of cognitive functions at several highly distinct points of L2 proficiency (beginner, intermediate and advanced). However, the researchers motivate the use of fewer targets to investigate more deeply how cognitive variables play a role in the second language learning process. 
+Syntactic ambiguity resolution, directly associated with cognitive control, is one target that can answer that call of Serafini and Sanz (2016). As mentioned in the previous exam, Pozzan and Trueswell (2015) observed childlike resolution of syntactic ambiguity by adult intermediate learners of English (L1: Italian), despite high familiarity with the structure in the first language. Relating their findings to those of Abutalebi (2008), who observed higher cognitive control demand during non-highly proficient L2 processing, they suggest this finding may relate to a lack of available cognitive control resources to intercede during reanalysis, which would explain the childlike performance. However, because they only consider intermediate learners and do not collect any cognitive control measures, they cannot conclude with certainty any such relationship. Given the differential role of cognitive control during linguistic performance that has been observed in the literature outlined above, the assumption of Pozzan and Trueswell likely reflects some relationship between these variables. However, more research is in order to justify this claim empirically. A study to respond to this need is outlined in Section 6.1, and the corresponding testable hypothesis in Section 5.1.
+3. Conflict Adaptation: Stroop effects and Cognitive Control
+The Stroop effect is one of the most important findings in modern experimental psychology. Since it was first published in English over 80 years ago, the Stroop task has been the subject of hundreds of studies and has been used in many distinct branches of cognitive science (MacLeod, 1991). In the original of its many incarnations, the Stroop task requires participants to respond to the color of the ink in which a color-word is written, rather than reading the color-word itself (Stroop, 1935). Manipulations of the Stroop task all hinge on presenting conflicting information to examine the role of interference in different cognitive processes. The consensus of these Stroop-like interference tasks is that an incongruent trial is more difficult than a congruent trial, revealed by slower reaction times (RTs) and higher error rates (see MacLeod, 1991 for review). 
+Variations of the color-word Stroop task often present a center target flanked by either congruent or incongruent distractors, and the Stroop effect of such flanker tasks is relative to the congruency of the flanking elements. For example, the Attentional Network Task (ANT), discussed in my first doctoral exam, is a flanker task utilizing a rightward or leftward central arrow with either congruent or incongruent flanking arrows, where participants must resist responding to the four flanking arrows and respond strictly based on the center arrow’s direction. The ANT was developed to mitigate linguistic interference (by eliminating words from the paradigm) and isolate cognitive control procedures (Fan, McCandliss, Sommer, Raz &amp; Posner, 2002). Due to the simple design utilizing non-linguistic conflict, the task can be used with populations with known executive function problems, such as children, patients and monkeys, and can be used to make conclusions about domain-general cognitive functions.
+Much of the literature that utilizes Stroop-like tasks has considered the role of the anterior cingular cortex (ACC) and cognitive control in the Stroop effect. The shared resources involved in ACC activation, cognitive control, and conflict resolution have been sufficiently well documented in the literature (see MacLeod, 1991 for review). And while it has been understood for many years that the conflict involved in Stroop trials engages cognitive control, researchers have also understood that the Stroop effect extends beyond a trial-by-trial basis. The detection of conflict during a given Stroop trial has been shown to initiate sustained cognitive control procedures, specifically conflict resolution, that continue into the subsequent trial. For example, Logan and Zbrodoff (1979) observed that manipulations to the probability of conflict stimuli modulate the Stroop effect, where higher probabilities of conflictive trials result in proportionally faster responses on incongruent trials. Likewise, Gratton, Coles and Donchin (1992) showed that the preceding trial’s congruency contributes to the speed of a response, specifically that an incongruent trial immediately preceding an incongruent critical trial (i-I) leads to faster responses than congruent trials immediately preceding incongruent critical trials (c-I). Theoretically, these results have been attributed to economy: sustaining cognitive control attenuates the cost of subsequent conflict resolution.
+It should be noted that this finding was questioned by Mayr, Awh and Laurey (2003), who observe the same phenomenon as a case of stimulus-specific priming (the “repetition-priming” account). In a conceptual replication of Gratton and colleagues’ study, they found that faster reactions were associated with pairs of trials in which the latter’s target was a repetition of the former’s target. However, subsequent research confirmed the earlier “conflict monitoring” account, specifically because sequential dependency effects do present themselves regardless of repetition of stimuli (Ullsperger, Bylsma &amp; Botvinick, 2005). For example, in the second experiment of Ullsperger and colleagues (2005), the conflict adaptation effect was still observed when participants were presented with a numerical, underlined single-digit target between 1-9 with 4 competing flankers, also a single digit.  This paradigm eliminated the risk of priming because the researchers were able to exclude trial-to-trial repetition. While the researchers found slower reaction times than in the standard two-option directional flanker task, they attribute this to a speed-accuracy tradeoff associated with nine options that did not diminish the effect of conflict engagement. In other words, preceding trial incongruency in this experiment still resulted in a conflict adaptation effect, where i-I RTs were 26% faster than c-I RTs.
+3.1 Conflict Adaptation and Dynamic (Cross-Task) Engagement of Cognitive Control 
+Non-linguistic conflict resolution has been shown to co-localize within the ACC and to share cognitive control resources with linguistic conflict (Thompson-Schill, Bedny, &amp; Goldberg, 2005; Novick, Kan, Trueswell &amp; Thompson-Schill, 2009; January, Trueswell, Thompson-Schill, 2009, Teubner-Rhodes et al., 2016). These shared resources have also been observed in correlational behavioral studies in children with protracted cognitive control development (Trueswell, Sekerina, Hill &amp; Logrip, 1999); and in patients with prefrontal damage affecting cognitive control (Novick et al., 2009). Domain-general cognitive control is suggested to be responsible for both behavioral adjustments to resolve conflict during information processing (Botvinick, Braver, Barch, Carter &amp; Cohen, 2001) and reanalysis following incorrect linguistic interpretation (Novick, Trueswell &amp; Thompson-Schill, 2005). 
+Despite this, it is only very recently that researchers used the principles of sustained cognitive control engagement to develop a cross-task conflict adaptation paradigm. Hsu and Novick (2016) developed such a paradigm that allows the observance of causal relationships between non-linguistic conflict detection and linguistic conflict resolution. Specifically, the researchers conducted a 2x2 experiment on healthy adult sentence processing by pseudo-randomly presenting congruent and incongruent Stroop trials and temporarily ambiguous and unambiguous sentences. Here, a temporary ambiguity is a sentence that forces a particular incorrect initial analysis that must later be reanalyzed as more of the sentence is processed, such as their example (1), which can be compared to the unambiguous example in (2):
+(1)	Put the dumpling on the plate into the wok.
+(2)	Put the dumpling that’s on the plate into the wok.
+In their study, Hsu and Novick asked participants to carry out the instructions they heard, always similar to those in (1) or (2), within a visual world represented on a computer screen. During processing, participants interpret the first prepositional phrase (the reduced relative clause that modifies the noun) as the goal due to the verb put’s subcategorization (Spivey, Tanenhaus, Eberhard &amp; Sedivy, 2002). However, when they reach the second prepositional phrase, a reanalysis must take place. As participants engaged with the visual world, researchers collected both act-out moves and eye movement data. Hsu and Novick interleaved Stroop and linguistic trials and observed that Stroop incongruity in the preceding trial reduced the participants’ commitment to the initial incorrect parse of ambiguities when compared to Stroop congruity, in terms of both behavioral and eye-tracking data. It is important to bear in mind that critical analyses in this study were pairings of conditions: incongruent-ambiguous (i-A) and congruent-ambiguous (c-A). 
+In both the action responses and the fixations to the correct goal, a significant sentence-type-by-Stroop-trial-type interaction was encountered, whereby participants made fewer performance errors or fewer fixations to the incorrect goal on i-A trials than on c-A trials. As expected, Stroop incongruity did not modulate consideration of the correct goal in the unambiguous linguistic condition (i-U did not statistically differ from c-U), likely because there was no conflict to be resolved and online interpretation and action responses approached ceiling. These results show that cognitive-control engagement helps listeners abandon incorrect parses earlier and correctly carry out instructions without the same degree of error. 
+Thus, returning to the questions outlined in Section 2, this cross-task conflict adaptation paradigm can be used to test how cognitive control plays a differential role during ambiguity processing at different L2 proficiencies. When cognitive control resources are maximally engaged, as is the case in child- and patient-processing, i-A trials will not differ from c-U trials. However, where cognitive control resources are available, i-A trials will show earlier disambiguation. This hypothesis is further outlined in Section 5.2, and a description of a study to test it is outlined further in Section 6.2.
+4. Language dominance and Cognitive Control in Heritage Language Bilinguals
+In recent years, fields such as education, linguistics, sociology and psychology have rekindled interest in heritage language (HL) speakers. Montrul (2010) defines heritage speaker, broadly, as “child or adult members of a linguistic minority who grew up exposed to their home language and the majority language” (p. 4). Theoretical and sociolinguistic research has granted researchers better understanding of the grammars of HL speakers, including vocabulary, morphology, syntax and semantics, (for reviews, see: Montrul, 2010; Brinton, Kagan, &amp; Bauckus, 2008), while other areas such as instructional strategies have also received considerable attention (Montrul &amp; Bowles, 2008, for example). The role of metalinguistic knowledge has been a major focus of this pedagogical HL research, often comparing HL learners and L2 learners. For example, Bowles (2011) evaluated both groups in an array of tasks that ranged from more to less explicit. She found that HL learners performed better than L2 learners on tasks requiring less metalinguistic or explicit knowledge, while L2 learners outperformed HLLs on those with more metalinguistic knowledge requirements.
+However, despite the increased interest in these many different aspects of HL language use and control, online sentence processing has been much less studied, which is particularly interesting given that language processing paradigms, such as the visual world paradigm used in Hsu and Novick (2016) or Pozzan and Trueswell (2015), often require effectively no metalinguistic knowledge and can serve to ask relevant questions regarding language interpretation and processing. 
+In a certain regard, this dearth of literature is more appropriately a failure to distinguish between distinct populations of bilinguals in language processing literature; as Torres and Sanz (2016) note, heritage speakers are often grouped under the umbrella term ‘bilingual’ in psycholinguistic studies. In other words, while researchers do in fact study heritage language speakers, they do not clearly distinguish them from other bilingual populations. However, this is a flawed practice because different environments contribute to the development of distinct language profiles (Hilchey &amp; Klein, 2011; Bialystok, 2009). For example, research suggests that bilingualism at the individual level can manifest differently according to external conditions such as societal bilingualism (Sanz, 2000). Thus, biliterate Catalan-Spanish speakers in Barcelona, for example, are inherently different from many heritage speakers of Spanish in the United States, where Spanish is a minority language and where many heritage speakers never attain literacy in their HL. 
+	In fact, the term ‘heritage bilingual’ is itself an umbrella term. Most adult heritage speakers are dominant in the majority language, while minority or heritage language skills vary considerably from speaker to speaker (Montrul, 2010), to the extent that some heritage speakers are limited to receptive skills while others show advanced oral and written skills. The development of these skills often depends on the community and the language, in addition to the sequence of bilingualism: simultaneous bilinguals who learn both the majority and minority languages at the same time tend to show less dominance of the minority language when compared to sequential bilinguals who exclusively use the minority language for a longer period and therefore generate greater exposure (Montrul, 2008, 2010). 
+Torres and Sanz (2016) are the first researchers to isolate this language profile to investigate the ‘bilingual advantage’ in cognitive control as it pertains to HL speakers. The authors find no differences between HL bilinguals and late emergent bilinguals of Spanish in performance on the ANT, although they do note that data trended to show that HL bilinguals resolved conflict easier and at fewer cross-task costs. Despite this trend, these results are surprising when situated within the ‘bilingual advantage’ research of Bialystok and colleagues, outlined in my first doctoral exam, which tends to situate this advantage as dependent on pre-critical period bilingualism (see Bialystok, 2007, 2009, for reviews). According to the findings of Torres and Sanz, however, HL and emergent-L2 bilinguals performed comparably on the ANT, which raises several questions for further research. 
+For example, the study by Torres and Sanz (2016) and a previous study by Costa, Hernández and Sebastián-Gallés (2008) both compare early bilinguals to a group that is not fluent in a L2. In Costa and colleague’s (2008) study, bilingual, biliterate Catalan-Spanish speakers were compared to Tenerife Spanish speakers, who are considered ‘monolingual’ in the study despite certain knowledge of a L2 because of foreign language courses they took in school. Meanwhile, Torres and Sanz (2016) compared heritage Spanish speakers in the U.S. to classroom learners of Spanish. Both teams of researchers gathered information through questionnaires regarding their participants’ language skills. Costa and colleagues (2008) gathered information on a five-point Likert scale, from 0 (‘very bad’) to 4 (‘native speaker’), while Torres and Sanz (2016) gathered similar information on a six-point Likert scale, from 1 (‘beginning’) to 6 (‘native’). Although these scores aren’t comparable because they are different scales, some observations can be made from the relative scores, so for ease of comparability, this data was converted to a ratio and is presented in Table 2. Torres and Sanz also utilize a modified version of the DELE to evaluate proficiency of both their groups, following previous HL research such as Montrul (2005), the sections of which were chosen to specifically tap skills that are shared by both sets of learners without presenting tasks that are highly explicit, to favor the L2 learners, or highly implicit, to favor the HL speakers. The results of the modified DELE are also presented in Table 2.
+While only Torres and Sanz used such a standardized test, some observances can be drawn from the self-reported data. The heritage speakers rate themselves as far less confident in all four language skills than their bilingual Catalan peers. In addition, despite Costa and colleagues’ classification of the comparison group as ‘monolingual’, they rate themselves as moderately capable in a second language. In fact, they rate themselves higher than the emergent L2 bilinguals in Torres and Sanz’s study do on their respective scales. 
+Another important consideration is the power of the respective studies. While Catalan-Spanish bilinguals are quite accessible in Barcelona, heritage Spanish speakers of the narrow definition that Torres and Sanz assume are much more difficult to gather, which may contribute to the different sizes of the participant pools. Therefore, the findings of the U.S.-heritage population may not have enough power to reveal a significant difference, especially if advantages are on a gradient scale reflecting bilingual proficiency. 
+Table 2. Language skills of participants in two ‘bilingual advantage’ studies
+
+Costa et al. (2008)
+Torres &amp; Sanz (2016)
+Language Skill
+‘Monolingual’
+(n = 100)
+Bilingual
+(n = 100)
+Emergent (L2)
+(n = 23)
+Heritage
+(n = 25)
+
+Spanish
+
+L2
+
+Spanish
+Catalan
+English
+Spanish
+English
+Spanish
+Comprehension
+1.0
+.575
+1.0
+1.0
+.98
+.40
+.97
+.86
+Reading
+1.0
+.60
+1.0
+1.0
+.98
+.42
+.97
+.76
+Speaking
+1.0
+.50
+.95
+1.0
+.98
+.30
+.92
+.74
+Pronunciation
+1.0
+.475
+.925
+1.0
+--
+--
+--
+--
+Writing
+1.0
+.525
+.975
+.975
+.98
+.44
+.90
+.60
+DELE (placement)
+--
+--
+         .504
+          (low)
+      .650
+         (intermediate)
+
+To recap, in a study of cognitive control using the ANT, biliterate-bilingual Catalan-Spanish speakers who report themselves to be ‘native’ or native-like in all four linguistic skills outperformed Tenerife Spanish speakers whose dominance of a L2 was moderate, but not ‘very bad’. A separate study using the same task considered U.S.-English Spanish-heritage speakers, whose skills as a group ranged from intermediate (DELE) to native-like (listening comprehension). The heritage speakers did not outperform late bilinguals, who were self-rated as intermediate in all linguistic skills but who received a ‘low’ according to the DELE.   
+These findings are far from cut-and-dry, and as mentioned earlier, should not be compared. We can, however, observe them simultaneously, and as they stand, a nuanced analysis would suggest that variables such as language use, proficiency, dominance and literacy may play a role in capturing the subtle cognitive performance advantages at hand in bilingual research. However, to my knowledge, only one other study has considered how low literacy may play a role in the development of the oft-cited ‘bilingual advantage’ in cognitive control. Finger, Billig and Scholl (2011) investigated performance on a non-linguistic and linguistic inhibitory control task in older-adult (60-71 years old) population of Hunsrückisch-Portuguese bilingual farmers with low levels of education and a monolingual comparison group with otherwise similar characteristics. The authors cite a bilingual advantage in the non-linguistic task but not in the Stroop task due to linguistic interference, which follows their hypothesis and previous research (e.g. Bialystok, Craik and Luk, 2008). However, the authors advise that the results should be taken with caution because of the population size (21 participants in each group). In addition, both groups had very little exposure to written sources on a daily basis, according to the authors. This study also considers older adults’ cognitive control, but no study to my knowledge has considered the role of literacy on cognitive control advantages within young adult bilinguals, who are at the height of their cognitive control (Bialystok, Craik &amp; Luk, 2008). It is quite clear, then, that more studies are needed to explore the interaction between cognitive variables and language use and dominance within heritage bilinguals, especially since we know that increased language use is a clear predictor of maintenance and complete acquisition of the heritage language (Montrul, 2005).
+One strategy to tease apart the findings presented above is to conduct a study that looks at these language skills as continuous variables in order to investigate whether there is a connection between cognitive control and language dominance or use. Many of these studies try to control these characteristics in their samples, a wise methodological practice but one that may not reveal all of the subtle distinctions within the bilingual population. Considering these phenomena as continuous variables is a particularly promising strategy given that recent studies suggest that frequent language switching is a leading cause of the bilingual advantage in conflict monitoring. For example, a recent neuroimaging study showed that it is precisely language switching trials that activate the same brain region as conflicting flanker trials (Abutalebi et al., 2012). Likewise, in a study on code-switching, using a modification of the cross-task conflict adaptation task first developed in this same lab, heritage speakers were presented with a block of flanker trials following each of four separate blocks of linguistic ambiguities, including English, Spanish, inter-orational and intra-orational code-switches (Adler, in progress). Reaction times and accuracy following the intra-orational code-switches improved beyond the other three blocks, suggesting that this frequent alternating may engage cognitive control resources beyond other language tasks. As Teubner-Rhodes and colleagues suggest, “bilingualism apparently acts as a form of cognitive control training, bestowing measurable advantages in conflict monitoring – the ability to detect unpredictable conflict and flexibly adjust recruitment of cognitive control resources” (Teubner-Rhodes et al., 2016, p. 227). 
+In addition, these studies reveal that cognitive control resources are particularly engaged during certain linguistic tasks, which also raises the question of how the groups in Costa et al. (2008) and Torres and Sanz (2016), who were alike in terms of education, age and other cognitive factors, might differ in their employment of cognitive control during linguistic conflict resolution. To consider this question, a conflict adaptation task, utilizing a linguistic conflict task modified by a non-linguistic cognitive control task, in the vein of Hsu and Novick (2016) may allow us to observe differences between the heritage and emergent bilinguals of Torres and Sanz (2016) that are hidden or too subtle to observe during a non-linguistic task. A hypothesis concerning these questions is presented in Section 5.3, and a study to test it is outlined in Section 6.3.
+5. Research Questions and Hypotheses
+5.1. Research Questions and Hypothesis regarding Study 1
+1.	RQ1.1: How does L2 proficiency correlate to L2 syntactic ambiguity resolution?
+2.	RQ1.2: How does cognitive control correlate to L2 syntactic ambiguity resolution? 
+3.	RQ1.3: How does cognitive control relate to L2 syntactic ambiguity resolution for learners at different proficiency levels? 
+Given that previous research suggests that the role of cognitive capacities, such as executive function and short-term phonological memory, decreases at increasing levels of proficiency, the working hypothesis of Study 1 is that cognitive control (as measured by the ANT) will play a differential role in ambiguity resolution across proficiency levels. Specifically, use of a the L2 will impinge more on the cognitive control resources available for syntactic ambiguity resolution at low proficiencies than at high proficiencies, meaning that beginner learners’ ANT scores will correlate to faster abandonment of incorrect parses and more accurate behavioral responses, but this advantage for high cognitive control participants will diminish with increasing proficiency, as cognitive control resources become available for adult-like parsing.
+5.2. Research Questions and Hypothesis regarding Study 2
+4.	RQ2.1: How does cognitive control engagement affect L2 syntactic ambiguity resolution by L2 learners? 
+5.	RQ2.2: How do different reactions to cognitive control engagement during L2 syntactic ambiguity resolution relate to different proficiency levels of learners?
+Given that previous research suggests a greater role of cognitive control at lower levels of proficiency, the working hypothesis of Study 2 is that cognitive control engagement will play a differential role in ambiguity resolution across proficiency levels. Specifically, for lower proficiencies, the presentation of an incongruency before critical trials will not facilitate disambiguation, because cognitive control resources will already be engaged, regardless of the congruency of the preceding trial, due to the use of a non-highly proficient second language. However, as cognitive control resources are freed up at higher proficiencies, cognitive control engagement will begin to play more of a role to facilitate disambiguation, approximating native speaker patterns. 
+5.3.	 Research Questions and Hypothesis regarding Study 3
+6.	RQ3.1: How does cognitive control engagement affect syntactic ambiguity resolution by heritage bilinguals?
+7.	RQ3.2: How do different reactions to cognitive control engagement during syntactic ambiguity resolution relate to distinct language profiles?
+Study 3 is more exploratory than Studies 1 and 2. However, given the results of Costa and colleagues (2008), Torres and Sanz (2016), and Adler (in progress), the working hypothesis of Study 3 is that participants who interact the most with the heritage language will be the fastest to process and reanalyze the ambiguities. However, those who engage in the most language switching will respond most to cognitive control engagement (that is, will have the most drastic difference between i-A and c-A trials) because of high cognitive control development associated with frequent language switching (Abutalebi et al., 2012). Because this is the first study of this kind, an alternate possibility is that those who engage in the most language switching will have the most occupied cognitive control resources and therefore, like patients and children, will show less response to the engagement of these resources through an incongruent preceding trial.
+6. Methodology 
+6.1. Study 1
+6.1.1. Participants
+Study 1 will recruit participants from 3 levels of Spanish, each 2 semesters apart (that is, Beginner I, Intermediate I, Advanced I or Beginner II, Intermediate II, Advanced II). Participants will be between 18 and 28 years old, an age range that entails most university students and avoids protracted prefrontal development or cognitive control degeneration. This age range follows Hsu and Novick (2016) and Pozzan and Trueswell (2015). Participants will be included if they are (i) native speakers of English, (ii) learning Spanish as a second language, with limited knowledge of any other language, and (iii) have normal or corrected-to-normal vision, to allow for proper interaction with the eye-tracker and visual world. Approximately 15-20 participants will be needed per group to conduct analyses at power similar to previous studies (Hsu &amp; Novick, 2016, for example).
+6.1.2. Procedures and Materials
+	Participants will complete the experiment in one session, first completing a language background questionnaire and a segment of the DELE, then the Visual World component, and finally the ANT. 
+Attentional Network Task
+To measure cognitive control, participants will complete the ANT (Fan et al., 2002), following Torres and Sanz (2016), Costa and colleagues (2008), and recommendations from Novick (personal communication, April, 2016), to avoid the linguistic interference of the Stroop task that may manifest with second language speakers of varying proficiencies. In the ANT task, participants focus at a center fixation point and are presented with one of four cue conditions (no cue, center cue, double cue, and spatial cue) immediately followed by a flanker type (neutral, congruent, or incongruent). Inter-trial intervals are jittered between three conditions (400 ms, 1000 ms, 1600 ms). Participants must indicate the direction of the central arrow, suppressing the information of flanker arrows, during each trial presentation by pressing a key on the right or left side of the keyboard (‘z’ or ‘/’). The critical comparison for cognitive control psychometry is [no cue, incongruent] vs. [no cue, congruent].
+Visual World Syntactic Disambiguation
+All linguistic stimuli will be presented using Tobii Studio. Eye movements will be recorded using Tobii pro TX300. Previous research has recorded act-out movements using a digital camcorder centered on the computer screen. Alternative option is a four-button mouse situated to represent the four quadrants of the visual world. The linguistic stimuli will be Spanish translations of the stimuli used in previous renditions of this paradigm (Hsu and Novick, 2016; Pozzan and Trueswell, 2015; Trueswell et al., 1999). Specifically, like Hsu and Novick, the current study will not include referential context as a condition, given that Pozzan and Trueswell found that adults use referential context while children do not. Given that no child comparisons will be made, this condition is irrelevant.  
+Participants will listen to spoken instructions and interact with the visual world on a computer screen according to the instructions (that is, act out the instructions). These instructions will be pre-recorded by a female speaker of Mexican Spanish. This dialect was chosen, recognizing that L2 students come from classes with instructors of many dialects, and therefore, a neutral, highly-spoken dialect with a high written grapheme-spoken phone ratio was desired. Of the dialects that meet such a description, Mexican Spanish is likely to accommodate more heritage speakers (for Study 3), given that the great majority of Hispanics in the U.S. are of Mexican descent: 63% in 2010 according to the U.S. Census Bureau (Ennis, Rios-Vargas &amp; Albert, 2011). 
+Instructions in this task consist of single sentences with a “poner” command. Sentences will be temporarily ambiguous (24), unambiguous (24), or filler sentences (48). Sentences will be counterbalanced resulting in two versions of the paradigm: if a sentence is in the unambiguous condition in version 1, it will be in the ambiguous condition in version 2. Item locations will also be counterbalanced, following previous studies using this task. 
+
+
+Examples of the sentences to be used follow (3-5), all of which instruct the participant to act out with respect to a visual world such as the world presented in Figure 1:			
+(3)	Temporarily ambiguous: Pon la rana en la servilleta encima de la caja.
+(4)	Unambiguous: Pon la rana que está en la servilleta encima de la caja.
+(5)	Filler: Pon la rana en la caja.
+As the ambiguous sentences are heard, listeners fixate on the modifier (e.g. ‘en la servilleta’) as if it is the goal until the disambiguating information (e.g. ‘encima de la caja’) is reached, at which point the parser must reanalyze the structure. With such sentences, eye movements to the correct goal are delayed when compared to unambiguous sentences such as (4), which is the critical comparison as it concerns syntactic disambiguation. 
+Language Background Questionnaire and Diplomas de Español como Lengua Extranjera
+The language background questionnaire (LBQ) will gather information relating to participants’ experience with English and Spanish, as well as any potential experience with an additional language. Questions will focus on variables such as age at which second language study began, years studying Spanish, and external exposure to Spanish. In addition to the LBQ, and to ensure that participants from each proficiency are appropriately sorted, a component of the DELE will be completed. The same portion used in Torres &amp; Sanz (2016) will be used, consisting of a fill-in-the-blank vocabulary section and a cloze passage. This will be used for both the L2 and heritage participants (Studies 1-3) because it avoids highly-explicit and highly-implicit knowledge, to accommodate both groups, and to minimize variability of materials between studies. 
+6.2. Study 2
+6.2.1. Participants 
+Study 2 will follow Study 1 chronologically by one semester and will recruit participants from the same level of Spanish as Study 1, with the same inclusion/exclusion criteria. Approximately 15-20 participants will be needed per group to conduct analyses at power similar to previous studies (Hsu &amp; Novick, 2016, for example).
+6.2.2. Procedure and Materials
+Study 2 will be completed in one session. The same LBQ and segment of the DELE will be used as Study 1, both of which will be presented before the interleaved language comprehension-flanker component. The critical difference between Studies 1 and 2 is that Study 2 will interleave flanker tasks within the syntactic disambiguation trials to engage cognitive control before select trials, instead of presenting two distinct tasks. 
+Interleaved flanker-to-sentence sequences
+Before data collection begins, participants will complete a practice phase of both the flanker task (during which they will learn the appropriate response buttons, the different conditions, etc.) and the sentence interpretation task (during which they will learn to act out the instructions, will become familiar with the speaker, etc.). Following the practice phases, the will begin the interleaved task.
+The pseudorandom presentation of trials will allow incongruent or congruent flanker trials to precede ambiguous or unambiguous sentence-interpretation trials, resulting in four conditions: i-A, i-U, c-A, and c-U. Twelve pairs of each condition will be prepared, using the same stimuli as Study 1 and counterbalancing in the same vein, to ensure that if a sentence falls in the i-A condition in version 1, it will fall within the i-U condition in version 2. In addition, the 48 filler sentences of Study 1 and additional flanker trials will serve as distractors to prevent participants from predicting the upcoming trial type or condition. However, the critical comparisons are the four primary conditions listed above. At the end of the study, participants will have engaged with the same number of flanker trials and sentence comprehension trials as the participants in Study 1, though the order of the presentation varies between studies. 
+6.3. Study 3
+6.3.1. Participants
+Study 3 will recruit participants from Georgetown University who speak Spanish and who meet Montrul’s (2008) definition of ‘heritage speaker’ (members of a linguistic minority who grew up exposed to their home language and the majority language) within the age range used in Studies 1 and 2 (18-28 years old). While many studies aim to recruit participants from a very narrowed, controlled linguistic profile of heritage speakers, the current study aims to explore differences between heritage speakers based on differences in the linguistic profile, so language use and proficiency heterogeneity is preferred. However, educational level and other socioeconomic factors may contribute to differences in cognitive control, so Study 3 will aim to limit differences in these variables. Participants will be excluded if they (i) do not have normal or corrected-to-normal vision; (ii) moved to the U.S. after the age of 6;0; or (iii) received formal education in Spanish other than foreign language or heritage language high school or university courses. Exclusion criteria (ii-iii) follow the definitions of second- and third- generation Spanish-speaker in the U.S. proposed by Hualde, Olarrea, Escobar and Travis (2010), combining definitions from Silva-Corvalán (1994) and Otheguy, Sentella and Livert (2007), among other research. Participants who meet these criteria are difficult to find, but a target of 25 participants will be needed to conduct analyses at power similar to previous studies (Hsu &amp; Novick, 2016, for example).
+6.3.2. Procedures and Materials
+Participants will complete the study in one session. The same segment of the DELE will be used as in Studies 1 and 2, presented following a language background questionnaire specific to the heritage language experience (HLBQ). Following these two components, participants will engage in the same interleaved language comprehension-flanker task outlined in Study 2. 
+Heritage Language Background Questionnaire
+	To gather information regarding language background, Study 3 looks to Torres and Sanz (2016) and Gollan, Starr &amp; Ferreira (2015). The information presented in these studies is included in Table 3 to compare related information. The HLBQ will combine select questions from the questionnaires used in these two studies and as recommended in other research (e.g. Montrul, 2008, 2010). 
+Table 3. Language background questionnaire data points collected by Gollan et al. (2015) and Torres &amp; Sanz (2016)
+
+Gollan, Starr &amp; Ferreira (2015) 
+Torres &amp; Sanz (2016)
+Age of Acquisition
+	English
+	English
+	Spanish
+Self-rated proficiency
+	English
+	Heritage language
+	English (each of four linguistic skills)
+	Spanish (each of four linguistic skills)
+Years of study
+---
+	Spanish
+	Dual/immersion program?
+Frequency of use
+	Reading in heritage language
+	Daily language use in English
+	Daily language use in English as child
+	Use of English
+	Use of Spanish
+Frequency of language switching
+	Frequency of language switching when conversing with bilinguals
+	Frequency of language switching as child
+---
+Caregiver language abilities
+	Primary caregiver’s ability to speak English
+	Primary caregiver’s ability to speak heritage language
+	Secondary caregiver’s ability to speak English
+	Secondary caregiver’s ability to speak heritage language
+---
+
+6.4. Tabular Summary
+To summarize the intentions of Studies 1-3, Table 4 compares various methodological and procedural intentions of each study.
+Table 4. Principle differences and similarities of the studies herein proposed.
+
+Study 1
+Study 2
+Study 3
+Participants
+L2 learners of beginner, intermediate and advanced proficiencies
+L2 learners of beginner, intermediate and advanced proficiencies
+Heritage language speakers, with varying dominance of the heritage language
+Age
+18-28
+18-28
+18-28
+Educational background
+High school degree, some college
+High school degree, some college
+High school degree, some college
+Knowledge of a L3 
+Little to none (maximally limited to 3 years of high school experience)
+Little to none (maximally limited to 3 years of high school experience)
+Little to none, depending on availability of participants 
+Linguistic materials
+Translations of Hsu &amp; Novick (2016), recorded by female native speaker of Mexican Spanish
+Translations of Hsu &amp; Novick (2016), recorded by female native speaker of Mexican Spanish
+Translations of Hsu &amp; Novick (2016), recorded by female native speaker of Mexican Spanish
+Cognitive control materials
+Attentional Network Task, presented after linguistic materials
+Flanker trials (from ANT), interleaved within linguistic materials
+Flanker trials (from ANT), interleaved within linguistic materials
+Conflict adaptation?
+No, correlational
+Yes
+Yes
+Other materials
+	Language background questionnaire
+	Segment of DELE (Torres &amp; Sanz, 2016)
+	Language background questionnaire
+	Segment of DELE (Torres &amp; Sanz, 2016)
+
+	Heritage language background questionnaire (Gollan, Starr &amp; Ferreira, 2015; Torres &amp; Sanz, 2016)
+	segment of DELE (Torres &amp; Sanz, 2016)
+
+7. Conclusion
+	The above-proposed studies will help us disentangle cognitive control’s complex relationship with L2 proficiency and with bilingual language dominance. Such research is timely, considering recent research in SLA, psycholinguistics and neuroimaging that suggests that cognitive control plays a differential role across L2 development and considering recent research in the ‘bilingual advantage’ literature that reconsiders the umbrella term ‘bilingual’ to study how distinct language profiles may possess distinct ‘advantages’ due to varying bilingual experiences. 
+References
+Abutalebi, J. (2008). Neural aspects of second language representation and language control. Acta Psychologica, 128(3), 466–478. doi:10.1016/j.actpsy.2008.03.014
+Abutalebi, J., Della Rosa, P. A., Green, D. W., Hernandez, M., Scifo, P., Keim, R., … Costa, A. (2012). Bilingualism tunes the anterior Cingulate cortex for conflict monitoring. Cerebral Cortex, 22(9), 2076–2086. doi:10.1093/cercor/bhr287
+Adler, R. (2016). [Heritage language speakers’ ANT results following linguistic conflict blocks]. 
+Benmamoun, E., Montrul, S. and Polinsky, M. (2010). White Paper: Prolegomena to Heritage Speakers. http://nhlrc.ucla.edu/pdf/HL-whitepaper.pdf.
+Bialystok, E. (2007). Cognitive effects of bilingualism: How linguistic experience leads to cognitive change. The International Journal of Bilingual Education and Bilingualism, 10(3), 210-223. 
+Bialystok, E. (2009). Bilingualism: The good, the bad and the indifferent. Bilingualism: Language and Cognition, 12(1), 3-11. 
+Bialystok, E., Craik, F., &amp; Luk, G. (2008). Cognitive control and lexical access in younger and older bilinguals. Journal of Experimental Psychology: Learning, Memory, and Cognition, 34(4), 859.
+Botvinick, M., Braver, T., Barch, D., Carter, C., &amp; Cohen, J. (2001). Conflict monitoring and cognitive control. Psychological review, 108(3), 624–652. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/11488380
+Bowles, M. (2011). Measuring implicit and explicit linguistic knowledge: What can heritage language learners contribute? Studies in Second Language Acquisition, 33(2), 247-271. 
+Brinton, D., Kagan, O., &amp; Bauckus, S. (Eds.). (2008). Heritage Language Education: A New 
+field emerging. New York: Routledge.
+Costa, A., Hernández, M., &amp; Sebastián-Gallés, N. (2008). Bilingualism aids conflict resolution: Evidence from the ANT task. Cognition, 106(1), 59–86. doi:10.1016/j.cognition.2006.12.013
+Dong, Y. &amp; Xie, Z. (2014). Contributions of second language proficiency and interpreting experience to cognitive control differences among young adult bilinguals. Journal of Cognitive Psychology, 26(5), 506-519.
+Ennis, S. R., Rios-Vargas, M. &amp; Albert, N. G. (2011). The Hispanic Population: 2010. United States Census Bureau 2010 Census Briefs. http://www.census.gov/prod/cen2010/briefs/c2010br-04.pdf
+Fan, J., McCandliss, B., Sommer, T., Raz, A., &amp; Posner, M. (2002). Testing the efficiency and independence of attentional networks. Journal of Cognitive Neuroscience, 14(3), 340–7. \
+Finger, I., Billig, J. D. &amp; Scholl, A. P. (2011). Effects of bilingualism on inhibitory control in elderly Brazilian bilinguals. In C. Sanz &amp; R. Leow (Eds.), Implicit and Explicit Language Learning: Conditions, Processes, Knowledge in SLA and Bilingualism, pp. 219-229. Washington, D.C.: Georgetown University Press. 
+Gollan, T. H., Starr, J., &amp; Ferreira, V. S. (2015). More than use it or lose it: The number-of-speakers effect on heritage language proficiency. Psychonomic Bulletin &amp; Review, 22, 147-155. doi: 10.3758/s13423-014-0649-7
+Gratton, G., Coles, M. G. H., &amp; Donchin, E. (1992). Optimizing the Use of Information: Strategic Control of Activation of Responses. Journal of Experimental Psychology: General, 121(4), 480–506.
+
+Hilchey, M. D., &amp; Klein, R. M. (2011). Are there bilingual advantages on nonlinguistic interference tasks? Implications for the plasticity of executive control processes. Psychonomic Bulletin &amp; Review, 18(4), 625–658. doi:10.3758/s13423-011-0116-7
+Hualde, J. I., Olarrea, A., Escobar, A. M., &amp; Travis, C. E. (2009). Introducción a la lingüística hispánica (2nd ed.). Cambridge, UK: Cambridge University Press.
+January, D., Trueswell, J. C., &amp; Thompson-Schill, S. L. (2009). Colocalization of stroop and syntactic ambiguity resolution in Broca’s area: Implications for the neural basis of sentence processing. Journal of Cognitive Neuroscience, 21, 2434-2444. doi:10.1162/ jocn.2008.21179
+Larson, M. J., Clawson, A., Clayson, P. E., &amp; South, M. (2012). Cognitive Control and Conflict Adaptation Similarities in Children and Adults. Developmental Neuropsychology, 27, 343-357. 
+Linck, J. A. &amp; Weiss, D. J. (2011). Working Memory Predicts the Acquisition of Explicit L2 Knowledge. In C. Sanz &amp; R. Leow (Eds.), Implicit and Explicit Language Learning: Conditions, Processes, Knowledge in SLA and Bilingualism, pp. 101-113. Washington, D.C.: Georgetown University Press. 
+Logan, G. D., &amp; Zbrodoff, N. J. (1979). When it helps to be misled: Facilitative effects of increasing the frequency of conflicting stimuli in a Stroop-like task. Memory &amp; Cognition, 7, 166–174. 
+MacLeod, C. M. (1991). Half a Century of Research on the Stroop Effect: An Integrative Review. Psychological Bulletin, 109(2), 163–203. doi:10.1037/0033-2909.109.2.163
+Mayr, U., Awh, E., &amp; Laurey, P. (2003). Conflict adaptation effects in the absence of executive control. Nature Neuroscience, 6, 450–452. 
+Montrul, S. (2005). Second language acquisition and first language loss in adult early bilinguals: Exploring some differences and similarities. Second Language Research, 21(3), 199-249.
+Montrul, S. (2008). Incomplete acquisition in bilingualism. Re-examining the age factor. Amsterdam: John Benjamins.
+Montrul, S. (2010). Current Issues in Heritage Language Acquisition. Annual Review of Applied Linguistics, 30, 3-23. 
+Montrul, S. &amp; Bowles, M. (2008). Is grammar instruction beneficial for heritage language learners? Dative case marking in Spanish. The Heritage Language Journal, 7(1), 47-73. 
+Novick, J. M., Kan, I. P., Trueswell, J. C., &amp; Thompson-Schill, S. L. (2009). A case for conflict across multiple domains: Memory and language impairments following damage to ventrolateral prefrontal cortex. Cognitive Neuropsychology, 26, 527–567. 
+Novick, J. M., Trueswell, J. C., &amp; Thompson-Schill, S. L. (2005). Cognitive control and parsing: Reexamining the role of Broca’s area in sentence comprehension. Cognitive, Affective &amp; Behavioral Neuroscience, 5, 263–281. 
+Otheguy, R., Zentella, A. C., &amp; Livert, D. (2007). Language and dialect contact in Spanish in New York: toward the formation of a speech community. Language, 83(4). 770-802.
+Pozzan, L. &amp; Trueswell, J. (2015). Second language processing and revision of garden-path sentences: a visual word study. Bilingualism: Language and Cognition, Available on CJO 2015 doi:10.1017/S1366728915000838 
+Sanz, C. (2000). Bilingual education enhances third language acquisition: evidence from Catalonia. Applied Psycholinguistics, 21, 23-44. 
+Silva-Corvalán, C. (1994). Language Contact and Change. Oxford: Clarendon Press.
+Stroop, J. R. (1935b). Studies of interference in serial verbal reactions. Journal of Experimental 
+Psychology, 18, 643–662.
+Spivey, M. J., Tanenhaus, M. K., Eberhard, K. M., &amp; Sedivy, J. C. (2002). Eye movements and spoken language comprehension: Effects of visual context on syntactic ambiguity resolution. Cognitive Psychology, 45, 447–481. 
+Struys, E., Mohades, G., Bosch, P., &amp; van den Noort, M. (2015). Cognitive Control in Bilingual Children: Disentangling the Effects of Second Language Proficiency and Onset Age of Acquisition. Swiss Journal of Psychology, 74(2). 65-73. doi: 10.1024/1421-0185/a000152
+Teubner-Rhodes, S.E., Mishler, A., Corbett, R., Andreu, L., Sanz-Torrent, M., Trueswell, J.C., &amp; Novick, J.M. (2016). The effects of bilingualism on conflict monitoring, cognitive control, and garden-path recovery. Cognition, 150, 213-231.
+Thompson-Schill, S. L., Bedny, M., &amp; Goldberg, R. F. (2005). The frontal lobes and the regulation of mental activity. Current Opinion in Neurobiology, 15, 219-224. doi:10.1016/j.conb.2005.03.006
+Torres, J. (2013). Heritage and Second Language Learners of Spanish: The Roles of Task Complexity and Inhibitory Control. Unpublished PhD dissertation. Georgetown University, Washington, D.C. 
+Torres, J., &amp; Sanz, C. (2016). Inhibitory control in Spanish heritage bilinguals: A first look. Heritage Language Journal, 12(3), 292–309.
+Trueswell, J. C., Sekerina, I., Hill, N. M., &amp; Logrip, M. L. (1999). The kindergarten-path effect: studying on-line sentence processing in young children. Cognition, 73, 89-134.
+Ullsperger, M., Bylsma, L. M., &amp; Botvinick, M. M. (2005). The conflict adaptation effect: It’s not just priming. Cognitive, Affective, &amp; Behavioral Neuroscience, 5(4), 467–472. doi:10.3758/cabn.5.4.467
+</Text>
+            <Comments>One study even found that bilinguals who began learning both languages at birth outperformed bilinguals who began learning their second language at age 3 on a Simon task, even though proficiency in both groups’ proficiency in both languages was equivalent (Struys, Mohades, Bosch &amp; van den Noort, 2015).
+It should be noted that the bilingual group had also reported comparable proficiency in a third language (beyond Spanish and Catalan) that they similarly learned in school. This presents a further difficulty for comparing Costa et al. (2008) and Torres &amp; Sanz (2016).
+Costa et al. (2008) and Torres &amp; Sanz (2016) only include the labels of the poles of their Likert scale, so the choice of words is my own to reflect the numerical data presented and to reflect how the authors represented that data in their own descriptions, unless presented in quotes.</Comments>
+        </Document>
+        <Document ID="901E8CDE-81E8-4598-AAFD-AB4E4E85E4F6">
+            <Title>Work Plan</Title>
+            <Text>Work Plan
+This is arguably the most important part of the proposal as it shows how you will conduct your study. As such, it should be as realistic as possible and very detailed. For my proposal I broke it down by what I intended to accomplish each month.
+
+August
+1.	Determine survey questions
+
+October
+2.	IRB request - 2 months
+3.	Meet with committee
+
+November
+4.	Mail surveys
+5.	Data Entry
+6.	Submit abstract for professional conference paper or poster presentation
+
+December
+7.	Data Entry
+
+January
+8.	Data analysis and write-ups
+9.	Begin writing thesis draft 
+10.	Brown bag presentation to department
+
+February - April
+11.	Continue writing thesis and revise when necessary
+12.	Submit draft to committee for review 
+
+May
+13.	Final draft complete by end of May with committee revisions
+</Text>
+        </Document>
+        <Document ID="97B9BEB7-4578-49C0-B659-E0CAA29DAD41">
+            <Title>Style Guidelines</Title>
+            <Text>The following web resources may be of use as style guidelines when putting together your proposal:
+
+http://www.chicagomanualofstyle.org/tools_citationguide.html
+https://owl.english.purdue.edu/owl/resource/717/01/
+https://owl.english.purdue.edu/owl/resource/747/1/
+https://owl.english.purdue.edu/owl/resource/560/1/</Text>
+        </Document>
+        <Document ID="4DDF641E-A6B6-4530-997D-B83A526D9EC3">
+            <Text>Purpose or Hypothesis
+The purpose or hypothesis of the research. This is a more general overview of your research.</Text>
+        </Document>
+        <Document ID="3A796342-141E-41A7-AC5F-C8851D7A5AD9">
+            <Title>Cognitive Control in L2 -1 </Title>
+            <Synopsis>Cognitive individual differences in language acquisition have been an area of much research within psycholinguistics (Pozzan &amp; Trueswell, 2015; Kroll &amp; Sunderman, 2005, among many others), neuroimaging and cognitive psychology (Abutalebi, 2008; Abutalebi &amp; Green, 2007; Indefry, 2006, among others), and Second Language Acquisition (Serafini &amp; Sanz, 2016; Linck et al., 2013, among many others). Many of these studies observe a decreased role of cognitive control as language proficiency develops. Consider the behavioral data collected in previous studies, for example. Serafini &amp; Sanz (2016) conducted a longitudinal study with proficiency as an independent variable. They measured the role of cognitive functions in the acquisition process by comparing automaticity of ten different morphological structures in Spanish, two cognitive variables (cognitive control  and phonological short term memory), within different proficiency groups (beginning, intermediate and advanced learners). The authors only observed robust correlations between linguistic performance and cognitive variables for beginners, while more advanced learners revealed far fewer significant correlations between linguistic and non-linguistic performance, suggesting a decreased reliance on the ability to encode, store and retrieve information as exposure and proficiency increase in classroom learning. While Serafini and Sanz (2016) are among the very first researchers to specifically compare the role of cognitive functions at various points of L2 proficiency using the same assessment measures, their findings do fit within a long line of previous research supporting the finding of a differential influence of cognitive function at early but not later stages of language learning (compare Linck &amp; Weiss, 2011; Sagarra &amp; Herschensohn, 2010, vs. Grey, Cox, Serafini &amp; Sanz, 2015; however, see Linck et al., 2013 for a review).</Synopsis>
+        </Document>
+        <Document ID="AA0AB70A-7653-4952-B555-7723F5AACDE5">
+            <Title>About</Title>
+            <Text>THESIS PROPOSAL TEMPLATE
+Contributed by Robert Brimhall
+
+About
+This template is designed to produce a standard 15-page research or thesis proposal. Bear in mind, however, that the department or the organisation to which you are submitting a proposal may have specific formatting requirements—it’s always best to check.
+
+How To Use This Template
+	•	Rename the Draft folder in the binder to the title of your proposal (when you first create the project, you will notice that the Draft folder has been given the temporary title “&lt;Proposal Title&gt;”).
+	•	Edit the files inside the Draft folder to fill in your proposal.
+	•	Use File &gt; Compile… to compile your proposal ready for printing or exporting. Make sure that “Research Proposal” is selected in the list of formats on the left of the Compile panel, and then click the “Compile” button.
+
+Author
+This project template was created and kindly donated by Robert Brimhall, who is in no way affiliated with Literature &amp; Latte.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.
+
+Like all templates in Scrivener, this project was originally created from the “Blank” template. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
+
+You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="1A99C335-7731-4198-BC65-6A1CC60009D0">
+            <Title>PhD Exam #1 (McCormick 12_24_16)</Title>
+            <Text>
+
+
+
+
+
+Doctoral Exam #1
+The role of Cognitive Control and Proficiency 
+in Second Language and Heritage Language Syntactic Disambiguation
+Timothy McCormick
+Georgetown University
+Department of Spanish &amp; Portuguese
+
+
+Post script note: Larson, M. J., Clawson, A., Clayson, P. E., &amp; South, M. (2012). Cognitive Control and Conflict Adaptation Similarities in Children and Adults. Developmental Neuropsychology, 27, 343-357. 
+Children and adult have similar conflict adapation on non-cross-task conflict adaptation.
+
+
+
+Introduction
+With recent advancements in the online measures used to study sentence processing and the psychological components involved in these processes, many questions have emerged, especially questions regarding sentence processing in bilinguals, a group historically understudied in the various interdisciplinary fields involved in sentence processing. Even more grave, a great number of studies conflate different language profiles into the broader ‘bilingual’, even though these distinctions may result in entirely distinct linguistic and cognitive development patterns, suggesting that research explicitly exploring these narrower profiles is in order.
+One recent trend in research builds on the association between cognitive control and conflict resolution to determine how the linguistic system engages with conflict. However, how different language profiles engage with conflict, particularly in a second or non-dominant language, remains entirely unclear. In what follows, I will motivate research that considers the role of cognitive control during sentence processing at different proficiencies for the adult second language learner and at different levels of language dominance in the heritage language bilingual. This research will bridge findings from several different fields of cognitive science, particularly second language acquisition, psycholinguistics and neuroscience and neuroimaging. 
+Sentence processing
+When participating in a conversation, it’s commonly assumed that it is the content of the conversation that creates difficulty for an interlocutor: the more unfamiliar the content, the more difficult. In some cases, we hear reference to ‘ten-dollar words’, suggesting that a participant in a conversation may also experience difficulty from the unfamiliar lexicon of their partner. The grammatical or syntactic structure of the speech often seems entirely unremarkable. However, sentence processing is a highly complex system, incorporating various levels of coordination. Although this coordination is very rapid and generally very smooth, there are cases in which a syntactic peculiarity is encountered that causes a processing interruption, or ‘boggle’. One particularly frequent example is the famous garden-path below:
+(1)	The horse raced past the barn fell. 
+While this garden-path is unlikely to be encountered in daily communication, linguists often use it to discuss the need for reanalysis that would present itself, were it to be encountered ‘in the wild’. Given the linear nature of spoken (and written) language, the parser must create the syntactic structure online as they are encountered, processing new items and incorporating them into the existing structure according to syntactic rules and restrictions. In (1), the parser would first interpret raced as the main verb of the sentence. However, when the listener encounters fell, she must abandon her incorrect analysis and re-interpret the sentence in order to acquire the correct interpretation within a grammatically licit structure, such that raced past the barn is a reduced relative clause (RC) (i.e. that was raced past the barn) while fell fills the role of main verb.
+Models of Sentence Processing
+The example in (1) presents a case of reanalysis, which has received significant attention in the sentence processing literature and has been used to build several models of parsing, generally divided into universal (two-phase) parsers and Constraint-based (one-phase) parsers. Frazier and colleagues’ Garden Path model (and its later update, Construal Theory) is the predominant two-phase model (Frazier &amp; Fodor, 1978; Frazier &amp; Clifton, 1998). Constraint-based or experience-based models (e.g. Cuetos &amp; Mitchell, 1988; Trueswell, Spivey-Knowlton, Eberhard &amp; Sedivy, 1995; MacDonald Pearlmutter, Seidenburg, 1994) have received more recent focus. 
+Two-phase parsers
+In the two-phase models, put forward by Frazier, Fodor and colleagues, the parser’s first pass incorporates new material into the active syntactic structure using a highly restricted system of incorporation limited to the syntax. This is driven by syntactic economy, specifically Frazier’s Minimal Attachment principle, which requires the first pass to create the structure that requires the fewest syntactic nodes while remaining grammatically-permissible, as well as Frazier’s (1978) Late Closure principle, which requires new material be incorporated into the current constituent whenever grammatically possible. Thus, only the lexical items’ subcategorization information (e.g., part of speech) is consulted when constructing the syntactic structure. The parser’s second-phase considers semantic and pragmatic information beyond the syntax, and if a boggle is encountered, the parser rejects the structure and initiates a reanalysis. 
+Following evidence that identical syntactic structures with differing lexical items may cause differences in ease of recovery or reanalysis based on biases of the lexical items, these researchers updated their two-phase model with the Construal Theory (Frazier &amp; Clifton, 1998).  Construal Theory allows lexical information, such as bias or frequency data, to be consulted during the second phase. Compare the following structures, each with temporarily ambiguous structures that require reanalysis:
+(2a) The woman knew the nervous man would leave.	    (Ferreira &amp; Henderson, 1998, 6a-b) 
+(2b) The woman saw the nervous man would leave.
+Both main verbs can assume either a noun phrase (NP) or a propositional complement (CP). According to Construal Theory, then, the nervous man would be incorporated into the structure as a NP in order to minimize the number of nodes used during the first phase. However, upon encountering would leave, the parser must reanalyze the nervous man as the subject of a CP and reconstruct the structure accordingly. Here, the CP-bias of know makes reanalysis simpler than reanalysis of (2b), where saw has a NP-bias (Ferreira &amp; Henderson, 1998). 
+Constraint-based models
+	Despite its update to incorporate lexical biases, the Garden Path/Construal model cannot account for preferences that go beyond lexical biases to cross-linguistic phenomena. Differences in Spanish- and English-speaker preferences related to RC attachment were among the first of these cross-linguistic preferences observed. Specifically, RC attachment preferences in multiple genitive constructions that do not inherently cause boggles (i.e. not ungrammatical but rather fully ambiguous without the appropriate context) cast the two-phase, syntactically-restricted parser into doubt. Consider the following: 
+(3a) El periodista entrevistó a la hija del coronel que tuvo el accidente. 
+(3b) The journalist interviewed the daughter of the colonel who had had the accident.
+The preference in Spanish is for the high-attachment reading that the daughter had the accident, which contrasts with the English preference that the colonel had the accident (Cuetos &amp; Mitchell, 1998). More importantly for theoretical purposes, it also contrasts with the universal preference that the Late Closure principle would force. In addition, a corpus study showed that exposure to the high-attachment is, in fact, much more frequent in Spanish (Cuetos, Mitchell &amp; Corley, 1996), which suggests that exposure-frequency accounts for cross-linguistic preferences, a finding that has been supported by more recent research. 
+Most current research in sentence processing recognizes this need for the parser to consider several sources of information simultaneously: frequency, syntax, semantics, and discourse, for example, may all contribute to the resolution of ambiguity during one-pass processing. Evidence shows that parsers do use information beyond the syntax to correctly process during the parse, providing evidence for these Constraint-based models (Tanenhaus et al., 1995; Trueswell, Tanenhaus, &amp; Garnsey, 1994; Novick, Thompson-Schill &amp; Trueswell, 2008; Pozzan &amp; Trueswell, 2015). One example within the research of Trueswell and colleagues is the use of referential context in the visual-world paradigm through controlled definite article use. When there are two competitors in the visual world, the use of a definite article triggers participants to expect the following information to specify which of the two competitors is being referred to, as the use of a definite article is otherwise anomalous. 
+While the specific models are still underspecified, certain assumptions are characteristic of them all: an ambiguous strain results in multiple alternatives through bottom-up processing, and constraining evidence from several domains is integrated on the first pass to resolve the ambiguity, or rather, to select the most felicitous option. However, the extent to which each domain plays a role varies from model to model (for example, Tanenhaus et al., 1995; MacDonald et al., 1994). These models have been shown to account for phenomena associated with bilingual sentence processing, as well, an area of psycholinguistic research that remains highly understudied.
+Parsing in bilinguals
+Different aspects of the nature of bilingual processing research likely contribute to the many gaps in this research, including the many variables that must be controlled when studying bilingual participants as well as the dearth of a clear understanding of the monolingual parser (Dussias, 2001). However, the bilingual parser is a key component to understanding the human language parser, and as methodological practices and tools improve, bilingual sentence processing research should be a more motivated area of research. This is particularly true provided that the bilingual is the norm in the global context (Linguistic Society of America, 2012).
+The first study to investigate processing of the ambiguities such as those discussed above by bilingual speakers worked within a framework of Universal Grammar, supposing that language acquisition is driven by an internal, innate mechanism, and that adult language learners fail to learn a second language (L2) to a native-like level because they use processes, including processing strategies, of their first language (L1) (Fernández, 1995, 1999).  Fernández’s study, which included monolingual English speakers and early and late L1-Spanish L2-English bilinguals, found the strongest preference for Late Closure (or low attachment) among the monolinguals (73% preference), followed by the early bilingual group (49%) and late bilingual group (37%), figures which were not significantly different, though finer-grained analyses did show differences between these groups. This suggests that the exposure to English shifts preferences of the native Spanish speakers towards a more English-like bias, though at a greater extent of a shift of preference for earlier bilinguals. 
+Dussias (2003) tested Spanish-English bilinguals in both languages, investigating preference for RC-attachment. While monolingual control groups showed the previously observed preferences for high- and low-attached RCs (Spanish and English, respectively), both English- and Spanish-dominant bilinguals preferred low attachment. She suggests that amount of exposure may play a role in these preferences. This question was subsequently investigated by Dussias and Sagarra (2007), who forced high attachment or low attachment using noun-adjective agreement and utilized a self-paced reading methodology. They elaborated the question to include exposure, with groups sorted into monolinguals, bilinguals with limited exposure, and bilinguals with extensive exposure. The authors found that extensive exposure to the low-attachment-heavy L2 greatly facilitated total reading times in the L1, diverging from the native monolingual and limited-exposure bilingual data. These findings all suggest that experience plays a major role in bilingual processing, providing further evidence for an exposure-based model of processing. 
+Cognitive Control in Disambiguation
+The language ambiguities included above are cases of information conflict. Reconsider the classic example from (1): The horse raced past the barn fell. The conflict in this case lies between the lexical items in the input and the syntactic structure constructed during the parse. Much of the early processing literature considers ambiguous sentences, especially RC-attachment in double genitive constructions, such as (3a-b) (e.g. Cuetos &amp; Mitchell, 1988; Cuetos et al., 1996; Dussias, 2003; Fernández, 1995, 1999). More recent research tends to focus on temporarily ambiguous constructions such as (2a-b). Temporary ambiguities are resolved as more information is obtained from the input; in the case of (2a-b), later material forces the parser to reinterpret a noun as the subject of a CP instead of a direct object. Temporary ambiguities can also use gender agreement (e.g., Dussias &amp; Sagarra, 2007), or strong structural preferences in one direction (e.g., subject-first RC word order, Teubner-Rhodes et al., 2016). Consider the following example from Teubner-Rhodes and colleagues, where the subject-first interpretation is much preferred:
+(4a) 	Este es el general que vigilaba al espía desde la ventana. 
+“This is the general that watched the spy from the window.”	          
+(4b) 	Este es el general que vigilaba el espía desde la ventana.
+“This is the general that the spy watched from the window.” 	(Teubner-Rhodes et al., 2016, 1-2)
+These temporarily ambiguous structures are used to allow for online data collection, such as eye-tracking, self-paced reading, ERPs or fMRI scans. With these methodologies, researchers can collect data that reveals resolution of the ambiguity and not just preferences for a certain structure (for example, compare Dussias &amp; Sagarra, 2007, and Dussias, 2003).
+Cognitive control, the ability to resolve information conflict, is required to correctly interpret all of these garden-paths, temporary or not. I assume the term ‘cognitive control’, as opposed to other terms such as ‘inhibitory control’, following other researchers who reason that conflict can be resolved through inhibition of irrelevant information or promotion of relevant information, or a combination of both (Botvinick, Braver, Barch, Carter &amp; Cohen, 2001; Teubner-Rhodes et al., 2016). The use of online measures has allowed researchers to isolate the region of the brain involved in cognitive control: data from psycholinguistic, neuropsychological and imaging studies converge to show that linguistic ambiguity resolution and non-linguistic cognitive control processes co-localize within the left ventrolateral prefrontal cortex (specifically the left anterior frontal gyrus, LIFG, and anterior cingular cortex, ACC) (Thompson-Schill, Bedny, &amp; Goldberg, 2005; Novick, Kan, Trueswell &amp; Thompson-Schill, 2009; January, Trueswell, Thompson-Schill, 2009, Teubner-Rhodes et al., 2016). This region, then, can be considered the center for the correct selection of information during goal-specific tasks, and in the case of sentence processing, it allows the abandonment of an incorrect initial analysis to facilitate correct comprehension (Novick, Trueswell &amp; Thompson-Schill, 2005). 
+Cognitive Control: a ‘bilingual advantage’?
+While extensive evidence exists to support a ‘bilingual advantage’ in cognitive control, certain researchers have called into question this advantage. Therefore, the population still affords several questions to psycholinguists regarding exactly how a bilingual advantage might transcend into sentence processing, especially provided that much of the work on ‘bilingual advantages’ considers non-linguistic constructs.
+Bilingualism and Cognitive Individual Differences
+	Psychological research has revealed that for many populations, the increased use of a certain behavior results in observably improved skills on similar tasks or in observable differences in associated brain structures. For example, architects outperform non-architects on tasks evaluating visuo-spatial ability (Salthouse &amp; Mitchell, 1990), and video game playing has been correlated to heightened modification of perceptual-motor ability (Abutalebi et al., 2012). Just as video-gamers and architects serve as easily identifiable population distinctions, so too is the bilingual. Although ‘architect’ proves to be a much simpler population to isolate, psychologists and psycholinguists have shown that bilinguals differ from their monolingual counterparts in many different facets, both physiologically and behaviorally (Bialystok, 2008).
+One reality of the bilingual that distinguishes him from his monolingual peer is the consistent need to suppress one language according to the context. The bilingual does not separate the mental lexicons and grammars, but rather both are active during any language use (Kroll &amp; de Groot, 1997). This perpetual activation was the subject of Green’s (1998) Inhibitory Control (IC) model of bilingual language processing, and has been attested in behavioral studies (e.g. Kroll &amp; Bialystok, 2013; Kroll &amp; Sunderman, 2005); imaging studies (e.g. Abutalebi et al, 2012); and patient data (e.g. Abutalebi, Miozzo &amp; Cappa, 2000). 
+Within Green’s (1998) IC model, the competitor is suppressed by inhibitory control (or cognitive control). Given two competing forms, the salient but contextually-infelicitous form is suppressed by cognitive control while the desired form is promoted. This model and much of the early research that followed investigated whether this constant activation of cognitive control led to improved performance of bilinguals on nonlinguistic tasks, based on the idea that consistent use of cognitive control would lead to more apt cognitive control (see Bialystok, 2008, for a review). This would become known as the ‘bilingual advantage’. Bilingual advantages have subsequently been attested through neuroimaging and behavioral studies. In neuroimaging, larger gray matter volume has been observed in brain areas that serve executive functioning (Olulade et al., 2015). Likewise, the ACC and the LIFG, both neural structures involved in conflict detection and resolution, the activation of which correlates to poorer performance on conflict tasks, have been observed to be activated more by monolinguals than by bilinguals when performing high-conflict tasks (Abutalebi et al., 2012,  Abutalebi, 2008). Likewise, a large effect-size was observed in a meta-analysis conducted by Adesope, Lavin, Thompson and Ungerleider (2010), comparing attentional control of monolingual and bilingual populations, which suggests another bilingual advantage in attentional control. In a high-conflict N-back task, Teubner-Rhodes and colleagues (2016) observe more accurate performance by bilinguals regardless of trial type (lures, targets and fillers), suggesting an advantage that extends beyond conflict resolution to conflict monitoring, a cognitive capacity that becomes especially important in high-conflict contexts when the need for conflict resolution is decided on a moment-to-moment basis. This finding is supported by previous findings (Botvinick et al., 2001; Kerns et al., 2004). However, it should be noted that this advantage has not been found to extend to late bilinguals, i.e. classroom learners, whose performance on a flanker task was compared to that of early bilinguals and monolinguals and found not to differ from the monolingual performance (Luk, De Sa &amp; Bialystok, 2011; but compare Torres &amp; Sanz, 2016, who study heritage language bilinguals and find no difference between late bilinguals and heritage learners, addressed further below). 
+As far as linguistic development, bilingualism has also been connected to certain ‘disadvantages’, including decreased vocabulary size in one language (e.g. comparing English vocabulary size of monolingual English speakers and bilingual speakers who speak English and another language) (Bialystok, Luk, Peets &amp; Yang, 2009; Bialystok &amp; Luk, 2011); slower lexical access in picture-naming tasks (Gollan, Fennema-Notestine, Montoya, &amp; Jernigan, 2007)  and lexical decision tasks (van Hell &amp; Dijkstra, 2002); and decreased verbal fluency in semantic (or categorical) and phonemic (or letter) fluency tasks (e.g. Gollan, Montoya &amp; Werner, 2002; Rosselli et al., 2000). However, when bilinguals are compared to monolinguals of equivalent vocabulary size, bilinguals were shown to perform better in this same task (Bialystok, Craik, &amp; Luk, 2008). These differences, among many observed in the research of Bialystok and colleagues, are attributed to the perpetual activation of both languages during an extended period of time (compare late bilinguals in Luk et al., 2011), thus causing consistent competition and conflict during language use between first- and second language forms. 
+However, the research has not always so neatly fit within Green’s IC model. Principle among the critiques are Hilchey and Klein (2011), whose extensive review compiled bilingual research and suggested that these ‘advantages’ are not as all-encompassing as the research may suggest. Often, there is a major effect of time, where bilinguals have an initial advantage on non-linguistic cognitive control tasks that dissipates after extensive practice (e.g. Costa, Hernández &amp; Sebastián-Gallés, 2008). Similarly, Paap and Greenberg (2013) found no bilingual advantage in three executive function tasks. In a later review, upon tabulating 76 additional studies that were not considered in Hilchey and Klein’s review, Paap, Johnson and Sawi (2014) found that there was a clear tendency to find bilingual advantages in studies with fewer participants, while null findings were often found regardless of n-size. However, the task effect observed by Paap and Greenberg (2013) and the tendency not to find effects in immense studies (Paap et al., 2014) does not necessarily imply that bilingual advantages do not exist. Rather, it leads to a methodological issue: are we asking the right question? While we know that the flanker task requires cognitive control, for example, is the complexity of the task sufficient to observe an extended bilingual advantage in this capacity, if this does exist? A correlational study can only reveal as much as the tools allow, and it may be the case that a flanker task does not simulate sufficiently the complex conflict encountered during language processing. 
+Another major issue recently observed in bilingual research relates to distinct populations’ representation in the literature (e.g., Torres &amp; Sanz, 2016; Paap &amp; Greenberg, 2013). Given the blurry nature of bilingualism, an umbrella term with many interacting variables, such as biliteracy (see Sanz, 2000; Costa et al., 2008), and which can be used to include diverse populations, ranging from those who use two languages on a daily basis to those who interact with their non-dominant language only very infrequently (Linguistic Society of America, 2012), future research in bilingual sentence processing should include distinct populations to grasp how variables such as literacy, dominance and age of acquisition play a role in processing and how the bilingual advantage may differ between populations. I address the latter question regarding population controls first, followed by the former, methodological question.
+Heritage Speakers and Cognitive Individual Differences
+As Torres and Sanz (2016) address, many studies that consider bilingual speakers may not sufficiently separate distinct language profiles such as heritage language (HL) bilinguals, despite researchers in both camps having asserted that a host of social, economic and other circumstances contribute to linguistic and cognitive development (Hilchey &amp; Klein, 2011; Bialystok, 2001). The bilinguals in some research, such as the Catalonians studied by Costa and colleagues (2008), for example, received bilingual education, thereby possessing an inherently different language profile from HL bilinguals in the US, many of whom have a certain degree of proficiency at an early age and use their HL in their homes but not in school, work or other environments (Polinsky &amp; Kagan, 2007). Even this definition of HL bilinguals is simplistic, though a more detailed definition is beyond the scope of the present project. Torres and Sanz (2016) are the first to bridge and important gap: although much bilingual research likely considers heritage speakers, very few isolate HL bilinguals to investigate the effect of this distinct language profile on cognition; likewise, most research exclusively considering heritage language speakers approaches the population from a perspective that is sociolinguistic (e.g. Goble, 2016), pedagogical (e.g.  Polinsky &amp; Kagan, 2007), or developmental (e.g. Benmamoun, Montrul &amp; Polinsky, 2013). Torres and Sanz are the first researchers to isolate this language profile to search for a HL bilingual advantage.  The authors find no differences between HL bilinguals and late classroom-emerging bilinguals of Spanish in performance on the Attentional Network Task (ANT), developed to measure cognitive control by (Fan, McCandliss, Sommer, Raz, &amp; Posner, 2002). However, the researchers did note that data trended to show that HL bilinguals resolved conflict easier and at fewer inter-task costs. 
+While Torres &amp; Sanz (2016) take the important first step to investigate how or whether cognitive differences exist between HL bilinguals and late-L2 bilinguals, differences in the employment of executive control during linguistic tasks, such as ambiguity resolution, remain to be investigated. Indeed, the participants of both groups sampled are at the prime age of cognitive control, and so although we don’t see differences in performance on the ANT, a task for which task effects have been observed (see Hilchey &amp; Klein, 2011), temporary ambiguity resolution involves much more coordination. Therefore, a linguistic task modified by a non-linguistic cognitive control task (i.e. a conflict adaptation paradigm) may raise task difficulty to the point of revealing the subtle differences in young adult bilinguals that we cannot observe in strictly nonlinguistic tasks, as discussed above. 
+In addition, recent neuroimaging studies suggest that it is language switching in particular that may be the key factor for the bilingual advantage (Abutalebi et al., 2012). In this neuroimaging study, bilinguals were required to switch languages during a picture-naming task, a process which showed a hemodynamic response in the same region as conflicting flanker trials. Likewise, in a study in progress, heritage speakers were presented with a subcomponent of the ANT following four separate blocks of linguistic ambiguities (English, Spanish, inter-orational code-switches, and intra-orational code-switches), and reaction time and accuracy following the intra-orational code-switches improved beyond the other three blocks (Adler, in progress). This again suggests that frequent alternation between languages may require more cognitive control resources, regardless of whether bilinguals have more cognitive control resources at their disposal, in the vein of Bialystok and colleagues. As Teubner-Rhodes and colleagues suggest, “bilingualism apparently acts as a form of cognitive control training, bestowing measurable advantages in conflict monitoring – the ability to detect unpredictable conflict and flexibly adjust recruitment of cognitive control resources” (Teubner-Rhodes et al., 2016, p. 227). Therefore, to understand the role of HL bilingualism on cognitive control activation during linguistic tasks, researchers should also consider how frequency of use and dominance contribute to cognitive control demands and use of resources.
+Second Language Acquisition and Cognitive Individual Differences
+Cognitive individual differences in language acquisition have been an area of much research within psycholinguistics (Pozzan &amp; Trueswell, 2015; Kroll &amp; Sunderman, 2005, among many others), neuroimaging and cognitive psychology (Abutalebi, 2008; Abutalebi &amp; Green, 2007; Indefry, 2006, among others), and Second Language Acquisition (Serafini &amp; Sanz, 2016; Linck et al., 2013, among many others). Many of these studies observe a decreased role of cognitive control as language proficiency develops. Consider the behavioral data collected in previous studies, for example. Serafini &amp; Sanz (2016) conducted a longitudinal study with proficiency as an independent variable. They measured the role of cognitive functions in the acquisition process by comparing automaticity of ten different morphological structures in Spanish, two cognitive variables (cognitive control and phonological short term memory), within different proficiency groups (beginning, intermediate and advanced learners). The authors only observed robust correlations between linguistic performance and cognitive variables for beginners, while more advanced learners revealed far fewer significant correlations between linguistic and non-linguistic performance, suggesting a decreased reliance on the ability to encode, store and retrieve information as exposure and proficiency increase in classroom learning. While Serafini and Sanz (2016) are among the very first researchers to specifically compare the role of cognitive functions at various points of L2 proficiency using the same assessment measures, their findings do fit within a long line of previous research supporting the finding of a differential influence of cognitive function at early but not later stages of language learning (compare Linck &amp; Weiss, 2011; Sagarra &amp; Herschensohn, 2010, vs. Grey, Cox, Serafini &amp; Sanz, 2015; however, see Linck et al., 2013 for a review).
+These behavioral findings are also supported by neuroimaging data. Collecting neuroimaging data from several fMRI and PET studies of neural structures during bilingual processing, Abutalebi (2008) observed increased activity of the LIFG and other prefrontal structures critical for cognitive control among participants processing a non-native, non-proficient language. The suggestion of this finding is that, as the speaker attains a sufficient level of L2 proficiency, the extra activity fades (Abutalebi &amp; Green, 2007). Bear in mind that the role of cognitive control is to promote relevant information (or suppress irrelevant information), which in the case of bilingual processing can be considered competing forms and linguistic structures, i.e. conflict between languages, and as repeated activation strengthens these networks, the need for cognitive control to intervene decreases (Fedorenko &amp; Thompson-Schill, 2014). Researchers disagree whether this decreased activity is a convergence to the activity involved in L1 activity or if the decreased activity is better understood within the notion of neural organizational efficiency (Indefrey, 2006). However, for our purposes, the observation that there is decreased hemodynamic activity is sufficient to suggest that cognitive control’s influence lessens with increased L2 proficiency. 
+As Serafini and Sanz (2016) observe, their study is among the first to use the same targets across proficiencies to compare cognitive engagement at different stages of learning, but it considers a range of ten linguistic structures. They motivate the need to isolate fewer specific targets to increase subsequent studies’ power. One target that can serve to fill this gap is syntactic temporary ambiguities, which have been shown to directly engage cognitive control. The authors encourage maintaining a cross-sectional study, which would permit a more detailed understanding of the working memory constructs involved at increasing levels of L2 development. Recent research in child language processing conducted by Pozzan and Trueswell (2015) has also motivated this same cross-sectional study of cognitive control and ambiguity resolution, creating an opportunity for cross-field communication, as will be discussed below.
+L2 Sentence Processing and Ambiguity Resolution
+	Children present a particular difficulty abandoning an initial interpretation when parsing a temporarily ambiguous sentence (Trueswell, Sekerina, Hill &amp; Logrip, 1999). This so-called ‘kindergarten-path effect’ has been associated with immature cognitive control as a result of protracted maturation of prefrontal cortical structures (Choi &amp; Trueswell, 2010; Novick et al., 2005; Woodard, Pozzan, &amp; Trueswell, 2016). Difficulty of the same nature has been observed in patients with impaired cognitive control due to brain damage in these same areas (Novick et al., 2009). 
+In a recent study, however, Pozzan and Trueswell (2015) question whether the difficulties observed in child processing of syntactic garden-paths are better explained as a L1 learner phenomenon, rather than due to immature cognitive control. In order to investigate this, they study L2 learners’ reanalysis of the same garden-paths used to study child disambiguation. They reason that children will differ from adults (both native and L2 speakers) if these differences relate to immature cognitive control, but that L1 and adult L2 learners will obtain similar results if these difficulties are a learner phenomenon. Importantly, however, a third possibility exists: that L2 processing impinges on cognitive control, which makes learners perform like children during disambiguation. That is, similar results may be obtained, not because the structure is difficult for both sets of learners but because low-proficiency L2 processing occupies cognitive control abilities in adults (Abutalebi, 2008), making comprehension run aground in cases when revision is needed, as is the case in children for whom these same abilities have not yet fully developed. 
+In their study, native speakers of English and intermediate L2 learners of English (L1 = Italian) participated in a two-by-two study design, allowing researchers to consider the role of syntactic ambiguity (temporarily ambiguous vs. unambiguous) and referential context (though this condition is not pertinent to the current proposal, as L2 adults performed like L1 adults in this aspect). Participants listened to temporarily ambiguous sentences, as in (5a), or unambiguous sentences, as in (5b), while also presented with a coordinating visual world (such as 5c) with a target (frog on the napkin), a goal (box), a competitor-target (frog on the phonebook or eagle on the phonebook, depending on referential condition), and a distractor-goal (napkin):
+5a.	Put the frog on the napkin onto the box.		(Pozzan &amp; Trueswell, 2015)
+5b. 	Put the frog that’s on the napkin onto the box.
+
+
+5c. 
+
+During processing of the temporarily ambiguous sentence, the first prepositional phrase encountered tends to be interpreted as the goal rather than the modifier, but upon reaching the disambiguating information, the parser must reinterpret the sentence’s syntactic structure to reach the appropriate interpretation.  
+L2 adults’ behavioral and eye-movement data reflected increased consideration of the incorrect goal. This is the same patterns observed in children during the abandonment of incorrect parses (Trueswell et al., 1999), while native adults are far superior in reanalyzing the structure at this point. However, as noted, the L2 adults did use referential context while processing, while children do not to the same extent, providing evidence that the mature parser does indeed incorporate more information into the one-pass analysis, which is foundational for visual-world studies (e.g. Trueswell et al., 1999; Tanenhaus et al., 1995). The researchers suggest that the similarity of the parsing difficulties may be attributable to fully engaged cognitive control in the low-proficiency L2 participants. However, due to the limited scope of the study, they cannot make this conclusion beyond speculation. The study aimed to fill a gap in the research on child language processing. In turn, it opened a gap in L2 sentence processing. Because the researchers only included L2 learners of one proficiency level (intermediate, as assessed by the oral comprehension subtest of the Michigan Test of English Language Proficiency), the decreased ability for revision of the garden-paths may be the result of task difficulty for the intermediate learner. Pozzan and Trueswell open the opportunity to study how successful disambiguation of syntactic garden-paths at different stages of L2 proficiency correlates to performance on the ANT, in order to understand the correlation between cognitive control and L2 sentence processing of ambiguities across the learning process.  However, as will be motivated below, through a slight modification of the paradigm to modulate conflict engagement, a second study can also make causational claims about cognitive control’s involvement in this process. 
+Conflict Detection and Conflict Adaptation
+	The detection of conflict, linguistic or otherwise, has been shown to trigger sustained cognitive control; for example, the Stroop effect can be lessened for an incongruent trial if it is immediately preceded by another incongruent trial (Freitas, Bahar, Yang, &amp; Banai, 2007; Kerns et al, 2004). This pattern has also been observed in adults’ performance on cross-task conflict adaptation, where recovery from an incorrect interpretation due to syntactic ambiguity is facilitated when the language-comprehension trial is immediately preceded by a conflict Stroop trial (Hsu &amp; Novick, 2016). The opposite has also been found, where linguistic conflict in a preceding trial can improve performance on non-linguistic conflict resolution tasks, such as the ANT (Adler, in progress). 
+However, a different pattern has been observed in children: while conflict engagement results have been found within singular task designs for children (e.g. incongruent Stroop trial preceding incongruent Stroop trial), in a cross-task design, recovery from syntactic misanalysis is more difficult following an incongruent Stroop trial (Huang, Gerard, Hsu, Kowalski &amp; Novick, 2016), and again, patients with damage to the prefrontal cortex have shown similar cross-task difficulties (Novick, personal communication, Nov. 3, 2016). The authors suggest this may be due either to the depletion of immature cognitive control resources or to task difficulty fatigue. 
+	Provided the decreased recruitment of cognitive control-related neural structures (e.g. Abutalebi, 2008) and the decreased role of other executive functions (e.g. Serafini &amp; Sanz, 2016) that is associated with higher proficiencies, the conflict adaptation paradigm can serve as a tool to force specific conflict-engagement states, providing causational data reflecting cognitive control’s role in second language syntactic ambiguity recovery. If cognitive control plays a differential role online at different proficiencies, a conflict adaptation paradigm will reveal different responses from different groups: if cognitive control is not engaged to capacity at higher proficiencies, a garden-path preceded by an incongruent trial will reveal faster disambiguation. However, if cognitive control is fully engaged, an incongruent preceding trial will not be able to trigger cognitive control activation beyond capacity, resulting in similar reanalysis abilities in both preceding-trial conditions. Alternatively, L2 learners with all cognitive control resources engaged will obtain slower reanalysis following incongruencies if they too experience the ‘depletion’ hypothesized to cause these findings in children and patients (Huang et al., 2016). 
+The same task can inform us of engagement of cognitive control by heritage speakers of different levels of language dominance and frequency of use. Although Torres and Sanz (2016) found no difference between heritage speakers and L2 learners on the ANT, more complex linguistic tasks may reveal differences that the ANT cannot reveal. For example, as mentioned above, Adler (in progress) found improved performance on the ANT following intra-orational code-switches, a finding not obtained following the monolingual or inter-orational blocks, which suggests that frequent language switching requires significant cognitive control resources. A conflict adaptation paradigm may be able to contribute more to our understanding of heritage language learners’ cognitive control recruitment during disambiguation. While Adler (in progress) uses a block-by-block adaptation paradigm to study how linguistic conflict triggers a non-linguistic advantage, a trial-by-trial adaptation may reveal how preceding non-linguistic conflict may improve linguistic-conflict resolution and reanalysis. This question is particularly interesting when paired with language use and dominance data, which may correlate to cognitive control engagement, following previous findings (Adler, in progress; Abutalebi et al., 2012)
+Conclusion: Bridging gaps through interdisciplinary research
+	This project has outlined several gaps in the psycholinguistic and second language acquisition research. First, there is a dearth of studies that consider the role of cognitive control at different stages of L2 proficiency by using the same linguistic structures or processes. Cognitive control has been shown to be a vital component of sentence processing, especially the resolution of conflict. Therefore, the current project, following Serafini and Sanz (2016) and Pozzan and Trueswell (2015), motivates research on the relationship between these three variables. By conducting two studies of this nature, one correlational and one causational, we may also contribute to the understanding of the conflict adaptation paradigm in psycholinguistic research, a burgeoning methodology. 
+Meanwhile, while research has shown that language profile differences make an important difference in linguistic and cognitive development (Hilchey &amp; Klein, 2011; Bialystok, 2001), distinct language populations have tended to be conflated in the literature. Torres and Sanz (2016) take the first step to isolate heritage language learners in the ‘bilingual advantage’ literature, but more research is needed, particularly regarding the role of HL bilingualism in linguistic tasks, such as sentence processing and resolution of garden-paths. Beyond the disambiguation of these linguistic conflicts, cognitive control has also been shown to be particularly relevant in language switching for bilinguals, including HL bilinguals. Therefore, the current study motivates the investigation of a cross-task conflict adaptation task to investigate the role of cognitive control and language use in linguistic conflict resolution.
+References
+Abutalebi, J. (2008). Neural aspects of second language representation and language control. Acta Psychologica, 128(3), 466–478. doi:10.1016/j.actpsy.2008.03.014
+Abutalebi, J., Della Rosa, P. A., Green, D. W., Hernandez, M., Scifo, P., Keim, R., … Costa, A. (2012). Bilingualism tunes the anterior Cingulate cortex for conflict monitoring. Cerebral Cortex, 22(9), 2076–2086. doi:10.1093/cercor/bhr287
+Abutalebi, J., &amp; Green, D. (2007). Bilingual language production: The neurocognition of language representation and control. Journal of Neurolinguistics, 20(3), 242–275. doi:10.1016/j.jneuroling.2006.10.003
+Abutalebi, J., Miozzo, A., &amp; Cappa, S. F. (2000). Do subcortical structures control language selection in bilinguals evidence from pathological language mixing. Neurocase, 6, 101–106.
+Adesope, O. O., Lavin, T., Thompson, T., &amp; Ungerleider, C. (2010). A Systematic Review and Meta-Analysis of the Cognitive Correlates of Bilingualism. Review of Educational Research, 80(2), 207–245. doi:10.3102/0034654310368803
+Adler, R. (2016). [Heritage language speakers’ ANT results following linguistic conflict blocks]. 
+Benmamoun, E., Montrul, S., &amp; Polinsky, M. (2013). Heritage languages and their speakers: Opportunities and challenges for linguistics. Theoretical Linguistics, 39(3-4). doi:10.1515/tl-2013-0009
+Bialystok, E. (2001). Bilingualism in development: Language, literacy, and cognition. New York: Cambridge University Press.Bialystok, E. (2008). Bilingualism: The good, the bad, and the indifferent. Bilingualism: Language and Cognition, 12(01), 3. doi:10.1017/s1366728908003477
+Bialystok, E., Craik, F., &amp; Luk, G. (2008). Cognitive Control and Lexical Access in Younger and Older Bilinguals. Journal of Experimental Psychology: Learning, Memory and Cognition, 34(4), 859–873. doi:10.1037/0278-7393.34.4.859
+Bialystok, E., &amp; Luk, G. (2011). Receptive vocabulary differences in monolingual and bilingual adults. Bilingualism: Language and Cognition, 15(02), 397–401. doi:10.1017/s136672891100040x
+Bialystok, E., Luk, G., Peets, K. F., &amp; Yang, S. (2009). Receptive vocabulary differences in monolingual and bilingual children. Bilingualism, 13(4), 525–531. doi:10.1017/S1366728909990423
+Botvinick, M., Braver, T., Barch, D., Carter, C., &amp; Cohen, J. (2001). Conflict monitoring and cognitive control. Psychological review., 108(3), 624–52. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/11488380
+Choi, Y., &amp; Trueswell, J.C. (2010). Children‘s (in)ability to recover from garden-paths in a verb-
+final language: Evidence for developing control in sentence processing. Journal of Experimental Child Psychology, 106, 41–61. 
+Costa, A., Hernández, M., &amp; Sebastián-Gallés, N. (2008). Bilingualism aids conflict resolution: Evidence from the ANT task. Cognition, 106(1), 59–86. doi:10.1016/j.cognition.2006.12.013
+Cuetos, F., &amp; Mitchell, D. C. (1988). Cross-linguistic differences in parsing: Restrictions on the use of the late closure strategy in Spanish. Cognition, 30(1), 73–105. doi:10.1016/0010-0277(88)90004-2
+Cuetos, F., Mitchell, D. C., &amp; Corley, M. M. B. (1996). Parsing in different languages. In M. Carreiras, J. E. García-Albea, &amp; N. Sebastian-Gallés (Eds.), Language processing in Spanish (pp. 145–187.). Mahwah, NJ: Lawrence Erlbaum Associates.
+Dussias, P. E. (2001). Sentence Parsing in Fluent Spanish-English Bilinguals. In J. Nicol (Ed.), One mind, two languages: Bilingual language processing (1st ed.) (pp. 159–176). Malden, MA: Blackwell Publishers.
+Dussias, P. E. (2003). Syntactic ambiguity resolution in L2 learners: Some effects of bilinguality on L1 and L2 processing strategies. Studies in Second Language Acquisition, 25, 529–557.
+Dussias, P. E., &amp; Sagarra, N. (2007). The effect of exposure on syntactic parsing in Spanish–English bilinguals. Bilingualism: Language and Cognition, 10(01), 101. doi:10.1017/s1366728906002847
+Fan, J., McCandliss, B., Sommer, T., Raz, A., &amp; Posner, M. (2002). Testing the efficiency and independence of attentional networks. Journal of cognitive neuroscience., 14(3), 340–7. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/11970796
+Fedorenko, E., &amp; Thompson-Schill, S. L. (2014). Reworking the language network. Trends in Cognitive Science, 18(3), 120–126. doi:10.1016/j.tics.2013.12.006
+Ferreira, F., &amp; Henderson, J. M. (1998). Syntactic reanalysis, thematic processing, and sentence comprehension. In J. D. Fodor &amp; F. Ferreira (Eds.), Reanalysis in Sentence Processing (Studies in Theoretical Psycholinguistics series) (pp. 73–100). Dordrecht: Kluwer Academic Publishers.
+Fernández, E.M. (1995). Processing strategies in second language aquisition: Some preliminary results. Paper presented at GASLA ’95.
+Fernández, E.M. (1999). Processing strategies in second language aquisition: Some preliminary results. In E.C. Klein and G. Martohardjono (eds), The development of second language grammars: A generative approach. Amsterdam: John Benjamins
+Fernández, E. M. (2002). Relative Clause Attachment in Bilinguals and Monolinguals. In R. R. Heredia &amp; J. Altarriba (Eds.), Bilingual Sentence Processing (1st ed.) (pp. 187–215). Amsterdam, The Netherlands: Elsevier.
+Frazier, L., &amp; Clifton, C. (1998). Sentence reanalysis, and visibility. In J. D. Fodor &amp; F. Ferreira (Eds.), Reanalysis in Sentence Processing (Studies in Theoretical Psycholinguistics series) (pp. 143–176). Dordrecht: Kluwer Academic Publishers.
+Frazier, L., &amp; Fodor, J. D. (1978). The sausage machine: A new two-stage parsing model. Cognition, 6(4), 291–325. doi:10.1016/0010-0277(78)90002-1 
+Freitas, A. L., Bahar, M., Yang, S., &amp; Banai, R. (2007). Contextual adjustments in cognitive control across tasks. Psychological Science, 18, 1040–1043. 
+Gollan, T., Fennema-Notestine, C., Montoya, R., &amp; Jernigan, T. (2007). The bilingual effect on Boston naming test performance. Journal of the International Neuropsychological Society, 13(2), 197–208. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/17286875
+Gollan, T., Montoya, R., &amp; Werner, G. (2002). Semantic and letter fluency in Spanish-English bilinguals. Neuropsychology., 16(4), 562–76. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/12382994
+Green, D. W. (1998). Mental control of the bilingual lexico-semantic system. Bilingualism: Language and Cognition, 1(2), 67–81. doi:10.1017/S1366728998000133
+Grey, S., Cox, J. G., Serafini, E. J., &amp; Sanz, C. (2015). The role of individual differences in the study abroad context: Cognitive capacity and language development during short-term intensive language exposure. The Modern Language Journal, 99, 137–157.
+Goble, R. (2016). Linguistic insecurity and lack of entitlement to Spanish among third-generation Mexican Americans in Narrative Accounts. Heritage Language Journal, 13 (1). 29-54.
+Hilchey, M. D., &amp; Klein, R. M. (2011). Are there bilingual advantages on nonlinguistic interference tasks? Implications for the plasticity of executive control processes. Psychonomic Bulletin &amp; Review, 18(4), 625–658. doi:10.3758/s13423-011-0116-7
+Huang, Y. T., Gerard, J., Hsu, N., Kowalski, A., &amp; Novick, J.M. (2016). Cognitive control effects on the kindergarten path: Separating correlation from causation. Poster presented at the 29th annual CUNY Conference on Human Sentence Processing, Gainesville, FL. 
+Hsu, N. &amp; Novick, J. M. (2016). Dynamic Engagement of Cognitive Control Modulates Recovery From Misinterpretation During Real-Time Language Processing. Psychological Science, 1-11.
+Indefrey, P. (2006). A Meta-analysis of Hemodynamic studies on First and Second language processing: Which suggested differences can we trust and what do they mean? Language Learning, 56, 279–304. doi:10.1111/j.1467-9922.2006.00365.x
+January, D., Trueswell, J. C., &amp; Thompson-Schill, S. L. (2009). Colocalization of stroop and syntactic ambiguity resolution in Broca’s area: Implications for the neural basis of sentence processing. Journal of Cognitive Neuroscience, 21, 24342444. doi:10.1162/ jocn.2008.21179
+Kerns, J. G., Cohen, J. D., MacDonald, A. W., III, Cho, R. Y., Stenger, V. A., &amp; Carter, C. S. (2004). Anterior cingulate conflict monitoring and adjustments in control. Science, 303, 1023–1026. 
+Kroll, J. F., &amp; Bialystok, E. (2013). Understanding the consequences of Bilingualism for Language Processing and Cognition. Journal of Cognitive Psychology 25(5). doi: 10.1080/20445911.2013.799170.
+Kroll, J. F., &amp; de Groot, A. M. B. (1997). Lexical and conceptual memory in the bilingual: Mapping form to meaning in two languages. In J. F. Kroll (Ed.), Handbook of Bilingualism: Psycholinguistic approaches (pp. 169–199). Mahway, NJ: Erlbaum.
+Kroll, J. F., &amp; Sunderman, G. (2005). Cognitive Processes in Second Language Learners and Bilinguals: The Development of Lexical and Conceptual Representations. In C. J. Doughty &amp; M. H. Long (Eds.), The Handbook of Second Language Acquisition. Oxford, United Kingdom: Blackwell Publishers.
+Linck, J. A., Osthus, P., Koeth, J. T., &amp; Bunting, M. F. (2013). Working memory and second language comprehension and production: A meta-analysis. Psychonomic Bulletin &amp; Review, 21(4), 861–883. doi:10.3758/s13423-013-0565-2
+Linck, J. A. &amp; Weiss, D. J. (2011). Working memory predicts the acquisition of explicit L2 knowledge. In C. Sanz &amp; R. P. Leow (Eds.), Implicit and explicit language learning: Conditions, processes, and knowledge in SLA and bilingualism (pp. 101–113). Washington, DC: Georgetown University Press.
+Linguistic Society of America. (2012). FAQ: Bilingualism. Retrieved December 22, 2016, from Linguistic Society of America, http://www.linguisticsociety.org/resource/faq-what-bilingualism
+Luk, G., De Sa, E., &amp; Bialystok, E. (2011). Is there a relation between onset age of bilingualism and enhancement of cognitive control? Bilingualism: Language and Cognition, 14(4), 588- 595.
+MacDonald, M. C., Pearlmutter, N. J., &amp; Seidenberg, M. S. (1994). Lexical nature of syntactic ambiguity resolution. Psychological Review, 101, 676–703.
+Novick, J. M., Kan, I. P., Trueswell, J. C., &amp; Thompson-Schill, S. L. (2009). A case for conflict across multiple domains: Memory and language impairments following damage to ventrolateral prefrontal cortex. Cognitive Neuropsychology, 26, 527–567. 
+Novick, J. M., Thompson-Schill, S. L., &amp; Trueswell, J. C. (2008). Putting lexical constraints in context into the visual-world paradigm. Cognition, 107, 850–903. 
+Novick, J. M., Trueswell, J. C., &amp; Thompson-Schill, S. L. (2005). Cognitive control and parsing: Reexamining the role of Broca’s area in sentence comprehension. Cognitive, Affective &amp; Behavioral Neuroscience, 5, 263–281. 
+Olulade, O., Jamal, N., Koo, D., Perfetti, C., LaSasso, C., &amp; Eden, G. (2015). Neuroanatomical evidence in support of the bilingual advantage theory. Cerebral cortex (New York, N.Y. : 1991)., 26(7), 3196–204. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/26184647
+Paap, K., &amp; Greenberg, Z. (2013). There is no coherent evidence for a bilingual advantage in executive processing. Cognitive psychology., 66(2), 232–58. Retrieved from https://www.ncbi.nlm.nih.gov/pubmed/23370226
+Paap K. R., Johnson H. A., Sawi O. (2014). Are bilingual advantages dependent upon specific tasks or specific bilingual experiences? Journal of Cognitive Psychology, 26, 615–639 10.1080/20445911.2014.944914
+Polinsky, M., &amp; Kagan, O. (2007). Heritage languages: In the “Wild” And in the classroom. Language and Linguistics Compass, 1(5), 368–395. doi:10.1111/j.1749-818x.2007.00022.x
+Pozzan, L. &amp; Trueswell, J. (2015). Second language processing and revision of garden-path sentences: a visual word study. Bilingualism: Language and Cognition, Available on CJO 2015 doi:10.1017/S1366728915000838 
+Rosselli, M., Ardila, A., Araujo, K., Weekes, V.A., Caracciolo, V., Padilla, M. &amp; Ostrosky-Solís, F. (2000). Verbal fluency and repetition skills in healthy older Spanish-English bilinguals. Applied Neuropsychology, 7(1): 17-24. doi: 10.1207/S15324826AN0701_3
+Sagarra, N. &amp; Herschensohn, J. (2010). The role of proficiency and working memory in gender and number agreement processing in L1 and L2 Spanish. Lingua, 120, 2022–2039.
+Sanz, C. (2000). Bilingual education enhances third language acquisition: Evidence from Catalonia. Applied Psycholinguistics, 20(1), 23-44.
+Serafini, E. J., &amp; Sanz, C. (2016). Evidence for the decreasing impact of cognitive ability on second language development as proficiency increases. Studies in Second Language Acquisition, 38(4), 607–646. doi:10.1017/S0272263115000327
+Tanenhaus, M. K., Spivey-Knowlton, M. J., Eberhard, K. M., &amp; Sedivy, J. C. (1995). Integration of visual and linguistic information in spoken language comprehension. Science, 268, 1632–1634.
+Thompson-Schill, S. L., Bedny, M., &amp; Goldberg, R. F. (2005). The frontal lobes and the regulation of mental activity. Current Opinion in Neurobiology, 15, 219224. doi:10.1016/j.conb.2005.03.006
+Torres, J., &amp; Sanz, C. (2016). Inhibitory control in Spanish heritage bilinguals: A first look. Heritage Language Journal, 12(3), 292–309.
+Trueswell, J. C., Tanenhaus, M. K., &amp; Garnsey, S. M. (1994). Semantic influences in parsing: Use of thematic role information in syntactic ambiguity resolution. Journal of Memory and Language, 33, 285–318.
+Trueswell, J. C., Sekerina, I., Hill, N. M., &amp; Logrip, M. L. (1999). The kindergarten-path effect: studying on-line sentence processing in young children. Cognition, 73, 89– 134.
+Teubner-Rhodes, S.E., Mishler, A., Corbett, R., Andreu, L., Sanz-Torrent, M., Trueswell, J.C., &amp; Novick, J.M. (2016). The effects of bilingualism on conflict monitoring, cognitive control, and garden-path recovery. Cognition, 150. 213-231.
+van Hell, J. G., &amp; Dijkstra, T. (2002). Foreign language knowledge can influence native language performance in exclusively native contexts. Psychonomic Bulletin &amp; Review, 9(4), 780–789. doi:10.3758/bf03196335
+Woodard, K., Pozzan, L., &amp; Trueswell, J.C. (2016). Taking your own path: Individual differences in executive function and language processing skills in child learners. Journal of Experimental Child Psychology, 141, 187–209.
+
+</Text>
+            <Comments>Examples (1a-b), Ceutos &amp; Mitchell (1998).
+The authors call this variable executive function, a term that, like inhibitory control, has been used in the research to refer to the same psychological component (see Novick et al., 2014). Again, for the sake of consistency, I use ‘cognitive control’, given that its role in the current study will be to resolve conflict.</Comments>
+        </Document>
+        <Document ID="B2851708-9A9E-48AE-ADC1-A96B3533A8D1">
+            <Title>References</Title>
+            <Text>References
+
+
+</Text>
+        </Document>
+        <Document ID="6E24C9DF-2459-44AC-BBEF-C1DFC510C759">
+            <Title>Resources</Title>
+        </Document>
+        <Document ID="DC748FDB-3513-4C2F-BFCA-B05E79D31859">
+            <Title>Problem, Study 1: Bilingual advantage &amp; Cog Control in Lang Processing?</Title>
+        </Document>
+        <Document ID="BF0AA98E-DDED-444D-A1AA-2FCDFFC5AC54">
+            <Title>Word Frequency</Title>
+            <Text>
+In addition to frequency lists for English, we also have what we believe are the most accurate frequency lists for Spanish, containing the top 20,000 lemmas / words in the language. The Spanish data is based on the 20 million words from the 1900s in the 100 million word Corpus del Español, which is the only corpus of Spanish that is 1) large 2) balanced across genres (spoken, fiction, newspaper, academic), and 3) which is accurately tagged for part of speech and lemma (which is necessary to create a frequency dictionary).
+
+The data is available in a number of formats. Click on the links for sample files. To order, see the information at the end of this page.  
+
+https://www.wordfrequency.info/spanish.asp
+</Text>
+        </Document>
+        <Document ID="DC037BE8-E2FF-4B4A-8120-EB0AEF9F7D17">
+            <Title>Methodology notes</Title>
+            <Text>“””Participants were instructed to read at a natural pace and answer the questions as quickly and accurately as possible by pressing one of two keys ("F" key for True or the "J" key for False) (the selection of these keys followed previous work in psycholinguistics, e.g., Wagers, Lau, &amp; Phillips, 2009).
+Marijuan dissertation ””” 
+
+“””Between each block, participants were given three breaks; they were also informed that a break could be taken at any point in the experiment. After completing the experiment, participants took the grammatical section of the Placement Test (Appendix A) and, finally, they were given an exit questionnaire (Appendix C) and were debriefed. Marijuan dissertation  “””
+
+Changes to Jegerski’s stimuli:
+
+Verbs used in transitive weren’t used in intransitive (gritar) —&gt; cuando la artista salió el cuadro cayó de la pared.
+Pagar el diamante changed becuase I didn’t expect it to be transitive for learners
+“Cinco días después de que bebieron el vino” was changed to “Antes de que bebieran/celebraran” to balance each adverb
+3 metros —&gt; diez pies de altura (for learners in US)
+Montarse —&gt; subirse because they study this (subir el autobus); montar is used elsewhere in the stimuli as “assemble”
+Concursante —&gt; participante (vocab familiarity)
+My study will change "tres metros" to diez pies for reasons of comprehensibility for students
+de una vez removed from first stimulus for ease
+planes was changed to planos
+
+
+
+Thank you for your interest in my research study. I don't have the exact fillers to share with you for that particular experiment, because they were entered directly into the software and I no longer use that program, but I can tell you what they were like. There were 40 distractors from another sentence processing experiment on relative clause attachment and the other 80 were just miscellaneous fillers, not directed at any particular linguistic form. In both cases, the sentences were subject first, with no fronted phrases, and canonical SVO word order. Let me know if you have any other questions.
+
+I hope this is helpful. I'll be interested to hear more about your study in the future, as it progresses. (And please tell Cristina I said "hi"
+</Text>
+        </Document>
+        <Document ID="8054B269-DF61-4A4D-8BF2-29183048373A">
+            <Title>Misc</Title>
+        </Document>
+        <Document ID="FD1C7EB5-3682-4C75-A9A3-C0D8B8FEA4A4">
+            <Title>Importance</Title>
+            <Text>Importance of the Project
+The importance of the research including what makes your research unique and/or the specific contribution you seek to make.</Text>
+        </Document>
+        <Document ID="1D56DC22-4589-46DE-96AF-0B4E93FC780C">
+            <Title>Definition of Terms</Title>
+            <Text>
+From Sivlia’s dissertation:
+
+Self-paced reading procedure Self-paced-reading (SPR), the methodology employed in this dissertation, has been long used in adult native speakers (e.g., Schneider &amp; Phillips, 2001) and child speakers (e.g., Sekerina, Fernandez &amp; Clahsen, 2008) and it has been steadily growing in Second Language Acquisition (SLA), specifically in experimental studies investigating morphosyntactic sentence processing (e.g., Foote, 2011; Jiang, 2004, 2007; Sagarra &amp; Herschensohn, 2010; 2011, 2012; Tokowicz &amp; Warren, 2010, VanPatten, Keating &amp; Leeser, 2012). As explained by Sagarra and Herschenson (2010), this procedure works as follows: Participants are shown rows of dashes such as the dashes below (Figure 1): 
+Figure 1: Word-by-word self-paced reading procedure _______ __________ __ ______ ____________ _______ Each dash represents a word in a sentence (i.e., the words are “masked”) and are separated by spaces which represent the visible characters normally seen during natural reading. When participants press the space bar, the first word appears, and each time the space bar is pressed, a new word is revealed and the last word becomes dashes again, as seen in Figure 2: Figure 2: Example of word-by-word self-paced reading procedure The ____ ___ ______ ______ ________ (space bar press) ____ boys ____ ______ _______ _______ (space bar press) ____ ____ run ______ _______ _______ When a participant presses the key on the last word of the sentence, a comprehension question about the sentence is usually prompted, and participants mark their answer by pressing a button (e.g., “yes”, “no”). The time spent reading each word is measured in milliseconds (ms.) as the time (i.e., Reaction Time, RTs) spent between two successive space bar key presses. Therefore, the dependent measure in SPR is the latency of button-pressing and processing (Jiang, 2007). It is assumed that as processing becomes difficult, participants slow down their rate of button-pressing, similarly to how in normal reading the eyes tend to rest longer before moving past a difficult-to-process word or region (Clifton &amp; Staub, 2011). Therefore, the criteria readers use when they make a conscious decision to press a button to receive the next input word can be informative when analyzing the regions of processing difficulties Depending on the research questions and the stimuli tested in the experiment, researchers decide a priori which of the words read represent the regions of interest. For example, if the research question addresses whether learners are sensitive to agreement violations between adjectives and the nouns in Spanish as in Sagarra and Herschenson’s (2010) study, (adjectives typically follow nouns in Spanish) (e.g., el prototipo-masc. sing. famosa-fem. sing, “the famous prototype”), the main region of interest is the adjective. Researchers are also usually interested in analyzing the RTs of the regions immediately following the region of interest (RI), the so-called “spillover regions”, since in these regions (usually one or two words following the RI) it is possible to detect late effects. These slowdowns in reading (i.e., higher RTs) are important because the onset of L2 processing can be delayed (Cf., Sagarra &amp; Herschenson, 2010; Weber-Fox &amp; Neville, 1996).</Text>
+        </Document>
+        <Document ID="3AD7C818-EA66-4B5E-B1EF-A74293C88EB0">
+            <Title>Terms</Title>
+            <Text>Cognitive control, the ability to resolve information conflict, is required to correctly interpret all of these garden-paths, temporary or not. I assume the term ‘cognitive control’, as opposed to other terms such as ‘inhibitory control’, following other researchers who reason that conflict can be resolved through inhibition of irrelevant information or promotion of relevant information, or a combination of both (Botvinick, Braver, Barch, Carter &amp; Cohen, 2001; Teubner-Rhodes et al., 2016). The use of online measures has allowed researchers to isolate the region of the brain involved in cognitive control: data from psycholinguistic, neuropsychological and imaging studies converge to show that linguistic ambiguity resolution and non-linguistic cognitive control processes co-localize within the left ventrolateral prefrontal cortex (specifically the left anterior frontal gyrus, LIFG, and anterior cingular cortex, ACC) (Thompson-Schill, Bedny, &amp; Goldberg, 2005; Novick, Kan, Trueswell &amp; Thompson-Schill, 2009; January, Trueswell, Thompson-Schill, 2009, Teubner-Rhodes et al., 2016). This region, then, can be considered the center for the correct selection of information during goal-specific tasks, and in the case of sentence processing, it allows the abandonment of an incorrect initial analysis to facilitate correct comprehension (Novick, Trueswell &amp; Thompson-Schill, 2005). 
+</Text>
+        </Document>
+        <Document ID="B76903B4-66C9-42EC-BA40-579C93DC9CDF">
+            <Title>Ambiguity Resolution (monolingual)</Title>
+        </Document>
+        <Document ID="2B3C5B9A-F51E-4130-8C12-415B28CC231B">
+            <Title>Notes</Title>
+            <Text>Any documents you want to refer to as you write should be placed here.</Text>
+        </Document>
+        <Document ID="18778D05-F231-40FC-9256-7BF2F4D51F28">
+            <Title>Research Question</Title>
+            <Text>Research Questions
+Insert your specific and answerable research questions here. Bullet points are OK. The idea is to be as clear as possible.</Text>
+        </Document>
+        <Document ID="E98AC174-002B-4744-9074-03285737DF89">
+            <Title>Cover</Title>
+            <Text>Thesis Proposal
+
+A Dissertation 
+submitted to the Faculty of the 
+Graduate School of Arts and Sciences 
+of Georgetown University 
+in partial fulfillment of the requirements for the 
+degree of 
+Doctor of Philosophy 
+in Spanish
+
+
+By
+
+Timothy J. McCormick, M.S.
+
+
+
+
+
+
+
+
+
+
+Washington, D.C.
+March 5, 2018
+
+
+
+Committee Chair(s)
+
+______________________________________
+Cristina Sanz, Ph. D
+
+Committee Member(s)
+
+______________________________________
+Professor Weishaupt, Ph. D
+
+______________________________________
+Professor Wilson, Ph. D
+
+
+
+
+
+
+
+&lt;$longdate&gt;</Text>
+        </Document>
+        <Document ID="AF9F7CCC-A6B4-4F82-81D7-06974EB3327C">
+            <Title>Introduction</Title>
+            <Text>Introduction
+With recent advancements in the online measures used to study sentence processing and the psychological components involved in these processes, many questions have emerged, especially questions regarding sentence processing in bilinguals, a group historically understudied in the various interdisciplinary fields involved in sentence processing. Even more grave, a great number of studies conflate different language profiles into the broader ‘bilingual’, even though these distinctions may result in entirely distinct linguistic and cognitive development patterns, suggesting that research explicitly exploring these narrower profiles is in order.
+One recent trend in research builds on the association between cognitive control and conflict resolution to determine how the linguistic system engages with conflict. However, how different language profiles engage with conflict, particularly in a second or non-dominant language, remains entirely unclear. In what follows, I will motivate research that considers the role of cognitive control during sentence processing at different proficiencies for the adult second language learner and at different levels of language dominance in the heritage language bilingual. This research will bridge findings from several different fields of cognitive science, particularly second language acquisition, psycholinguistics and neuroscience and neuroimaging. 
+</Text>
+        </Document>
+        <Document ID="120A1E20-66BC-443A-ACAA-CD2EA4C6A117">
+            <Title>Ambiguity Resolution (monolingual)</Title>
+        </Document>
+        <Document ID="B5E04952-A456-4D42-9CB9-716EC52E9D9A">
+            <Title>Problem, Study 2: Emergent bilinguals -- cog control has 2 roles</Title>
+        </Document>
+        <Document ID="91DD9CBB-C816-4934-A2AB-3E7293B74611">
+            <Title>Budget</Title>
+            <Text>Budget
+This should be as detailed as possible but simple to understand. A simple table with line items should suffice. Any descriptions or justifications can be done below the table.
+
+Line Item
+Amount
+
+
+
+
+
+
+Total
+
+
+</Text>
+        </Document>
+        <Document ID="522FD958-061A-46F2-82AA-1FDDA631E90A">
+            <Title>Method of Approach</Title>
+            <Text>Method of Approach
+The research methodology you will employ including location, data collection techniques, analysis techniques, etc.</Text>
+        </Document>
+        <Document ID="446AFCBD-D4AC-4660-9CEE-8B1B1B1B9735">
+            <Title>Acknowledgements</Title>
+            <Text>Writing a dissertation has been truly humbling and I feel tremendous gratitude for the support and lessons I have received along the way. To Cristina Sanz, my mentor and friend: I admire you in so many ways, but especially as a scholar, teacher, and superwoman in general. Thank you for believing in my ideas and in my ability to pursue them from the beginning, and for the laughter and many entertaining metaphors in your office that involved onion layers and forests. I am beyond grateful for your clarity, scholarly guidance, excellent feedback, and for the many times you have renewed my confidence in this process during the last five years. To Ron Leow, my 'boss' and friend: Thank you for the many opportunities you have given me, for encouraging me to think deeper and question assumptions in our field, and for your many famous reminders, my favorite of which is to have fun and enjoy the journey! You have undoubtedly pushed me to grow as a scholar, teacher, and administrator. To Nuria Sagarra, who has been an invaluable committee member and friend: I remember meeting in a café in Barcelona to "chat" about working memory, automatization, and L2 proficiency and feeling grateful, though maybe surprised, that you were on board with this kitchen sink project. Thank you for your continuous flexibility and sharp feedback, which has truly improved my dissertation and future research. I also owe a great deal to our resident statistician, Rusan Chen, for his ever cheerful guidance in carrying out statistical analyses, even when I asked questions I should have already known the answer to, and for the refreshing view of the Potomac river from his office window. It brightened my day many times. To the beginning, intermediate, and advanced Spanish instructors at Georgetown who let me invade their classrooms and to their students who volunteered to participate in this research: You deserve many years of good karma. Thank you for your curiosity and commitment to taking vi part in this study, despite the frequent classroom interruptions, annoying reminder emails, and endless hours spent with me in a language lab. Your smiles and positive attitudes were contagious. To my own students who I have had the privilege of teaching over the last five years: Thank you for being an outlet of creativity in the classroom, for your good humor and hard work, and for reminding me on a daily basis of why I am lucky to teach and research language. I am very thankful for my Hoya family of friends and colleagues who have shared in the highs and lows of this experience with me. To Sarah Grey, Julio Torres, Germán Zárate-Sández, Jason Robinson, Jessie Cox, Annie Calderón, Kaitlyn Tagarelli, Julie Lake, Marisa Filgueras, Charlie Nagle, Sergio Adrada, Ana María Ferreira, Eli Kissling, Aubrey Logan-Terry, Rachael Albritten, Luis Cerezo, Missy Baralt, and Laura Gurzynski-Weiss: thank you for meeting me at some point along this seemingly endless, but always entertaining road of being a Ph.D. student. Your friendship and work ethic have been inspiring and provided much needed laughter many times along the way. This dissertation would not have been possible without my parents, who have loved and supported me unconditionally throughout every chapter in my life, and to whom I dedicate this dissertation. To Mom and Dad: Thank you for being so very proud of me and for believing in my ability to achieve my goals, even when that meant moving across the country and world. Dad, you are a constant example of hard work and dedication and I will always carry your lessons and advice with me, though I am still refining the art of 'working smarter, not harder'. Mom, your excitement about each small step forward and comfort during each minor setback always renewed my drive to keep going and I have felt stronger after every phone call. To Mom and Ed: Thank you for your boundless pride and confidence in my decisions, for celebrating each milestone, and for continuously emphasizing the value of investing in myself. Your generous vii support and reminders to take it one day at a time have helped me keep the bigger picture and the end goal in mind. To my 'baby' sisters, Masa and Gigi: Thank you for ensuring I kept a sense of humor and didn't take this thing too seriously, for always listening to the good and the bad, and of course, for advising me on what to wear during this process. To my suegros, Phil and Mary Alice: Thank you for reminding me to be kind to myself and to reboot and realign the plan when needed. Your genuine interest and pride in my work has truly been a source of motivation. To my Grandma and Grandpa Duffy, Grammy, and Papa Phil: Thank you for always asking questions about my students and research, and sincerely wanting to hear the answers. I feel fortunate to have you in my life and to have shared this experience with you. To my Grandma and Grandpa Johnson: You have been present during this journey even though you are no longer here; thank you for your never-ending pride in me. To my aunts, uncles, cousins, nieces, brotherin-law, and sister-in-law who live near and too far away: Thank you for being supportive and curious about what was happening in my world at every family gathering. You are a constant reminder of what matters most. Finally, to my husband and best friend, Ted Serafini: Thank you for climbing this mountain with me. I would not have wanted to do it without you or your jokes, even the ones you tend to repeat. Thank you for always making me laugh, for making me take a break from the computer to walk or run in the sunshine and feel human again, for picking me up at campus during data collection marathon weekends, for bringing me plants, flowers, coffee, wine, chocolate, etc., for going salsa dancing when you needed to study, for always supporting and listening to me no matter what you had on your plate, and above all, for continually teaching me about persistence and determination. You are an unfailing source of strength and love.</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

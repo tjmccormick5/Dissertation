@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompileSettings Template="Yes">
+    <FormatSettings>
+        <Format ID="research-proposal">
+            <SectionLayouts>
+                <Type ID="EC833E84-08CD-4077-8204-CF0B42E0087B">AS-IS</Type>
+                <Type ID="D9C591D0-15A7-4F23-8143-D42D3B0D37E9">TEXT-SECTION</Type>
+            </SectionLayouts>
+        </Format>
+    </FormatSettings>
+    <CurrentFileType>Print</CurrentFileType>
+    <LastUsedFormats>
+        <Print>research-proposal</Print>
+    </LastUsedFormats>
+</CompileSettings>
