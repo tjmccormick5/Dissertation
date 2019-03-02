@@ -1,0 +1,152 @@
+26.0363 	EXP 	Created window1 = Window(allowGUI=True, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=<method-wrapper '__getattribute__' of attributeSetter object at 0x124546eb8>, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x129ebbcf8>, multiSample=False, name='window1', numSamples=2, pos=[0.0, 0.0], screen=0, size=array([1440,  900]), stereo=False, units='norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType='pyglet')
+26.0364 	EXP 	window1: recordFrameIntervals = False
+26.1982 	EXP 	window1: recordFrameIntervals = True
+26.3823 	EXP 	window1: recordFrameIntervals = False
+26.7108 	EXP 	Created introText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='introText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+26.7909 	EXP 	Created Intro2text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='Intro2text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+26.8526 	EXP 	Created FlankerInstructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='FlankerInstructions', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+26.9021 	EXP 	Created flankerInstructions2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='flankerInstructions2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+26.9070 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='+', units='norm', win=Window(...), wrapWidth=1)
+26.9707 	EXP 	Created practiceFlanker = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='practiceFlanker', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+27.0437 	EXP 	Created SPRInstructions = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='SPRInstructions', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.2032 	EXP 	Created text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.2490 	EXP 	Created SPRinstructions2 = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='SPRinstructions2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.2607 	EXP 	Created practiceSentences = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='practiceSentences', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='This should not appear', units='norm', win=Window(...), wrapWidth=1)
+27.2671 	EXP 	Created practiceCompQ = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='practiceCompQ', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+27.2727 	EXP 	Created practiceCompRespLeft = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='practiceCompRespLeft', opacity=1.0, ori=0, pos=array([-0.5, -0.5]), rgb=array([0., 0., 0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+27.2782 	EXP 	Created practiceCompRespRight = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='practiceCompRespRight', opacity=1.0, ori=0, pos=array([ 0.5, -0.5]), rgb=array([0., 0., 0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+27.3407 	EXP 	Created Instructions_Combined = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='Instructions_Combined', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.3789 	EXP 	Created instructionsMixedText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='instructionsMixedText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.3820 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='+', units='norm', win=Window(...), wrapWidth=1)
+27.3842 	EXP 	Created imageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='imageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+27.3878 	EXP 	Created fixation2text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fixation2text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='+', units='norm', win=Window(...), wrapWidth=1)
+27.3944 	EXP 	Created sentences = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='sentences', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='This should not appear', units='norm', win=Window(...), wrapWidth=1)
+27.3998 	EXP 	Created questTS = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='questTS', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+27.4049 	EXP 	Created respLeftTS = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='respLeftTS', opacity=1.0, ori=0, pos=array([-0.5, -0.5]), rgb=array([0., 0., 0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+27.4106 	EXP 	Created respRightTS = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='respRightTS', opacity=1.0, ori=0, pos=array([ 0.5, -0.5]), rgb=array([0., 0., 0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+27.4249 	EXP 	Created spacetoContinue = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='spacetoContinue', opacity=1.0, ori=0, pos=array([ 0. , -0.7]), rgb=array([0., 0., 0.]), text="Pulsa 'espacio' para continuar.", units='norm', win=Window(...), wrapWidth=1)
+27.4565 	EXP 	Created textAccuracyCheck = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='textAccuracyCheck', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.5038 	EXP 	Created preStartText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='preStartText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.5069 	EXP 	Created fixation_cross = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fixation_cross', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='+', units='norm', win=Window(...), wrapWidth=1)
+27.5090 	EXP 	Created imageStim = ImageStim(__class__=<class 'psychopy.visual.image.ImageStim'>, autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='imageStim', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([1., 1.]), texRes=128, units='norm', win=Window(...))
+27.5139 	EXP 	Created fixation2text = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='fixation2text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='+', units='norm', win=Window(...), wrapWidth=1)
+27.5209 	EXP 	Created sentences = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='sentences', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='This should not appear', units='norm', win=Window(...), wrapWidth=1)
+27.5264 	EXP 	Created questTS = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='questTS', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+27.5317 	EXP 	Created respLeftTS = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='respLeftTS', opacity=1.0, ori=0, pos=array([-0.5, -0.5]), rgb=array([0., 0., 0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+27.5375 	EXP 	Created respRightTS = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='respRightTS', opacity=1.0, ori=0, pos=array([ 0.5, -0.5]), rgb=array([0., 0., 0.]), text='default text', units='norm', win=Window(...), wrapWidth=1)
+27.5710 	EXP 	Created RestText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='RestText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.5786 	EXP 	Created PressSpaceToContinue = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='PressSpaceToContinue', opacity=1.0, ori=0, pos=array([ 0. , -0.7]), rgb=array([0., 0., 0.]), text="Press 'space' to continue.", units='norm', win=Window(...), wrapWidth=1)
+27.5865 	EXP 	Created midBlockBreakText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.075, italic=False, languageStyle='LTR', name='midBlockBreakText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text='Tómate un momento para descansar. \n', units='norm', win=Window(...), wrapWidth=1)
+27.5966 	EXP 	Created pressSpace = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.04, italic=False, languageStyle='LTR', name='pressSpace', opacity=1.0, ori=0, pos=array([ 0. , -0.7]), rgb=array([0., 0., 0.]), text="Pulsa 'espacio' para continuar.", units='norm', win=Window(...), wrapWidth=1)
+27.6234 	EXP 	Created restBetweenBlocks = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='restBetweenBlocks', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.6577 	EXP 	Created EndText = TextStim(__class__=<class 'psychopy.visual.text.TextStim'>, alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, languageStyle='LTR', name='EndText', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=str(...), units='norm', win=Window(...), wrapWidth=1)
+27.6858 	EXP 	introText: autoDraw = True
+28.5744 	DATA 	Keypress: space
+29.4260 	DATA 	Keypress: space
+30.6641 	DATA 	Keypress: space
+30.6764 	EXP 	introText: autoDraw = False
+30.6764 	EXP 	Intro2text: autoDraw = True
+32.1993 	DATA 	Keypress: space
+32.5674 	DATA 	Keypress: space
+33.9058 	DATA 	Keypress: space
+33.9353 	EXP 	Intro2text: autoDraw = False
+33.9353 	EXP 	FlankerInstructions: autoDraw = True
+36.9650 	DATA 	Keypress: space
+37.0005 	EXP 	Created sequence: random, trialTypes=1, nReps=999, seed=None
+37.0066 	EXP 	New trial (rep=0, index=0): None
+37.0266 	EXP 	FlankerInstructions: autoDraw = False
+37.0266 	EXP 	flankerInstructions2: autoDraw = True
+39.7718 	DATA 	Keypress: space
+39.9003 	EXP 	Imported Practice.xlsx as conditions, 6 conditions, 9 params
+39.9036 	EXP 	Created sequence: random, trialTypes=6, nReps=4, seed=None
+39.9046 	EXP 	New trial (rep=0, index=0): OrderedDict([('practiceimage', 'single_left'), ('PracticeimageCorrAns', 'f'), ('congruent', 0), ('practiceSentence', 'The questions that follow each sentence sometimes will be obvious and sometimes more difficult '), ('practiceSentenceCompQ', 'The difficulty of each sentence varies.'), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'f'), ('block', 'practice')])
+39.9183 	EXP 	flankerInstructions2: autoDraw = False
+39.9183 	EXP 	fixation_cross: autoDraw = True
+40.8052 	WARNING 	Requested image 'single_left' not found but similar filename 'single_left.png' exists. This will be used instead but changing the filename is advised.
+41.0715 	EXP 	fixation_cross: autoDraw = False
+41.0715 	EXP 	practiceFlanker: image = 'single_left'
+41.0715 	EXP 	practiceFlanker: autoDraw = True
+41.5914 	DATA 	Keypress: f
+41.5933 	EXP 	New trial (rep=0, index=1): OrderedDict([('practiceimage', 'congruent_left'), ('PracticeimageCorrAns', 'f'), ('congruent', 1), ('practiceSentence', 'This is an example of the sentences you will see throughout the study'), ('practiceSentenceCompQ', 'You just saw an example of a stimulus.'), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'f'), ('block', 'practice')])
+41.6055 	EXP 	practiceFlanker: autoDraw = False
+41.6055 	EXP 	fixation_cross: autoDraw = True
+42.5933 	WARNING 	Requested image 'congruent_left' not found but similar filename 'congruent_left.png' exists. This will be used instead but changing the filename is advised.
+42.6760 	EXP 	fixation_cross: autoDraw = False
+42.6760 	EXP 	fixation_cross: autoDraw = False
+42.6760 	EXP 	practiceFlanker: image = 'congruent_left'
+42.6760 	EXP 	practiceFlanker: autoDraw = True
+43.0611 	DATA 	Keypress: f
+43.0626 	EXP 	New trial (rep=0, index=2): OrderedDict([('practiceimage', 'incongruent_left'), ('PracticeimageCorrAns', 'f'), ('congruent', 0), ('practiceSentence', "Sometimes they'll be short"), ('practiceSentenceCompQ', 'All sentences are the same.'), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'j'), ('block', 'practice')])
+43.0768 	EXP 	practiceFlanker: autoDraw = False
+43.0768 	EXP 	fixation_cross: autoDraw = True
+44.0627 	WARNING 	Requested image 'incongruent_left' not found but similar filename 'incongruent_left.png' exists. This will be used instead but changing the filename is advised.
+44.1448 	EXP 	fixation_cross: autoDraw = False
+44.1448 	EXP 	fixation_cross: autoDraw = False
+44.1448 	EXP 	practiceFlanker: image = 'incongruent_left'
+44.1448 	EXP 	practiceFlanker: autoDraw = True
+44.5329 	DATA 	Keypress: j
+44.5344 	EXP 	New trial (rep=0, index=3): OrderedDict([('practiceimage', 'congruent_right'), ('PracticeimageCorrAns', 'j'), ('congruent', 1), ('practiceSentence', 'Sometimes the sentences will be longer'), ('practiceSentenceCompQ', 'Some sentences are long.'), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'f'), ('block', 'practice')])
+44.5472 	EXP 	practiceFlanker: autoDraw = False
+44.5472 	EXP 	fixation_cross: autoDraw = True
+44.6527 	DATA 	Keypress: f
+45.5315 	WARNING 	Requested image 'congruent_right' not found but similar filename 'congruent_right.png' exists. This will be used instead but changing the filename is advised.
+45.6001 	EXP 	fixation_cross: autoDraw = False
+45.6001 	EXP 	fixation_cross: autoDraw = False
+45.6001 	EXP 	practiceFlanker: image = 'congruent_right'
+45.6001 	EXP 	practiceFlanker: autoDraw = True
+46.0046 	DATA 	Keypress: j
+46.0065 	EXP 	New trial (rep=0, index=4): OrderedDict([('practiceimage', 'incongruent_right'), ('PracticeimageCorrAns', 'j'), ('congruent', 0), ('practiceSentence', 'Your task is to read the sentence in the most natural way possible'), ('practiceSentenceCompQ', "You don't have to pay attention to the sentence."), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'j'), ('block', 'practice')])
+46.0164 	EXP 	practiceFlanker: autoDraw = False
+46.0164 	EXP 	fixation_cross: autoDraw = True
+47.0029 	WARNING 	Requested image 'incongruent_right' not found but similar filename 'incongruent_right.png' exists. This will be used instead but changing the filename is advised.
+47.0703 	EXP 	fixation_cross: autoDraw = False
+47.0703 	EXP 	fixation_cross: autoDraw = False
+47.0703 	EXP 	practiceFlanker: image = 'incongruent_right'
+47.0703 	EXP 	practiceFlanker: autoDraw = True
+47.5255 	DATA 	Keypress: j
+47.5271 	EXP 	New trial (rep=0, index=5): OrderedDict([('practiceimage', 'single_right'), ('PracticeimageCorrAns', 'j'), ('congruent', 0), ('practiceSentence', "It's no problem if you need to guess the answer from time to time"), ('practiceSentenceCompQ', "It's important that you don't guess."), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'j'), ('block', 'practice')])
+47.5376 	EXP 	practiceFlanker: autoDraw = False
+47.5376 	EXP 	fixation_cross: autoDraw = True
+48.5252 	WARNING 	Requested image 'single_right' not found but similar filename 'single_right.png' exists. This will be used instead but changing the filename is advised.
+48.5917 	EXP 	fixation_cross: autoDraw = False
+48.5917 	EXP 	fixation_cross: autoDraw = False
+48.5917 	EXP 	practiceFlanker: image = 'single_right'
+48.5917 	EXP 	practiceFlanker: autoDraw = True
+48.8944 	DATA 	Keypress: j
+48.8965 	EXP 	New trial (rep=1, index=0): OrderedDict([('practiceimage', 'congruent_right'), ('PracticeimageCorrAns', 'j'), ('congruent', 1), ('practiceSentence', 'Sometimes the sentences will be longer'), ('practiceSentenceCompQ', 'Some sentences are long.'), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'f'), ('block', 'practice')])
+48.9083 	EXP 	practiceFlanker: autoDraw = False
+48.9083 	EXP 	fixation_cross: autoDraw = True
+49.8946 	WARNING 	Requested image 'congruent_right' not found but similar filename 'congruent_right.png' exists. This will be used instead but changing the filename is advised.
+49.9615 	EXP 	fixation_cross: autoDraw = False
+49.9615 	EXP 	fixation_cross: autoDraw = False
+49.9615 	EXP 	practiceFlanker: image = 'congruent_right'
+49.9615 	EXP 	practiceFlanker: autoDraw = True
+50.4003 	DATA 	Keypress: j
+50.4026 	EXP 	New trial (rep=1, index=1): OrderedDict([('practiceimage', 'congruent_left'), ('PracticeimageCorrAns', 'f'), ('congruent', 1), ('practiceSentence', 'This is an example of the sentences you will see throughout the study'), ('practiceSentenceCompQ', 'You just saw an example of a stimulus.'), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'f'), ('block', 'practice')])
+50.4129 	EXP 	practiceFlanker: autoDraw = False
+50.4129 	EXP 	fixation_cross: autoDraw = True
+51.4004 	WARNING 	Requested image 'congruent_left' not found but similar filename 'congruent_left.png' exists. This will be used instead but changing the filename is advised.
+51.4810 	EXP 	fixation_cross: autoDraw = False
+51.4810 	EXP 	fixation_cross: autoDraw = False
+51.4810 	EXP 	practiceFlanker: image = 'congruent_left'
+51.4810 	EXP 	practiceFlanker: autoDraw = True
+51.8547 	DATA 	Keypress: f
+51.8693 	EXP 	New trial (rep=1, index=2): OrderedDict([('practiceimage', 'single_right'), ('PracticeimageCorrAns', 'j'), ('congruent', 0), ('practiceSentence', "It's no problem if you need to guess the answer from time to time"), ('practiceSentenceCompQ', "It's important that you don't guess."), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'j'), ('block', 'practice')])
+51.8840 	EXP 	practiceFlanker: autoDraw = False
+51.8840 	EXP 	fixation_cross: autoDraw = True
+52.8706 	WARNING 	Requested image 'single_right' not found but similar filename 'single_right.png' exists. This will be used instead but changing the filename is advised.
+52.9367 	EXP 	fixation_cross: autoDraw = False
+52.9367 	EXP 	fixation_cross: autoDraw = False
+52.9367 	EXP 	practiceFlanker: image = 'single_right'
+52.9367 	EXP 	practiceFlanker: autoDraw = True
+53.3413 	DATA 	Keypress: j
+53.3438 	EXP 	New trial (rep=1, index=3): OrderedDict([('practiceimage', 'incongruent_left'), ('PracticeimageCorrAns', 'f'), ('congruent', 0), ('practiceSentence', "Sometimes they'll be short"), ('practiceSentenceCompQ', 'All sentences are the same.'), ('compRespL', 'Verdadero'), ('compRespR', 'Falso'), ('compRespCorr', 'j'), ('block', 'practice')])
+53.3541 	EXP 	practiceFlanker: autoDraw = False
+53.3541 	EXP 	fixation_cross: autoDraw = True
+54.3408 	WARNING 	Requested image 'incongruent_left' not found but similar filename 'incongruent_left.png' exists. This will be used instead but changing the filename is advised.
+54.4220 	EXP 	fixation_cross: autoDraw = False
+54.4220 	EXP 	fixation_cross: autoDraw = False
+54.4220 	EXP 	practiceFlanker: image = 'incongruent_left'
+54.4220 	EXP 	practiceFlanker: autoDraw = True
+55.1884 	DATA 	Keypress: escape
+55.2766 	EXP 	window1: mouseVisible = True

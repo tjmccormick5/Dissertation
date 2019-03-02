@@ -1,0 +1,383 @@
+399.5259 	EXP 	Created window1 = Window(allowGUI=False, allowStencil=False, args=UNKNOWN, autoLog=True, bitsMode=UNKNOWN, blendMode='avg', color=array([0., 0., 0.]), colorSpace='rgb', fullscr=UNKNOWN, gamma=None, kwargs=UNKNOWN, lms=UNKNOWN, monitor=<psychopy.monitors.calibTools.Monitor object at 0x1148b0710>, multiSample=False, name='window1', numSamples=2, pos=[0, 0], screen=0, size=array([1440,  900]), stereo=False, units=u'norm', useFBO=True, useRetina=False, viewOri=0.0, viewPos=None, viewScale=None, waitBlanking=True, winType=u'pyglet')
+399.5260 	EXP 	window1: recordFrameIntervals = False
+399.6934 	EXP 	window1: recordFrameIntervals = True
+399.8773 	EXP 	window1: recordFrameIntervals = False
+400.3606 	EXP 	Created VocabTrainingInstructions = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='Black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='Courier', fontFiles=[], height=0.1, italic=False, name='VocabTrainingInstructions', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+400.3764 	EXP 	Created vocabPicAssoc = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, name='vocabPicAssoc', opacity=1.0, ori=0, pos=array([0. , 0.5]), rgb=array([0., 0., 0.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+400.3863 	EXP 	Created TranslationTraining = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-1.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, name='TranslationTraining', opacity=1.0, ori=0, pos=array([ 0. , -0.5]), rgb=array([0., 0., 0.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+400.3888 	EXP 	Created image = ImageStim(autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='image', opacity=1.0, ori=0.0, pos=array([0., 0.]), size=array([0.5, 0.5]), texRes=128, units=u'norm', win=Window(...))
+400.4177 	EXP 	Created pressSpace = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.05, italic=False, name='pressSpace', opacity=1.0, ori=0, pos=array([ 0.  , -0.75]), rgb=array([0., 0., 0.]), text="Press 'Space' to continue.", units=u'norm', win=Window(...), wrapWidth=1)
+400.5543 	EXP 	Created text = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, name='text', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+400.6307 	EXP 	Created instructions2 = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, name='instructions2', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+400.6504 	EXP 	Created Question = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, name='Question', opacity=1.0, ori=0, pos=array([0.  , 0.75]), rgb=array([0., 0., 0.]), text='\xbfCu\xe1l im\xe1gen representa...', units=u'norm', win=Window(...), wrapWidth=1)
+400.6523 	EXP 	Created imageA = ImageStim(autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-2.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='imageA', opacity=1.0, ori=0.0, pos=array([-0.75,  0.  ]), size=array([0.45, 0.45]), texRes=128, units=u'norm', win=Window(...))
+400.6542 	EXP 	Created imageF = ImageStim(autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-3.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='imageF', opacity=1.0, ori=0.0, pos=array([-0.25,  0.  ]), size=array([0.45, 0.45]), texRes=128, units=u'norm', win=Window(...))
+400.6561 	EXP 	Created imageJ = ImageStim(autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-4.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='imageJ', opacity=1.0, ori=0.0, pos=array([0.25, 0.  ]), size=array([0.45, 0.45]), texRes=128, units=u'norm', win=Window(...))
+400.6580 	EXP 	Created imageSemicolon = ImageStim(autoLog=True, color=array([1., 1., 1.]), colorSpace='rgb', contrast=1.0, depth=-5.0, flipHoriz=False, flipVert=False, image='sin', interpolate=True, mask=None, maskParams=None, name='imageSemicolon', opacity=1.0, ori=0.0, pos=array([0.75, 0.  ]), size=array([0.45, 0.45]), texRes=128, units=u'norm', win=Window(...))
+400.6675 	EXP 	Created criticalText = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='Black', colorSpace='named', contrast=1.0, depth=-6.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, name='criticalText', opacity=1.0, ori=0, pos=array([0. , 0.5]), rgb=array([0., 0., 0.]), text='default text', units=u'norm', win=Window(...), wrapWidth=1)
+400.7606 	EXP 	Created restPhase = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, name='restPhase', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+400.8361 	EXP 	Created goodbye = TextStim(alignHoriz='center', alignVert='center', antialias=True, autoLog=True, bold=False, color='black', colorSpace='named', contrast=1.0, depth=0.0, flipHoriz=False, flipVert=False, font='courier', fontFiles=[], height=0.1, italic=False, name='goodbye', opacity=1.0, ori=0, pos=array([0., 0.]), rgb=array([0., 0., 0.]), text=newstr(...), units=u'norm', win=Window(...), wrapWidth=1)
+400.8615 	EXP 	VocabTrainingInstructions: autoDraw = True
+492.1826 	DATA 	Keypress: right
+566.8354 	DATA 	Keypress: space
+566.8375 	EXP 	Created sequence: sequential, trialTypes=1, nReps=2, seed=None
+566.8379 	EXP 	New trial (rep=0, index=0): None
+566.8491 	EXP 	Created sequence: random, trialTypes=1, nReps=999, seed=None
+566.8548 	EXP 	New trial (rep=0, index=0): None
+566.8887 	EXP 	Imported VocabTrainingA.csv as conditions, 21 conditions, 11 params
+566.8891 	EXP 	Created sequence: fullRandom, trialTypes=21, nReps=1, seed=None
+566.8898 	EXP 	New trial (rep=0, index=0): OrderedDict([(u'MatchingSection', u'el cuaderno?'), (u'ColumnA', u'librero'), (u'ColumnF', u'sucio'), (u'ColumnJ', u'cuaderno'), (u'ColumnSemicolon', u'jardinero'), (u'Translation', u'notebook'), (u'CorrectAnswer', u'j'), (u'Training', None), (u'TrainingFull', u'el cuaderno'), (u'imagename', u'cuaderno'), (u'Counterbalance', 1)])
+566.9065 	WARNING 	Requested image u'cuaderno' not found but similar filename u'cuaderno.jpg' exists. This will be used instead but changing the filename is advised.
+567.0801 	EXP 	VocabTrainingInstructions: autoDraw = False
+567.0801 	EXP 	vocabPicAssoc: text = u'el cuaderno'
+567.0801 	EXP 	TranslationTraining: text = u'notebook'
+567.0801 	EXP 	image: image = u'cuaderno'
+567.0801 	EXP 	vocabPicAssoc: autoDraw = True
+567.0801 	EXP 	TranslationTraining: autoDraw = True
+567.0801 	EXP 	image: autoDraw = True
+567.9137 	EXP 	pressSpace: autoDraw = True
+576.2044 	DATA 	Keypress: space
+576.2062 	EXP 	New trial (rep=0, index=1): OrderedDict([(u'MatchingSection', u'la biblia?'), (u'ColumnA', u'biblia'), (u'ColumnF', u'vaciar'), (u'ColumnJ', u'escalera'), (u'ColumnSemicolon', u'maleta'), (u'Translation', u'bible'), (u'CorrectAnswer', u'a'), (u'Training', None), (u'TrainingFull', u'la biblia'), (u'imagename', u'biblia'), (u'Counterbalance', 1)])
+576.2205 	WARNING 	Requested image u'biblia' not found but similar filename u'biblia.jpg' exists. This will be used instead but changing the filename is advised.
+576.2523 	EXP 	vocabPicAssoc: autoDraw = False
+576.2523 	EXP 	TranslationTraining: autoDraw = False
+576.2523 	EXP 	image: autoDraw = False
+576.2523 	EXP 	pressSpace: autoDraw = False
+576.2523 	EXP 	vocabPicAssoc: text = u'la biblia'
+576.2523 	EXP 	TranslationTraining: text = u'bible'
+576.2523 	EXP 	image: image = u'biblia'
+576.2523 	EXP 	vocabPicAssoc: autoDraw = True
+576.2523 	EXP 	TranslationTraining: autoDraw = True
+576.2523 	EXP 	image: autoDraw = True
+577.2387 	EXP 	pressSpace: autoDraw = True
+577.2412 	DATA 	Keypress: space
+577.2424 	EXP 	New trial (rep=0, index=2): OrderedDict([(u'MatchingSection', u'las monedas?'), (u'ColumnA', u'saltarlacuerda'), (u'ColumnF', u'aviso'), (u'ColumnJ', u'monedas'), (u'ColumnSemicolon', u'escalera'), (u'Translation', u'coins'), (u'CorrectAnswer', u'j'), (u'Training', None), (u'TrainingFull', u'las monedas'), (u'imagename', u'monedas'), (u'Counterbalance', 1)])
+577.2577 	WARNING 	Requested image u'monedas' not found but similar filename u'monedas.jpg' exists. This will be used instead but changing the filename is advised.
+577.3065 	EXP 	vocabPicAssoc: autoDraw = False
+577.3065 	EXP 	TranslationTraining: autoDraw = False
+577.3065 	EXP 	image: autoDraw = False
+577.3065 	EXP 	pressSpace: autoDraw = False
+577.3065 	EXP 	vocabPicAssoc: text = u'las monedas'
+577.3065 	EXP 	TranslationTraining: text = u'coins'
+577.3065 	EXP 	image: image = u'monedas'
+577.3065 	EXP 	vocabPicAssoc: autoDraw = True
+577.3065 	EXP 	TranslationTraining: autoDraw = True
+577.3065 	EXP 	image: autoDraw = True
+578.2759 	EXP 	pressSpace: autoDraw = True
+578.4963 	DATA 	Keypress: space
+578.4983 	EXP 	New trial (rep=0, index=3): OrderedDict([(u'MatchingSection', u'el librero?'), (u'ColumnA', u'aviso'), (u'ColumnF', u'librero'), (u'ColumnJ', u'diamante'), (u'ColumnSemicolon', u'fregadero'), (u'Translation', u'shelf'), (u'CorrectAnswer', u'f'), (u'Training', None), (u'TrainingFull', u'el librero'), (u'imagename', u'librero'), (u'Counterbalance', 1)])
+578.5146 	WARNING 	Requested image u'librero' not found but similar filename u'librero.jpg' exists. This will be used instead but changing the filename is advised.
+578.5768 	EXP 	vocabPicAssoc: autoDraw = False
+578.5768 	EXP 	TranslationTraining: autoDraw = False
+578.5768 	EXP 	image: autoDraw = False
+578.5768 	EXP 	pressSpace: autoDraw = False
+578.5768 	EXP 	vocabPicAssoc: text = u'el librero'
+578.5768 	EXP 	TranslationTraining: text = u'shelf'
+578.5768 	EXP 	image: image = u'librero'
+578.5768 	EXP 	vocabPicAssoc: autoDraw = True
+578.5768 	EXP 	TranslationTraining: autoDraw = True
+578.5768 	EXP 	image: autoDraw = True
+579.5294 	EXP 	pressSpace: autoDraw = True
+579.9329 	DATA 	Keypress: space
+579.9348 	EXP 	New trial (rep=0, index=4): OrderedDict([(u'MatchingSection', u'renunciar?'), (u'ColumnA', u'porche'), (u'ColumnF', u'escalera'), (u'ColumnJ', u'librero'), (u'ColumnSemicolon', u'renunciar'), (u'Translation', u'to quit'), (u'CorrectAnswer', u'semicolon'), (u'Training', None), (u'TrainingFull', u'renunciar'), (u'imagename', u'renunciar'), (u'Counterbalance', 1)])
+579.9545 	WARNING 	Requested image u'renunciar' not found but similar filename u'renunciar.jpeg' exists. This will be used instead but changing the filename is advised.
+579.9975 	EXP 	vocabPicAssoc: autoDraw = False
+579.9975 	EXP 	TranslationTraining: autoDraw = False
+579.9975 	EXP 	image: autoDraw = False
+579.9975 	EXP 	pressSpace: autoDraw = False
+579.9975 	EXP 	vocabPicAssoc: text = u'renunciar'
+579.9975 	EXP 	TranslationTraining: text = u'to quit'
+579.9975 	EXP 	image: image = u'renunciar'
+579.9975 	EXP 	vocabPicAssoc: autoDraw = True
+579.9975 	EXP 	TranslationTraining: autoDraw = True
+579.9975 	EXP 	image: autoDraw = True
+580.5515 	DATA 	Keypress: right
+580.8694 	DATA 	Keypress: space
+580.8714 	EXP 	New trial (rep=0, index=5): OrderedDict([(u'MatchingSection', u'algo sucio?'), (u'ColumnA', u'fregadero'), (u'ColumnF', u'biblia'), (u'ColumnJ', u'saltarlacuerda'), (u'ColumnSemicolon', u'sucio'), (u'Translation', u'dirty'), (u'CorrectAnswer', u'semicolon'), (u'Training', None), (u'TrainingFull', u'sucio'), (u'imagename', u'sucio'), (u'Counterbalance', 1)])
+580.8868 	WARNING 	Requested image u'sucio' not found but similar filename u'sucio.jpg' exists. This will be used instead but changing the filename is advised.
+580.9498 	EXP 	vocabPicAssoc: autoDraw = False
+580.9498 	EXP 	TranslationTraining: autoDraw = False
+580.9498 	EXP 	image: autoDraw = False
+580.9498 	EXP 	pressSpace: autoDraw = False
+580.9498 	EXP 	vocabPicAssoc: text = u'sucio'
+580.9498 	EXP 	TranslationTraining: text = u'dirty'
+580.9498 	EXP 	image: image = u'sucio'
+580.9498 	EXP 	vocabPicAssoc: autoDraw = True
+580.9498 	EXP 	TranslationTraining: autoDraw = True
+580.9498 	EXP 	image: autoDraw = True
+581.0388 	DATA 	Keypress: space
+581.0505 	EXP 	New trial (rep=0, index=6): OrderedDict([(u'MatchingSection', u'la escalera?'), (u'ColumnA', u'escalera'), (u'ColumnF', u'cuaderno'), (u'ColumnJ', u'renunciar'), (u'ColumnSemicolon', u'planos'), (u'Translation', u'staircase'), (u'CorrectAnswer', u'a'), (u'Training', None), (u'TrainingFull', u'la escalera'), (u'imagename', u'escalera'), (u'Counterbalance', 1)])
+581.0712 	WARNING 	Requested image u'escalera' not found but similar filename u'escalera.jpg' exists. This will be used instead but changing the filename is advised.
+581.1152 	EXP 	vocabPicAssoc: autoDraw = False
+581.1152 	EXP 	TranslationTraining: autoDraw = False
+581.1152 	EXP 	image: autoDraw = False
+581.1152 	EXP 	pressSpace: autoDraw = False
+581.1152 	EXP 	vocabPicAssoc: text = u'la escalera'
+581.1152 	EXP 	TranslationTraining: text = u'staircase'
+581.1152 	EXP 	image: image = u'escalera'
+581.1152 	EXP 	vocabPicAssoc: autoDraw = True
+581.1152 	EXP 	TranslationTraining: autoDraw = True
+581.1152 	EXP 	image: autoDraw = True
+581.2382 	DATA 	Keypress: space
+581.2515 	EXP 	New trial (rep=0, index=7): OrderedDict([(u'MatchingSection', u'saltar la cuerda?'), (u'ColumnA', u'renunciar'), (u'ColumnF', u'saltarlacuerda'), (u'ColumnJ', u'marat\xf3n'), (u'ColumnSemicolon', u'cuaderno'), (u'Translation', u'to jump rope'), (u'CorrectAnswer', u'f'), (u'Training', None), (u'TrainingFull', u'saltar la cuerda'), (u'imagename', u'saltarlacuerda'), (u'Counterbalance', 1)])
+581.2775 	WARNING 	Requested image u'saltarlacuerda' not found but similar filename u'saltarlacuerda.jpg' exists. This will be used instead but changing the filename is advised.
+581.3336 	EXP 	vocabPicAssoc: autoDraw = False
+581.3336 	EXP 	TranslationTraining: autoDraw = False
+581.3336 	EXP 	image: autoDraw = False
+581.3336 	EXP 	pressSpace: autoDraw = False
+581.3336 	EXP 	vocabPicAssoc: text = u'saltar la cuerda'
+581.3336 	EXP 	TranslationTraining: text = u'to jump rope'
+581.3336 	EXP 	image: image = u'saltarlacuerda'
+581.3336 	EXP 	vocabPicAssoc: autoDraw = True
+581.3336 	EXP 	TranslationTraining: autoDraw = True
+581.3336 	EXP 	image: autoDraw = True
+581.4209 	DATA 	Keypress: space
+581.4230 	EXP 	New trial (rep=0, index=8): OrderedDict([(u'MatchingSection', u'el escenario?'), (u'ColumnA', u'monedas'), (u'ColumnF', u'diamante'), (u'ColumnJ', u'sucio'), (u'ColumnSemicolon', u'escenario'), (u'Translation', u'stage'), (u'CorrectAnswer', u'semicolon'), (u'Training', None), (u'TrainingFull', u'el escenario'), (u'imagename', u'escenario'), (u'Counterbalance', 1)])
+581.4446 	WARNING 	Requested image u'escenario' not found but similar filename u'escenario.jpg' exists. This will be used instead but changing the filename is advised.
+581.5841 	EXP 	vocabPicAssoc: autoDraw = False
+581.5841 	EXP 	TranslationTraining: autoDraw = False
+581.5841 	EXP 	image: autoDraw = False
+581.5841 	EXP 	pressSpace: autoDraw = False
+581.5841 	EXP 	vocabPicAssoc: text = u'el escenario'
+581.5841 	EXP 	TranslationTraining: text = u'stage'
+581.5841 	EXP 	image: image = u'escenario'
+581.5841 	EXP 	vocabPicAssoc: autoDraw = True
+581.5841 	EXP 	TranslationTraining: autoDraw = True
+581.5841 	EXP 	image: autoDraw = True
+581.5867 	DATA 	Keypress: space
+581.5879 	EXP 	New trial (rep=0, index=9): OrderedDict([(u'MatchingSection', u'la maleta?'), (u'ColumnA', u'escenario'), (u'ColumnF', u'maleta'), (u'ColumnJ', u'vaciar'), (u'ColumnSemicolon', u'copa'), (u'Translation', u'suitcase'), (u'CorrectAnswer', u'f'), (u'Training', None), (u'TrainingFull', u'la maleta'), (u'imagename', u'maleta'), (u'Counterbalance', 1)])
+581.6046 	WARNING 	Requested image u'maleta' not found but similar filename u'maleta.jpg' exists. This will be used instead but changing the filename is advised.
+581.6337 	EXP 	vocabPicAssoc: autoDraw = False
+581.6337 	EXP 	TranslationTraining: autoDraw = False
+581.6337 	EXP 	image: autoDraw = False
+581.6337 	EXP 	pressSpace: autoDraw = False
+581.6337 	EXP 	vocabPicAssoc: text = u'la maleta'
+581.6337 	EXP 	TranslationTraining: text = u'suitcase'
+581.6337 	EXP 	image: image = u'maleta'
+581.6337 	EXP 	vocabPicAssoc: autoDraw = True
+581.6337 	EXP 	TranslationTraining: autoDraw = True
+581.6337 	EXP 	image: autoDraw = True
+581.7224 	DATA 	Keypress: space
+581.7346 	EXP 	New trial (rep=0, index=10): OrderedDict([(u'MatchingSection', u'el diamante?'), (u'ColumnA', u'diamante'), (u'ColumnF', u'copa'), (u'ColumnJ', u'escenario'), (u'ColumnSemicolon', u'abrigo'), (u'Translation', u'diamond'), (u'CorrectAnswer', u'a'), (u'Training', None), (u'TrainingFull', u'el diamante'), (u'imagename', u'diamante'), (u'Counterbalance', 1)])
+581.7510 	WARNING 	Requested image u'diamante' not found but similar filename u'diamante.png' exists. This will be used instead but changing the filename is advised.
+581.7836 	EXP 	vocabPicAssoc: autoDraw = False
+581.7836 	EXP 	TranslationTraining: autoDraw = False
+581.7836 	EXP 	image: autoDraw = False
+581.7836 	EXP 	pressSpace: autoDraw = False
+581.7836 	EXP 	vocabPicAssoc: text = u'el diamante'
+581.7836 	EXP 	TranslationTraining: text = u'diamond'
+581.7836 	EXP 	image: image = u'diamante'
+581.7836 	EXP 	vocabPicAssoc: autoDraw = True
+581.7836 	EXP 	TranslationTraining: autoDraw = True
+581.7836 	EXP 	image: autoDraw = True
+581.8891 	DATA 	Keypress: space
+581.8914 	EXP 	New trial (rep=0, index=11): OrderedDict([(u'MatchingSection', u'el aviso?'), (u'ColumnA', u'copa'), (u'ColumnF', u'jardinero'), (u'ColumnJ', u'abrigo'), (u'ColumnSemicolon', u'aviso'), (u'Translation', u'warning'), (u'CorrectAnswer', u'semicolon'), (u'Training', None), (u'TrainingFull', u'el aviso'), (u'imagename', u'aviso'), (u'Counterbalance', 1)])
+581.9088 	WARNING 	Requested image u'aviso' not found but similar filename u'aviso.jpg' exists. This will be used instead but changing the filename is advised.
+581.9857 	EXP 	vocabPicAssoc: autoDraw = False
+581.9857 	EXP 	TranslationTraining: autoDraw = False
+581.9857 	EXP 	image: autoDraw = False
+581.9857 	EXP 	pressSpace: autoDraw = False
+581.9857 	EXP 	vocabPicAssoc: text = u'el aviso'
+581.9857 	EXP 	TranslationTraining: text = u'warning'
+581.9857 	EXP 	image: image = u'aviso'
+581.9857 	EXP 	vocabPicAssoc: autoDraw = True
+581.9857 	EXP 	TranslationTraining: autoDraw = True
+581.9857 	EXP 	image: autoDraw = True
+582.0390 	DATA 	Keypress: space
+582.0417 	EXP 	New trial (rep=0, index=12): OrderedDict([(u'MatchingSection', u'la copa?'), (u'ColumnA', u'planos'), (u'ColumnF', u'carpeta'), (u'ColumnJ', u'copa'), (u'ColumnSemicolon', u'biblia'), (u'Translation', u'wineglass'), (u'CorrectAnswer', u'j'), (u'Training', None), (u'TrainingFull', u'la copa'), (u'imagename', u'copa'), (u'Counterbalance', 1)])
+582.0692 	WARNING 	Requested image u'copa' not found but similar filename u'copa.jpg' exists. This will be used instead but changing the filename is advised.
+582.1021 	EXP 	vocabPicAssoc: autoDraw = False
+582.1021 	EXP 	TranslationTraining: autoDraw = False
+582.1021 	EXP 	image: autoDraw = False
+582.1021 	EXP 	pressSpace: autoDraw = False
+582.1021 	EXP 	vocabPicAssoc: text = u'la copa'
+582.1021 	EXP 	TranslationTraining: text = u'wineglass'
+582.1021 	EXP 	image: image = u'copa'
+582.1021 	EXP 	vocabPicAssoc: autoDraw = True
+582.1021 	EXP 	TranslationTraining: autoDraw = True
+582.1021 	EXP 	image: autoDraw = True
+582.1928 	DATA 	Keypress: space
+582.2048 	EXP 	New trial (rep=0, index=13): OrderedDict([(u'MatchingSection', u'el porche?'), (u'ColumnA', u'maleta'), (u'ColumnF', u'monedas'), (u'ColumnJ', u'porche'), (u'ColumnSemicolon', u'diamante'), (u'Translation', u'porch'), (u'CorrectAnswer', u'j'), (u'Training', None), (u'TrainingFull', u'el porche'), (u'imagename', u'porche'), (u'Counterbalance', 1)])
+582.2233 	WARNING 	Requested image u'porche' not found but similar filename u'porche.jpg' exists. This will be used instead but changing the filename is advised.
+582.2530 	EXP 	vocabPicAssoc: autoDraw = False
+582.2530 	EXP 	TranslationTraining: autoDraw = False
+582.2530 	EXP 	image: autoDraw = False
+582.2530 	EXP 	pressSpace: autoDraw = False
+582.2530 	EXP 	vocabPicAssoc: text = u'el porche'
+582.2530 	EXP 	TranslationTraining: text = u'porch'
+582.2530 	EXP 	image: image = u'porche'
+582.2530 	EXP 	vocabPicAssoc: autoDraw = True
+582.2530 	EXP 	TranslationTraining: autoDraw = True
+582.2530 	EXP 	image: autoDraw = True
+582.3427 	DATA 	Keypress: space
+582.3555 	EXP 	New trial (rep=0, index=14): OrderedDict([(u'MatchingSection', u'vaciar?'), (u'ColumnA', u'cuaderno'), (u'ColumnF', u'escenario'), (u'ColumnJ', u'planos'), (u'ColumnSemicolon', u'vaciar'), (u'Translation', u'to empty'), (u'CorrectAnswer', u'semicolon'), (u'Training', None), (u'TrainingFull', u'vaciar'), (u'imagename', u'vaciar'), (u'Counterbalance', 1)])
+582.3730 	WARNING 	Requested image u'vaciar' not found but similar filename u'vaciar.jpg' exists. This will be used instead but changing the filename is advised.
+582.4196 	EXP 	vocabPicAssoc: autoDraw = False
+582.4196 	EXP 	TranslationTraining: autoDraw = False
+582.4196 	EXP 	image: autoDraw = False
+582.4196 	EXP 	pressSpace: autoDraw = False
+582.4196 	EXP 	vocabPicAssoc: text = u'vaciar'
+582.4196 	EXP 	TranslationTraining: text = u'to empty'
+582.4196 	EXP 	image: image = u'vaciar'
+582.4196 	EXP 	vocabPicAssoc: autoDraw = True
+582.4196 	EXP 	TranslationTraining: autoDraw = True
+582.4196 	EXP 	image: autoDraw = True
+582.5047 	DATA 	Keypress: space
+582.5061 	EXP 	New trial (rep=0, index=15): OrderedDict([(u'MatchingSection', u'el fregadero?'), (u'ColumnA', u'abrigo'), (u'ColumnF', u'renunciar'), (u'ColumnJ', u'fregadero'), (u'ColumnSemicolon', u'marat\xf3n'), (u'Translation', u'kitchen sink'), (u'CorrectAnswer', u'j'), (u'Training', None), (u'TrainingFull', u'el fregadero'), (u'imagename', u'fregadero'), (u'Counterbalance', 1)])
+582.5264 	WARNING 	Requested image u'fregadero' not found but similar filename u'fregadero.jpg' exists. This will be used instead but changing the filename is advised.
+582.5878 	EXP 	vocabPicAssoc: autoDraw = False
+582.5878 	EXP 	TranslationTraining: autoDraw = False
+582.5878 	EXP 	image: autoDraw = False
+582.5878 	EXP 	pressSpace: autoDraw = False
+582.5878 	EXP 	vocabPicAssoc: text = u'el fregadero'
+582.5878 	EXP 	TranslationTraining: text = u'kitchen sink'
+582.5878 	EXP 	image: image = u'fregadero'
+582.5878 	EXP 	vocabPicAssoc: autoDraw = True
+582.5878 	EXP 	TranslationTraining: autoDraw = True
+582.5878 	EXP 	image: autoDraw = True
+582.6577 	DATA 	Keypress: space
+582.6596 	EXP 	New trial (rep=0, index=16): OrderedDict([(u'MatchingSection', u'el abrigo?'), (u'ColumnA', u'carpeta'), (u'ColumnF', u'abrigo'), (u'ColumnJ', u'biblia'), (u'ColumnSemicolon', u'porche'), (u'Translation', u'coat'), (u'CorrectAnswer', u'f'), (u'Training', None), (u'TrainingFull', u'el abrigo'), (u'imagename', u'abrigo'), (u'Counterbalance', 1)])
+582.6758 	WARNING 	Requested image u'abrigo' not found but similar filename u'abrigo.jpg' exists. This will be used instead but changing the filename is advised.
+582.7044 	EXP 	vocabPicAssoc: autoDraw = False
+582.7044 	EXP 	TranslationTraining: autoDraw = False
+582.7044 	EXP 	image: autoDraw = False
+582.7044 	EXP 	pressSpace: autoDraw = False
+582.7044 	EXP 	vocabPicAssoc: text = u'el abrigo'
+582.7044 	EXP 	TranslationTraining: text = u'coat'
+582.7044 	EXP 	image: image = u'abrigo'
+582.7044 	EXP 	vocabPicAssoc: autoDraw = True
+582.7044 	EXP 	TranslationTraining: autoDraw = True
+582.7044 	EXP 	image: autoDraw = True
+582.8084 	DATA 	Keypress: space
+582.8232 	EXP 	New trial (rep=0, index=17): OrderedDict([(u'MatchingSection', u'el marat\xf3n?'), (u'ColumnA', u'marat\xf3n'), (u'ColumnF', u'porche'), (u'ColumnJ', u'carpeta'), (u'ColumnSemicolon', u'librero'), (u'Translation', u'marathon'), (u'CorrectAnswer', u'a'), (u'Training', None), (u'TrainingFull', u'el marat\xf3n'), (u'imagename', u'marat\xf3n'), (u'Counterbalance', 1)])
+582.8444 	WARNING 	Requested image u'marat\xf3n' not found but similar filename u'marat\xf3n.png' exists. This will be used instead but changing the filename is advised.
+582.8715 	EXP 	vocabPicAssoc: autoDraw = False
+582.8715 	EXP 	TranslationTraining: autoDraw = False
+582.8715 	EXP 	image: autoDraw = False
+582.8715 	EXP 	pressSpace: autoDraw = False
+582.8715 	EXP 	vocabPicAssoc: text = u'el marat\xf3n'
+582.8715 	EXP 	TranslationTraining: text = u'marathon'
+582.8715 	EXP 	image: image = u'marat\xf3n'
+582.8715 	EXP 	vocabPicAssoc: autoDraw = True
+582.8715 	EXP 	TranslationTraining: autoDraw = True
+582.8715 	EXP 	image: autoDraw = True
+582.9749 	DATA 	Keypress: space
+582.9766 	EXP 	New trial (rep=0, index=18): OrderedDict([(u'MatchingSection', u'el jardinero?'), (u'ColumnA', u'jardinero'), (u'ColumnF', u'fregadero'), (u'ColumnJ', u'aviso'), (u'ColumnSemicolon', u'saltarlacuerda'), (u'Translation', u'gardener'), (u'CorrectAnswer', u'a'), (u'Training', None), (u'TrainingFull', u'el jardinero'), (u'imagename', u'jardinero'), (u'Counterbalance', 1)])
+582.9941 	WARNING 	Requested image u'jardinero' not found but similar filename u'jardinero.jpg' exists. This will be used instead but changing the filename is advised.
+583.0555 	EXP 	vocabPicAssoc: autoDraw = False
+583.0555 	EXP 	TranslationTraining: autoDraw = False
+583.0555 	EXP 	image: autoDraw = False
+583.0555 	EXP 	pressSpace: autoDraw = False
+583.0555 	EXP 	vocabPicAssoc: text = u'el jardinero'
+583.0555 	EXP 	TranslationTraining: text = u'gardener'
+583.0555 	EXP 	image: image = u'jardinero'
+583.0555 	EXP 	vocabPicAssoc: autoDraw = True
+583.0555 	EXP 	TranslationTraining: autoDraw = True
+583.0555 	EXP 	image: autoDraw = True
+583.1591 	DATA 	Keypress: space
+583.1610 	EXP 	New trial (rep=0, index=19): OrderedDict([(u'MatchingSection', u'la carpeta?'), (u'ColumnA', u'vaciar'), (u'ColumnF', u'marat\xf3n'), (u'ColumnJ', u'maleta'), (u'ColumnSemicolon', u'carpeta'), (u'Translation', u'folder'), (u'CorrectAnswer', u'semicolon'), (u'Training', None), (u'TrainingFull', u'la carpeta'), (u'imagename', u'carpeta'), (u'Counterbalance', 1)])
+583.1783 	WARNING 	Requested image u'carpeta' not found but similar filename u'carpeta.jpeg' exists. This will be used instead but changing the filename is advised.
+583.2057 	EXP 	vocabPicAssoc: autoDraw = False
+583.2057 	EXP 	TranslationTraining: autoDraw = False
+583.2057 	EXP 	image: autoDraw = False
+583.2057 	EXP 	pressSpace: autoDraw = False
+583.2057 	EXP 	vocabPicAssoc: text = u'la carpeta'
+583.2057 	EXP 	TranslationTraining: text = u'folder'
+583.2057 	EXP 	image: image = u'carpeta'
+583.2057 	EXP 	vocabPicAssoc: autoDraw = True
+583.2057 	EXP 	TranslationTraining: autoDraw = True
+583.2057 	EXP 	image: autoDraw = True
+583.3424 	DATA 	Keypress: space
+583.3446 	EXP 	New trial (rep=0, index=20): OrderedDict([(u'MatchingSection', u'los planos?'), (u'ColumnA', u'sucio'), (u'ColumnF', u'planos'), (u'ColumnJ', u'jardinero'), (u'ColumnSemicolon', u'monedas'), (u'Translation', u'plans, blueprints'), (u'CorrectAnswer', u'f'), (u'Training', None), (u'TrainingFull', u'los planos'), (u'imagename', u'planos'), (u'Counterbalance', 1)])
+583.3695 	WARNING 	Requested image u'planos' not found but similar filename u'planos.jpg' exists. This will be used instead but changing the filename is advised.
+583.4227 	EXP 	vocabPicAssoc: autoDraw = False
+583.4227 	EXP 	TranslationTraining: autoDraw = False
+583.4227 	EXP 	image: autoDraw = False
+583.4227 	EXP 	pressSpace: autoDraw = False
+583.4227 	EXP 	vocabPicAssoc: text = u'los planos'
+583.4227 	EXP 	TranslationTraining: text = u'plans, blueprints'
+583.4227 	EXP 	image: image = u'planos'
+583.4227 	EXP 	vocabPicAssoc: autoDraw = True
+583.4227 	EXP 	TranslationTraining: autoDraw = True
+583.4227 	EXP 	image: autoDraw = True
+583.5263 	DATA 	Keypress: space
+583.5396 	EXP 	vocabPicAssoc: autoDraw = False
+583.5396 	EXP 	TranslationTraining: autoDraw = False
+583.5396 	EXP 	image: autoDraw = False
+583.5396 	EXP 	pressSpace: autoDraw = False
+583.5396 	EXP 	text: autoDraw = True
+601.8089 	DATA 	Keypress: space
+603.1800 	DATA 	Keypress: j
+603.2149 	EXP 	Created sequence: random, trialTypes=1, nReps=999, seed=None
+603.2208 	EXP 	New trial (rep=0, index=0): None
+603.2429 	EXP 	text: autoDraw = False
+603.2429 	EXP 	instructions2: autoDraw = True
+604.4494 	DATA 	Keypress: j
+605.1355 	DATA 	Keypress: space
+605.1739 	EXP 	Imported VocabTrainingA.csv as conditions, 21 conditions, 11 params
+605.1746 	EXP 	Created sequence: random, trialTypes=21, nReps=1, seed=None
+605.1754 	EXP 	New trial (rep=0, index=0): OrderedDict([(u'MatchingSection', u'los planos?'), (u'ColumnA', u'sucio'), (u'ColumnF', u'planos'), (u'ColumnJ', u'jardinero'), (u'ColumnSemicolon', u'monedas'), (u'Translation', u'plans, blueprints'), (u'CorrectAnswer', u'f'), (u'Training', None), (u'TrainingFull', u'los planos'), (u'imagename', u'planos'), (u'Counterbalance', 1)])
+605.1759 	WARNING 	Requested image u'sucio' not found but similar filename u'sucio.jpg' exists. This will be used instead but changing the filename is advised.
+605.2102 	WARNING 	Requested image u'planos' not found but similar filename u'planos.jpg' exists. This will be used instead but changing the filename is advised.
+605.2340 	WARNING 	Requested image u'jardinero' not found but similar filename u'jardinero.jpg' exists. This will be used instead but changing the filename is advised.
+605.2719 	WARNING 	Requested image u'monedas' not found but similar filename u'monedas.jpg' exists. This will be used instead but changing the filename is advised.
+605.3320 	EXP 	instructions2: autoDraw = False
+605.3320 	EXP 	imageA: image = u'sucio'
+605.3320 	EXP 	imageF: image = u'planos'
+605.3320 	EXP 	imageJ: image = u'jardinero'
+605.3320 	EXP 	imageSemicolon: image = u'monedas'
+605.3320 	EXP 	criticalText: text = u'los planos?'
+605.3320 	EXP 	Question: autoDraw = True
+605.3320 	EXP 	imageA: autoDraw = True
+605.3320 	EXP 	imageF: autoDraw = True
+605.3320 	EXP 	imageJ: autoDraw = True
+605.3320 	EXP 	imageSemicolon: autoDraw = True
+605.3320 	EXP 	criticalText: autoDraw = True
+685.5526 	DATA 	Keypress: f
+685.5563 	EXP 	New trial (rep=0, index=1): OrderedDict([(u'MatchingSection', u'renunciar?'), (u'ColumnA', u'porche'), (u'ColumnF', u'escalera'), (u'ColumnJ', u'librero'), (u'ColumnSemicolon', u'renunciar'), (u'Translation', u'to quit'), (u'CorrectAnswer', u'semicolon'), (u'Training', None), (u'TrainingFull', u'renunciar'), (u'imagename', u'renunciar'), (u'Counterbalance', 1)])
+685.5573 	WARNING 	Requested image u'porche' not found but similar filename u'porche.jpg' exists. This will be used instead but changing the filename is advised.
+685.5812 	WARNING 	Requested image u'escalera' not found but similar filename u'escalera.jpg' exists. This will be used instead but changing the filename is advised.
+685.5977 	WARNING 	Requested image u'librero' not found but similar filename u'librero.jpg' exists. This will be used instead but changing the filename is advised.
+685.6417 	WARNING 	Requested image u'renunciar' not found but similar filename u'renunciar.jpeg' exists. This will be used instead but changing the filename is advised.
+685.6829 	EXP 	Question: autoDraw = False
+685.6829 	EXP 	imageA: autoDraw = False
+685.6829 	EXP 	imageF: autoDraw = False
+685.6829 	EXP 	imageJ: autoDraw = False
+685.6829 	EXP 	imageSemicolon: autoDraw = False
+685.6829 	EXP 	criticalText: autoDraw = False
+685.6829 	EXP 	imageA: image = u'porche'
+685.6829 	EXP 	imageF: image = u'escalera'
+685.6829 	EXP 	imageJ: image = u'librero'
+685.6829 	EXP 	imageSemicolon: image = u'renunciar'
+685.6829 	EXP 	criticalText: text = u'renunciar?'
+685.6829 	EXP 	Question: autoDraw = True
+685.6829 	EXP 	imageA: autoDraw = True
+685.6829 	EXP 	imageF: autoDraw = True
+685.6829 	EXP 	imageJ: autoDraw = True
+685.6829 	EXP 	imageSemicolon: autoDraw = True
+685.6829 	EXP 	criticalText: autoDraw = True
+687.8248 	DATA 	Keypress: semicolon
+687.8270 	EXP 	New trial (rep=0, index=2): OrderedDict([(u'MatchingSection', u'el jardinero?'), (u'ColumnA', u'jardinero'), (u'ColumnF', u'fregadero'), (u'ColumnJ', u'aviso'), (u'ColumnSemicolon', u'saltarlacuerda'), (u'Translation', u'gardener'), (u'CorrectAnswer', u'a'), (u'Training', None), (u'TrainingFull', u'el jardinero'), (u'imagename', u'jardinero'), (u'Counterbalance', 1)])
+687.8276 	WARNING 	Requested image u'jardinero' not found but similar filename u'jardinero.jpg' exists. This will be used instead but changing the filename is advised.
+687.8730 	WARNING 	Requested image u'fregadero' not found but similar filename u'fregadero.jpg' exists. This will be used instead but changing the filename is advised.
+687.9093 	WARNING 	Requested image u'aviso' not found but similar filename u'aviso.jpg' exists. This will be used instead but changing the filename is advised.
+687.9812 	WARNING 	Requested image u'saltarlacuerda' not found but similar filename u'saltarlacuerda.jpg' exists. This will be used instead but changing the filename is advised.
+688.0401 	EXP 	Question: autoDraw = False
+688.0401 	EXP 	imageA: autoDraw = False
+688.0401 	EXP 	imageF: autoDraw = False
+688.0401 	EXP 	imageJ: autoDraw = False
+688.0401 	EXP 	imageSemicolon: autoDraw = False
+688.0401 	EXP 	criticalText: autoDraw = False
+688.0401 	EXP 	imageA: image = u'jardinero'
+688.0401 	EXP 	imageF: image = u'fregadero'
+688.0401 	EXP 	imageJ: image = u'aviso'
+688.0401 	EXP 	imageSemicolon: image = u'saltarlacuerda'
+688.0401 	EXP 	criticalText: text = u'el jardinero?'
+688.0401 	EXP 	Question: autoDraw = True
+688.0401 	EXP 	imageA: autoDraw = True
+688.0401 	EXP 	imageF: autoDraw = True
+688.0401 	EXP 	imageJ: autoDraw = True
+688.0401 	EXP 	imageSemicolon: autoDraw = True
+688.0401 	EXP 	criticalText: autoDraw = True
+692.2410 	DATA 	Keypress: escape
+692.5781 	EXP 	window1: mouseVisible = True
