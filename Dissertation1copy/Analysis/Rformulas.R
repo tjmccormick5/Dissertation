@@ -88,3 +88,33 @@ ggplot(filter(analysis.df, Region == 5, ComprehensionCheckCorrect == 1, PercentC
   geom_boxplot(mapping = aes(fill = Level1))+
   scale_x_discrete() + xlab ("Proficiency Level") + ylab("Residual Reaction Times")
 summary(Anova_Reg5)
+
+
+
+
+
+voweldata <- select(Vowel_Data_Final, Level, Speaker, f1, f2)
+kmeans(voweldata, 5)
+results <- kmeans(voweldata, 5)
+results
+
+
+results_Lev1 <- kmeans(filter(voweldata, Level == 1), 5)
+results_Lev1
+
+results_Lev2 <- kmeans(filter(voweldata, Level == 2), 5)
+results_Lev3 <- kmeans(filter(voweldata, Level == 3), 5)
+
+Lev1 <- filter(Vowel_Data_Final, Level == 1)
+Lev2 <- filter(Vowel_Data_Final, Level == 2)
+Lev3 <- filter(Vowel_Data_Final, Level == 3)
+
+table(Lev1$Vowel, results_Lev1$cluster)
+table(Lev2$Vowel, results_Lev2$cluster)
+table(Lev3$Vowel, results_Lev3$cluster)
+
+
+
+ggplot(data = Vowel_Data_Final)+ 
+       geom_point(mapping = aes (x = f2, y = -f1, color = Vowel))+
+       facet_wrap(Level ~. )
