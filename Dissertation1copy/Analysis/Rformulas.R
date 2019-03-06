@@ -48,7 +48,7 @@ ggplot(analysis.df, aes(x = Level1, y = Residual))+
 #ANOVA REGION 1
 Anova_Reg1 <- aov(Residual ~ Level1 + Condition, data = filter(analysis.df, Region == 1, ComprehensionCheckCorrect == 1, PercentCorrect >= .6))
 ggplot(filter(analysis.df, Region == 1, ComprehensionCheckCorrect == 1, PercentCorrect >= .6), aes(x = Level1, y = Residual))+
-  geom_boxplot(fill = "cyan")+
+  geom_boxplot(mapping = aes(fill = Level1))+
   scale_x_discrete() + xlab ("Proficiency Level") + ylab("Residual Reaction Times")
 summary(Anova_Reg1)
 TukeyHSD(Anova_Reg1, "Level1")
@@ -57,7 +57,7 @@ TukeyHSD(Anova_Reg1, "Level1")
 #ANOVA REGION 2 
 Anova_Reg2 <- aov(Residual ~ Level1 + Condition, data = filter(analysis.df, Region == 2, ComprehensionCheckCorrect == 1, PercentCorrect >= .6))
 ggplot(filter(analysis.df, Region == 2, ComprehensionCheckCorrect == 1, PercentCorrect >= .6), aes(x = as.factor(Level1), y = Residual))+
-  geom_boxplot(fill = "cyan")+
+  geom_boxplot(mapping = aes(fill = Level1))+
   scale_x_discrete() + xlab ("Proficiency Level") + ylab("Residual Reaction Times")
 summary(Anova_Reg2)
 TukeyHSD(Anova_Reg2, "Level1")
@@ -67,7 +67,7 @@ TukeyHSD(Anova_Reg2, "Level1")
 #ANOVA REGION 3
 Anova_Reg3 <- aov(Residual ~ Level1 + Condition, data = filter(analysis.df, Region == 3, ComprehensionCheckCorrect == 1, PercentCorrect >= .6))
 ggplot(filter(analysis.df, Region == 3, ComprehensionCheckCorrect == 1, PercentCorrect >= .6), aes(x = Level1, y = Residual))+
-  geom_boxplot(fill = "cyan")+
+  geom_boxplot(mapping = aes(fill = Level1))+
   scale_x_discrete() + xlab ("Proficiency Level") + ylab("Residual Reaction Times")
 summary(Anova_Reg3)
 TukeyHSD(Anova_Reg3, "Level1")
@@ -76,7 +76,7 @@ TukeyHSD(Anova_Reg3, "Level1")
 #ANOVA REGION 4 
 Anova_Reg4 <- aov(Residual ~ Level1 + Condition, data = filter(analysis.df, Region == 4, ComprehensionCheckCorrect == 1, PercentCorrect >= .6))
 ggplot(filter(analysis.df, Region == 4, ComprehensionCheckCorrect == 1, PercentCorrect >= .6), aes(x = Level1, y = Residual))+
-  geom_boxplot(fill = "cyan")+
+  geom_boxplot(mapping = aes(fill = Level1))+
   scale_x_discrete() + xlab ("Proficiency Level") + ylab("Residual Reaction Times")
 summary(Anova_Reg4)
 
@@ -85,6 +85,6 @@ summary(Anova_Reg4)
 #ANOVA REGION 5
 Anova_Reg5 <- aov(Residual ~ Level1 + Condition, data = filter(analysis.df, Region == 5, ComprehensionCheckCorrect == 1, PercentCorrect >= .6))
 ggplot(filter(analysis.df, Region == 5, ComprehensionCheckCorrect == 1, PercentCorrect >= .6), aes(x = Level1, y = Residual))+
-  geom_boxplot(fill = "cyan")+
+  geom_boxplot(mapping = aes(fill = Level1))+
   scale_x_discrete() + xlab ("Proficiency Level") + ylab("Residual Reaction Times")
 summary(Anova_Reg5)
