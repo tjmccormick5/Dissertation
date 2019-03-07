@@ -93,7 +93,7 @@ summary(Anova_Reg5)
 
 
 
-voweldata <- select(Vowel_Data_Final, Level, Speaker, f1, f2)
+voweldata <- select(VowelDataFinal, Level, Speaker, f1, f2)
 kmeans(voweldata, 5)
 results <- kmeans(voweldata, 5)
 results
@@ -105,16 +105,37 @@ results_Lev1
 results_Lev2 <- kmeans(filter(voweldata, Level == 2), 5)
 results_Lev3 <- kmeans(filter(voweldata, Level == 3), 5)
 
-Lev1 <- filter(Vowel_Data_Final, Level == 1)
-Lev2 <- filter(Vowel_Data_Final, Level == 2)
-Lev3 <- filter(Vowel_Data_Final, Level == 3)
+Lev1 <- filter(VowelDataFinal, Level == 1)
+Lev2 <- filter(VowelDataFinal, Level == 2)
+Lev3 <- filter(VowelDataFinal, Level == 3)
 
 table(Lev1$Vowel, results_Lev1$cluster)
 table(Lev2$Vowel, results_Lev2$cluster)
 table(Lev3$Vowel, results_Lev3$cluster)
 
 
+plot(Lev1[c("f2", "f1")], col = as.factor(Lev1$Vowel))
+plot(Lev2[c("f2", "f1")], col = as.factor(Lev2$Vowel))
+plot(Lev3[c("f2", "f1")], col = as.factor(Lev3$Vowel))
+plot(Lev1[c("f2", "f1")], col = results1$cluster)
+plot(Lev2[c("f2", "f1")], col = results2$cluster)
+plot(Lev3[c("f2", "f1")], col = results3$cluster)
 
-ggplot(data = Vowel_Data_Final)+ 
-       geom_point(mapping = aes (x = f2, y = -f1, color = Vowel))+
-       facet_wrap(Level ~. )
+
+
+
+vowelnew3noU <- select(Lev3_noU, f1, f2)
+results3_noU <- kmeans(vowelnew3noU, 4)
+
+table(Lev3_noU$Vowel, results3_noU$cluster)
+
+plot(Lev3_noU[c("f2", "f1")], col = results_Lev3_noU$cluster)
+plot(Lev3_noU[c("f2", "f1")], col = results3_noU$cluster)
+plot(Lev3_noU[c("f2", "f1")], col = as.factor(Lev3_noU$Vowel))
+
+
+
+
+
+
+
