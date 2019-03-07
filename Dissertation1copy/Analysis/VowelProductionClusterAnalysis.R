@@ -1,6 +1,11 @@
+#if needed, flip data to represent vocalic space
+Vowel_Data_Final <- mutate(Vowel_Data_Final, f1 = -(f1))
+Vowel_Data_Final <- mutate(Vowel_Data_Final, f2 = -(f2))
+
 #restructure Vowel_Data_Final to be 3 smaller data sheets by level, selecting relevant columns
+
 voweldata <- select(Vowel_Data_Final, Level, Speaker, Vowel, f1, f2)
-vowels_Lev1 <- filter(voweldata, Level == 1)
+libraryvowels_Lev1 <- filter(voweldata, Level == 1)
 vowels_Lev2 <- filter(voweldata, Level == 2)
 vowels_Lev3 <- filter(voweldata, Level == 3)
 
