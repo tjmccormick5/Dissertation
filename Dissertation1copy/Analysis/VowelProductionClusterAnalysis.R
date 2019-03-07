@@ -193,3 +193,4 @@ par(mfrow = c(1, 1))
 
 # 0.9384 == maximum possible linear-weighted kappa, given the observed marginal frequencies
 # 0.8671 == observed as proportion of maximum possible
+
